@@ -1,0 +1,3 @@
+﻿03B709|[CD][78]Coliseum
+03B711|[E1][78]Choose item to bet
+03BD7C|[D5][7C]Choose a competitor:

@@ -1,0 +1,8 @@
+Damages one enemy, ignores DEF
+Inflicts equal damage to attacker
+Deals higher damage at lower HP
+Four-hit attack
+Absorbs HP [A0] MP of one enemy
+Ice+wind damage [A0] Mutes enemy
+Damages [A0] Stops all enemies
+Four-hit attack, ignores defense

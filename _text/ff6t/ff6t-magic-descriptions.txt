@@ -1,0 +1,54 @@
+Weak fire spell
+Weak ice spell
+Weak lightning spell
+Weak water spell {Adds: Poison}
+Absorbs enemy's HP
+Inflicts Sleep on target
+Medium fire spell
+Medium ice spell
+Medium lightning spell
+Med. earth spell {Adds: Petrify}
+Transforms target into a toad
+Med. dark spell {Adds: Disease}
+Powerful fire spell
+Powerful ice spell
+Powerful lightning spell
+Nullifies magical status changes
+Causes instant death
+Inflicts MP damage
+Powerful earth spell, affects all
+Powerful water spell
+Strong dark spell {Adds: Psn, Dis.}
+Absorbs enemy's MP
+Non-elemental spell, ignores DEF
+Ulti. non-elem. spell, ignores DEF
+Reduces single target's speed
+Increases single target's speed
+Stops time for single target
+Escapes from battle [A0] dungeons
+Gradually restores HP
+Causes target to float in air
+Gravity-based percentage dmg
+Sends enemy to other dimension
+Medium non-elemental spell
+Reduces all targets' speed
+Increases all targets' speed
+Activates 2~4 times, ignores DEF
+Restores small amount of HP
+Reveals enemy HP, MP, weakness
+Cures Poison [A0] Disease effects
+Inflicts Mute on target
+Increases defense
+Increases magic defense
+Restores medium amount of HP
+Turns target into berserker
+Inflicts Confusion on target
+Revives fallen target
+Cures many status effects
+Turns target invisible
+Restores large amount of HP
+Erects magic-reflecting barrier
+Creates mirages of target
+Revives target [A0] restores HP
+Pushes target to verge of death
+Powerful light spell

@@ -1,0 +1,127 @@
+
+Inn
+Weapon Shop
+Armor Shop
+Equipment Shop
+Relic Shop
+Item Shop
+Pub
+Engine Room
+Underground 1F
+Underground 2F
+Underground 3F
+Underground 4F
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+9F
+10F
+Chocobo Stable
+Figaro Castle
+South Figaro
+Returner Headquarters
+Elder's Home
+Master Duncan's Home
+Mt. Kolts
+Throne Room
+Moogle Dwelling
+Mining City of Narshe
+Auction House
+Owzer's Mansion
+Baren Falls
+Village of Mobliz
+Port Town of Nikeah
+Town of Tzen
+Returner Headquarters
+Lethe River
+Imperial Army Encampment
+Doma Castle
+Phantom Forest
+Serpent Trench
+Village of Kohlingen
+Zozo
+Town of Jidoor
+Opera House
+Imperial Capital of Vector
+Imperial Castle
+Magitek Research Facility
+Town of Maranda
+Town of Albrook
+Sealed Gate Observation Post
+Sealed Gate
+Village of Thamasa
+Dragon's Neck Coliseum
+Darill's Tomb - B1F
+Floating Continent
+Esper Village
+Mt. Zozo
+Magitek Factory
+Crescent Mountain
+Beginner's House
+Kefka's Tower
+Advanced Combat Room
+Combat Room
+Field Studies Room
+Cave to Sealed Gate
+One-Stop Shop
+Phoenix Cave
+Veldt Cave
+Labyrinth of the Ancients
+Palace?
+Forbidden Land of Eureka
+Flame Labyrinth
+Grand Cavern
+Inner Eye Labyrinth
+Holy Palace
+Cloister of Trials
+Hallway
+Treasure Storeroom
+Deepest Sanctum
+Kaiser's Lair
+Soul Shrine
+Dragons' Den
+Shrine of Repose
+Shrine of Serenity
+Soul Shrine
+Fanatics' Tower
+Ancient Castle
+Great Hall
+Treasure Storeroom
+Yeti's Cave
+Zone Eater's Innards
+Dream Dungeon
+Western Mountain
+Esper Holy Land
+Cave to South Figaro
+Crescent Mountain Cave
+Training Lodge
+Cave to Ancient Castle
+Figaro Castle - 1BF
+Tower of Ruins
+Cave on Ebot's Rock
+Underwater Cave
+Lost Path
+Darill's Tomb
+Matoya's Cave
+Developers' Room
+Dressing Room
+Collection Room
+Hall of Memories
+Mog House
+Crystal Room
+Achievement Room
+Secret Room
+Crystal Tower
+Narshe Snowfield
+Music Room
+Floating Continent
+Secluded Abode
+Hill of Despair
+House
+Tower of Essentia
+Mr. Clio's Home

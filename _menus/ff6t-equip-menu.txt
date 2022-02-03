@@ -1,0 +1,58 @@
+﻿03AB68|[A7][7C]Power
+03AB6E|[A7][7D]Stamina
+03AB76|[27][7E]Mag.Pwr
+03AB7D|[A7][7F]Evade %
+03AB85|[A7][80]MgEvade%
+03ABB4|[E7][7C]Speed
+03ABBB|[67][7E]Attack
+03ABC5|[E7][7E]Defense
+03ABCC|[E7][7F]Mag.Def
+03AB1A|[CF][78]EQUIP
+03AB20|[DD][78]BEST
+03AB28|[E9][78]REMOVE
+03AB2E|[F9][78]EMPTY
+03AAD5|[CD][7A]Head
+03AADB|[4D][7B]Body
+03AB38|[D1][78]EQUIP
+03AB3E|[DF][78]REMOVE
+03AAC8|[CD][79]RHand
+03AACE|[4D][7A]LHand
+03AB0E|[F9][78]Equip
+03AAF1|[CD][78]                            
+03AAE1|[CD][7A]Relic
+03AAE9|[4D][7B]Relic
+03AB14|[F9][78]Remove
+03AC0E|[D1][78]Equipment auto-optimized!
+03AC33|[CF][79]Prior equip. incompatible[01]with current relics
+03ABF1|[EF][79]Dual-wield 
+03ABFA|[6F][7A]Two-Handed 
+03ABE8|[6F][7A]Any-Equip
+03ABD6|[EF][79]           
+03ABDF|[6F][7A]           
+03AC03|[D3][78]All equipment removed!
+03AC1B|[63][79]All equipment removed!
+03AC26|[D1][78]Equipment auto-optimized!
+03AA28|[4D][39]RHand
+03AA2D|[69][39]LHand
+03AA33|[CD][39]Head
+03AA39|[E9][39]Body
+03AA3F|[4D][3A]Relic
+03AA45|[69][3A]Relic
+03AA4B|[4D][3B]RHand
+03AA50|[69][3B]LHand
+03AA56|[CD][3B]Head
+03AA5C|[E9][3B]Body
+03AA62|[4D][3C]Relic
+03AA68|[69][3C]Relic
+03AA6E|[4D][3D]RHand
+03AA73|[69][3D]LHand
+03AA79|[CD][3D]Head
+03AA7F|[E9][3D]Body
+03AA85|[4D][3E]Relic
+03AA8B|[69][3E]Relic
+03AA91|[4D][3F]RHand
+03AA96|[69][3F]LHand
+03AA9C|[CD][3F]Head
+03AAA2|[E9][3F]Body
+03AAA8|[4D][40]Relic
+03AAAE|[69][40]Relic

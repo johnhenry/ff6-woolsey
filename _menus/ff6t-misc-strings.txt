@@ -1,0 +1,21 @@
+55b5d0| has it equipped![00]
+55b600|[F7]White     [00]
+55b610|[F5]Black     [00]
+55b620|[F6]Space-Time[00]
+55b630| can be used by:[00]
+18e8c8|ABCDEabcde
+18e8d2|FGHIJfghij
+18e8dc|KLMNOklmno
+18e8e6|PQRSTpqrst
+18e8f0|UVWXYuvwzy
+18e8fa|Z    z    
+18e904|01234'.,?!
+18e90e|56789/~♪+-
+18e918|     …*#()
+18e922|          
+02e119|Row 
+02e121|Def.
+01414f|MPCost
+02ce00|[05][04]Right Hand[05][04]Left Hand[00]
+02E037|Esper
+0337e3|KOed[FF][FF][FF][FF]

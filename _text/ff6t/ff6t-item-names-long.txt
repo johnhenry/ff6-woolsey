@@ -1,0 +1,280 @@
+[E3]Dagger
+[E3]Mythril Knife
+[E3]Main Gauche
+[E3]Air Lancet
+[E3]Thief Knife
+[E3]Assassin Dagger
+[E3]Dancing Dagger
+[E3]Gladius
+[E3]Valiant Knife
+[E4]Mythril Blade
+[E4]Greatsword
+[E4]Rune Blade
+[E4]Flametongue
+[E4]Ice Brand
+[E4]Thunder Blade
+[E4]Enhancer
+[E4]Crystal Sword
+[E4]Break Blade
+[E6]Shadow Blade
+[E6]Blood Sword
+[E6]Hrunting
+[E6]Gram
+[E6]Arondight
+[E6]Balmung
+[E5]Defender
+[E5]Durandal
+[E5]Save the Queen
+[E5]Ragnarok
+[E5]Zantetsuken
+[E9]Mythril Spear
+[E9]Heavy Lance
+[E9]Trident
+[E9]Partisan
+[E9]Blood Lance
+[E9]Aura Lance
+[E9]Gungnir
+[E9]Dragon Spear
+[E8]Kunai
+[E8]Kodachi
+[E8]Sakura Fubuki
+[E8]Izayoi
+[E8]Narigitsune
+[E8]Kagenui
+[E7]Ashura
+[E7]Kotetsu
+[E7]Bizen Osafune
+[E7]Kikuichimonji
+[E7]Muramasa
+[E7]Mutsunokami
+[E7]Murasame
+[E7]Amanomurakumo
+[DF]Battle Bamboo
+[EC]Heal Rod
+[FC]Fire Rod
+[FC]Ice Rod
+[FC]Thunder Rod
+[DF]Octagon Pole
+[FC]Holy Rod
+[DE]Kenkonken
+[FD]Bone Club
+[EC]Zeus' Mace
+[EA]Chocobo Brush
+[EA]Magical Brush
+[EA]Lamia Brush
+[EA]Rainbow Brush
+[F0]Shuriken
+[F0]Fuuma
+[F0]Kazaguruma
+[FD]Mythril Axe
+[DE]Rising Sun
+[E2]Fire Whip
+[DE]Boomerang
+[DE]Full Moon
+[FD]Slasher
+[E2]Chain Whip
+[E2]Thunder Whip
+[FD]Earth Hammer
+[D9]Ornamental Bell
+[ED]Cards
+[ED]Darts
+[ED]Dice
+[ED]Tarot of Ben
+[ED]Loaded Dice
+[ED]Antares
+[ED]Last Resort
+[EB]Metal Knuckle
+[EB]Mythril Claw
+[EB]Kaiser Knuckle
+[EB]Dark Claw
+[EB]Burning Knuckle
+[F1]Buckler
+[F1]Large Shield
+[EB]Dragon Claw
+[EB]Tiger Fang
+[D9]Cheerphone
+[E5]Lightbringer
+[E8]Gekkabijin
+[E4]Atma Weapon
+[EA]Artemis Brush
+[E3]Cleaver
+[E3]Needle Dagger
+[E5]Maduin's Horn
+[E3]Orichalcum
+[E5]Excalibur
+[E6]Soul Eater
+[E7]Masamune
+[E8]Sasuke Katana
+[FC]Wizard Rod
+[ED]Elven Dart
+[FD]Earthbreaker
+[E2]Ryunohige
+[E9]Holy Lance
+[EB]Godhand
+[D9]Rune Bell
+[F1]Mythril Shield
+[F1]Gold Shield
+[F1]Flame Shield
+[F1]Ice Shield
+[F1]Thunder Shield
+[F1]Diamond Shield
+[F1]Crystal Shield
+[F1]Aegis Shield
+[F1]Force Shield
+[F1]Genji Shield
+[F1]Cursed Shield
+[F1]Hero Shield
+[F1]La Serafica
+[F9]Leather Hat
+[F9]Plumed Hat
+[F9]Headgear
+[F9]Magus Hat
+[F9]Priest Cap
+[F9]Green Beret
+[F9]Headband
+[F9]Gold Hairpin
+[F9]Mystery Veil
+[F9]Dark Hood
+[F9]Vow Veil
+[F9]Fiend Hood
+[F9]Cat Hood
+[F9]Lambent Hat
+[F2]Iron Helmet
+[F2]Mythril Helmet
+[F2]Gold Helmet
+[F2]Diamond Helmet
+[F2]Circlet
+[F2]Crystal Helmet
+[F2]Royal Crown
+[F2]Genji Helmet
+[F2]Grand Helm
+[FB]Barrette
+[FB]Katyusha
+[FB]Ribbon
+[FA]Cotton Robe
+[FA]Kung Fu Suit
+[FA]Mythril Vest
+[FA]Shinobi Gear
+[FA]White Dress
+[FA]Gaia Gear
+[FA]Moogle Suit
+[FA]Power Sash
+[FA]Dark Gear
+[FA]Magus Robe
+[F8]Noise Blaster
+[F8]Bio Blaster
+[F8]Sun Beam
+[F8]Chainsaw
+[F8]Particle Bomb
+[F8]Drill
+[F8]Air Anchor
+[F8]Auto Crossbow
+[D8]Fire Skean
+[D8]Water Edge
+[D8]Thunder Edge
+[D8]Inviz Edge
+[D8]Shadow Edge
+[FA]White Robe
+[FA]Black Robe
+[FA]Mirage Vest
+[FA]Minerva Bustier
+[F4]Pheasant Strap
+[FA]Rubber Suit
+[FA]Snow Muffler
+[FA]Behemoth Suit
+[F3]Leather Armor
+[F3]Iron Armor
+[F3]Mythril Armor
+[F3]Gold Armor
+[F3]Diamond Armor
+[F3]Crystal Mail
+[F3]Reflect Mail
+[F3]Force Armor
+[F3]Genji Armor
+[F3]Maximillian
+[F4]Silver Spectacles
+[0E]White Cape
+[0D]Jewel Ring
+[0D]Protect Ring
+[0F]Hermes Shoes
+[0D]Reflect Ring
+[0F]Feather Boots
+[F4]Gysahl Potpourri
+[F4]True Knight
+[0F]Dragoon Boots
+[0E]Zephyr Cape
+[F4]Earring
+[0C]Atlas Armlet
+[F4]Sneak Armlet
+[FD]Mjolnir
+[0C]Thief Gauntlet
+[0C]Gauntlet
+[0C]Genji Gauntlet
+[0C]Hyper Wrist
+[F4]Heiji's Jitte
+[F4]Merit Award
+[0D]Memento Ring
+[F4]Molulu's Charm
+[F4]Ward Bangle
+[F4]Alarm Earring
+[F4]Gale Hairpin
+[F4]Sniper Eye
+[F4]Star Pendant
+[F4]Amulet
+[F4]Tynar Rouge
+[0E]Lunar Curtain
+[0D]Peace Ring
+[F4]Power Belt
+[F4]Rage Ring
+[0E]Floral Fallal
+[FA]Lord Robe
+[E4]Omega Weapon
+[E1]Golden Apple
+[DB]Potion
+[DB]Hi-Potion
+[DB]X-Potion
+[DB]Ether
+[DB]Hi-Ether
+[DB]X-Ether
+[DB]Elixir
+[DB]Megalixir
+[DA]Phoenix Down
+[DD]Holy Water
+[DD]Antidote
+[DD]Eyedrop
+[DD]Gold Needle
+[DD]Cure-All
+[E1]Soma Drop
+[DC]Tent
+[DD]Maiden's Kiss
+[DD]Magicite Shard
+[DA]Reincarnation
+[DD]Echo Herb
+[DD]Smoke Bomb
+[DD]Teleport Stone
+[DD]Dried Meat
+
+[0D]Brave Ring
+[F4]Barrier Bracelet
+[F4]Soul of the Dead
+[F4]Prayer Beads
+[F4]Black Belt
+[F4]Dragon Horn
+[F4]Economizer
+[F4]Offering
+[0C]Bacchus Gauntlet
+[F4]Safety Bit
+[F4]Mimicon
+[0C]Epos Bracer
+[F4]Tetra Elemental
+[0E]Embroidered Tippet
+[F4]Gem Box
+[0C]Seydlitz
+[0E]Flame Cape
+[F4]Wind Corsage
+[0F]Earth Greaves
+[0C]Water Cuffs
+[F4]Maiden's Prayer
+[F4]Imp Token
+[F4]Piggy Patch
+[F4]Experience Egg

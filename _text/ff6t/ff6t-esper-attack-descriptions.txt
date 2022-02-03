@@ -1,0 +1,27 @@
+Powerful lightning attack
+Powerful fire attack
+Powerful ice attack
+Powerful wind attack
+Powerful earth attack
+Powerful dark+petrifying attack
+Non-elem. attack eff. on humans
+Powerful water attack
+Potent light attk,Blind+Disease
+2-elemental light+water attack
+3-elem. fire+ice+thunder attack
+Instantly kills all enemies
+Ultim. non-elem. atk, ignores DEF
+Non-elemental attk, ignores DEF
+Powerful gravity-based damage
+Attacks enemies and allies alike
+Transforms enemy into item
+Gradually restores party's HP
+Increases party's magic defense
+Reflective barriers on all allies
+Turns entire party invisible
+Greatly restores party's HP
+Blocks fixed amt of physical dmg
+Clears party's status effects
+Speeds up [A0] Berserks all allies
+Randomly casts support spells
+Revives all fallen party members

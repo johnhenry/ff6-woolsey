@@ -1,0 +1,512 @@
+Guard
+ImpSoldier
+Templar
+Ninja
+Samurai
+Borghese
+WomanSoldr
+Yojimbo
+Cockatrice
+Misty
+Al Jabr
+Zaghrem
+Apocrypha
+Dark Force
+AngWhisper
+Oversoul
+SkelHorror
+Commander
+Mu
+Wererat
+Robbear
+Belmodar
+Muud Suud
+Leaf Bunny
+Stray Cat
+SilverLobo
+Doberman
+Megalodoth
+Fidor
+Blizzbeast
+Nut Eater
+Chimera
+Behemoth
+Fafnir
+Lopros
+FossilDrgn
+Goblin
+FiendDragn
+Braciosaur
+Tyranosaur
+Iron Claw
+Aepyornis
+Lamia
+Saint Elmo
+Ochu
+Trapper
+Hornet
+Nettlehopr
+Piscodemon
+KllrMantis
+Cactus
+Rafflesia
+Ankheg
+Vamp Thorn
+Cartagra
+Nighthawk
+Nautiloid
+Sahagin
+Anguiform
+Leap Frog
+Lizard
+Obatoreros
+Slagworm
+Hell Rider
+Domovoy
+OnionKnght
+M.TekArmor
+Sky Armor
+Satellite
+ArmoredWpn
+Steel Bat
+BluePuddng
+Outcast
+RockGarter
+Brainpan
+Hedgehog
+Cactuar
+Kum Kum
+Harvester
+Bomb
+Spirit
+Lunatys
+VeilDancer
+Hill Gigas
+Tonberry
+Magic Urn
+Mover
+FigaroLzrd
+Fey
+Soul Eater
+Ghost
+Crawler
+Sand Ray
+Alacran
+Fon
+DkBehemoth
+Darkside
+Malboro
+Urok
+PoisnLeech
+GuardLeadr
+Corporal
+General
+Covert
+Kamui
+Rudra
+Cherry
+Joker
+Iron Fist
+Devil
+Provoker
+Cloudwrath
+Mahadeva
+VectrHound
+Peeper
+Stunner
+Sorath
+Destroyer
+Chipirabit
+Wildcat
+Bloodfang
+Hunt Hound
+Gorgias
+Don
+Flame Dog
+SkullEater
+Gorgimera
+Vampiress
+VectrLytho
+Wyvern
+ZombDragon
+Dragon
+PrimeDragn
+Weredragon
+Death Claw
+Sprinter
+BrandLamia
+Imp
+Mandrake
+Dropper
+Rock Wasp
+Grasswyrm
+SoulFlayer
+Twinscythe
+Minity
+Exoray
+Hundlegs
+Ouroboros
+SahgnChief
+Schmidt
+Devourer
+DsrtSahagn
+Gigantoad
+Basilisk
+MedusaChik
+Landworm
+Test Rider
+PlutoArmor
+OnionDashr
+HeavyArmor
+Chaser
+Gamma
+Blood Bat
+Intangir
+Misfit
+Slug
+Gatling
+Blk.Lizard
+Haokah 
+NeckHunter
+Grenade
+AllureRidr
+Pandora
+BladeDancr
+Gigantos
+Mandragora
+Lycaon
+Rustin
+Land Ray
+Antares
+Cheshire
+WhtGelatin
+Specter
+GrtMalboro
+Bonnacon
+Oceanus
+LivingDead
+Mykale
+Face
+Outsider
+Coco
+Zeveak
+Nightwalkr
+DemnKnight
+ImperElite
+DesertHare
+Dive Eagle
+Devil Fist
+Illuyankas
+Sergeant
+Neochu
+Knotty
+Lunaris
+Belzecue
+MindFlayer
+Tzakmaqiel
+Lukhavi
+Vampyr
+LandGrilon
+Goetia
+Grt.Mantis
+Bogy
+Purusa
+Blk.Dragon
+Luminesce
+Dante
+PlatDragon
+Duel Armor
+P.Bavarois
+YllwMousse
+ShamCorpse
+Punisher
+Balloon
+Coeurl
+GtBehemoth
+Scorpion
+ChaosDragn
+Spitfire
+VctChimera
+Wizard
+LamiaQueen
+Cassie
+Bug
+SnowPanthr
+Fortis
+Venobennu
+Jam
+Junk
+Lilith
+Vivian
+Amduscias
+Necromancr
+Gl.Labolas
+Red Mallow
+Cronos
+Gold Bear
+InnoSent
+Pineapple
+Garm
+Daedalus
+Baalzephon
+Thor
+DthMachine
+MetlHitman
+Io
+Tonberries
+Ymir
+AnglrWhelk
+Mega Armor
+DthPenalty
+TunnelArmr
+Prometheus
+PhntmTrain
+TonberyKng
+Shiva
+Ifrit
+Onibi
+Number 128
+Inferno
+Crane
+Crane
+Triceras
+M.TekSoldr
+Guardian
+Guardian
+Air Force
+FroznEsper
+FroznEsper
+Gil Turtle
+AtmaWeapon
+Nelapa
+BehmothKng
+Kefka
+Tentacle
+Dullahan
+Deathgaze
+Chadarnook
+Mindy
+Cindy
+Sandy
+Wrexsoul
+Revenant
+SamraiSoul
+RicardMage
+GreatDemon
+Fiend
+Goddess
+Demon
+Kefka
+MagicDragn
+Ultros
+Ultros
+Ultros
+Typhon
+Titania
+Puck
+Shade
+Yama
+Ymir
+AnglrWhelk
+Vilia
+Abbadon
+M.Tonberry
+Traveler
+Merchant
+B.Day Suit
+Tentacle
+Tentacle
+Tentacle
+RightBlade
+LeftBlade
+Rahu
+Ketu
+Alchymia
+Valgrmanda
+LasrCannon
+ManaJammer
+MissileBay
+Chadarnook
+Ice Dragon
+Kefka
+StormDragn
+EarthDragn
+Brawler
+Captain
+Soldier
+GoldDragon
+SkullDragn
+BlueDragon
+Red Dragon
+Opinicus
+Rhizopas
+Apparition
+Short Arm
+Long Arm
+Visage
+Tiger
+Machine
+Magic
+Power
+Lady
+Rest
+Erebus
+Nyx
+Iron Giant
+Deep One
+Pit Fiend
+ProtoArmor
+Sand Fish
+Soul Saver
+Ultros
+Naude
+Humbaba
+Humbaba
+Humbaba
+Humbaba
+
+
+
+Zone Eater
+
+
+
+Cadet
+Officer
+Haniel
+Omniscient
+ImpSoldier
+
+
+Rune Claw
+AtmaBuster
+Shadow
+Shinryu
+RamuhClone
+Ifrit
+ShivaClone
+SirenClone
+MidgarZolm
+Catoblepas
+Maduin
+Bismark
+Cait Sith
+MistDragon
+Valgrmanda
+Odin
+Ultima
+Bahamut
+Alexander
+Jihad
+IfritClone
+KirinClone
+ZonaSeeker
+Carbuncle
+Phantom
+SerphClone
+Golem
+Unic.Clone
+Fenr.Clone
+Asura
+Phoenix
+Tentacle
+Dullahan
+Deathgaze
+Chadarnook
+Snoll
+Omega
+DesertTrap
+MagnaRoadr
+Mini Magna
+GhostTrain
+Hidon
+Still Life
+Vargas
+Vargas
+Life Trap
+Gilgamesh
+Gilgamesh
+Mom Bomb
+Dadaluma
+Number 024
+Yeti
+Typhon
+Ice Dragon
+Draculady
+Alv
+Crys.Dragn
+Colossus
+Helldiver
+Vanguard
+Ochiudo
+NinjaMastr
+HolyDragon
+Silenus
+Li'lMurder
+Valefor
+Aeronite
+Carrot
+Apanda
+Astos
+Myrmcoleon
+Proserpine
+Donberry
+Qu.Behemth
+ShieldDrgn
+Heqet
+Korpokkur
+Emeralditn
+MoonGoddss
+Skulnant
+Azrael
+Cerberus
+Alraune
+Ironclad
+Kefka
+Audience
+ReflectBit
+Leo Reborn
+Und.Prncss
+Leviathan
+DeathRider
+EarthEater
+Seraph
+Ultima
+Carbuncle
+Valgrmanda
+Wisp
+Admantoise
+Tantarian
+Grimoire
+Last Wyrm
+MistDragon
+MistDragon
+Marilith
+Lich
+Kraken
+Tiamat
+Bahamut
+Leviathan
+Odin
+Ahriman
+TwinDragon
+Echidna
+Nightmare
+Alexander
+Asura
+Diabolos
+Titan
+Barbaricia
+Rubicante
+Scarmiglio
+Cagnazzo
+Bahamut
+Enkidu
+Barbaricia
+Rubicante
+Scarmiglio
+Cagnazzo
+Odin
+BurnTyrant
+Asura
+Shinryu

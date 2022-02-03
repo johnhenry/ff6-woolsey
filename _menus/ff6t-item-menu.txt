@@ -1,0 +1,29 @@
+0394A7|[DD][78]USE
+0394AD|[E7][78]ARRANGE
+0394B4|[F9][78]RARE
+0394A0|[CD][78]Items
+0395B5|[CD][79]Owned:
+0394FE|[2F][84]Power
+039504|[2F][85]Stamina
+03950C|[AF][85]Mag.Pwr
+039513|[2F][87]Evade %
+03951B|[2F][88]MgEvade%
+03954A|[6F][84]Speed
+039551|[EF][85]Attack
+03955B|[6F][86]Defense
+039562|[6F][87]MagDef.
+03956C|[4D][7B]Half Dmg
+039573|[CD][7B]Absorbs
+03957C|[4D][7C]Nullifies
+039582|[CD][7C]Weakness
+03958A|[4D][7B]Element
+039591|[2F][82]Bushido    OK
+03959D|[AF][82]Runic      OK
+0395A9|[2F][83]Two-Handed OK
+03C535|[2F][81]MP Critical
+038EEF|[AF][81]Back Row   OK
+038EFB|[AF][83]Throwing   OK
+038FDE|[2F][81]Eff.on humans
+038FE8|[2F][81]MP Absorb
+0358BB|[2F][81]HP Absorb
+038F14|[2F][81]Eff.on flying

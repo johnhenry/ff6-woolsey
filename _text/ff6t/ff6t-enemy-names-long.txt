@@ -1,0 +1,512 @@
+Guard
+Imperial Soldier
+Templar
+Ninja
+Samurai
+Borghese
+Woman Soldier
+Yojimbo
+Cockatrice
+Misty
+Al Jabr
+Zaghrem
+Apocrypha
+Dark Force
+Angel Whisper
+Oversoul
+Skeletal Horror
+Commander
+Mu
+Wererat
+Robbear
+Belmodar
+Muud Suud
+Leaf Bunny
+Stray Cat
+Silver Lobo
+Doberman
+Megalodoth
+Fidor
+Blizzbeast
+Nut Eater
+Chimera
+Behemoth
+Fafnir
+Lesser Lopros
+Fossil Dragon
+Goblin
+Fiend Dragon
+Brachiosaur
+Tyrannosaur
+Iron Claw
+Aepyornis
+Lamia
+Saint Elmo
+Ochu
+Trapper
+Hornet
+Nettlehopper
+Piscodaemon
+Killer Mantis
+Cactus
+Rafflesia
+Ankheg
+Vampire Thorn
+Cartagra
+Nighthawk
+Nautiloid
+Sahagin
+Anguiform
+Leap Frog
+Lizard
+Obatoreros
+Slagworm
+Hell's Rider
+Domovoy
+Onion Knight
+Magitek Armor
+Sky Armor
+Satellite
+Armored Weapon
+Steel Bat
+Blue Pudding
+Outcast
+Rock Garter
+Brainpan
+Hedgehog
+Cactuar
+Kum Kum
+Harvester
+Bomb
+Spirit
+Lunatys
+Veil Dancer
+Hill Gigas
+Tonberry
+Magic Urn
+Mover
+Figaro Lizard
+Fey
+Soul Eater
+Ghost
+Crawler
+Sand Ray
+Alacran
+Fon
+Dark Behemoth
+Darkside
+Malboro
+Urok
+Poison Leech
+Guard Leader
+Corporal
+General
+Covert
+Kamui
+Rudra
+Cherry
+Joker
+Iron Fist
+Devil
+Provoker
+Cloudwraith
+Mahadeva
+Vector Hound
+Peeper
+Stunner
+Sorath
+Destroyer
+Chippirabbit
+Wildcat
+Bloodfang
+Hunting Hound
+Gorgias
+Don
+Flame Dog
+Skull Eater
+Gorgimera
+Vampiress
+Vector Lythos
+Wyvern
+Zombie Dragon
+Dragon
+Primeval Dragon
+Weredragon
+Death Claw
+Sprinter
+Brand Lamia
+Imp
+Mandrake
+Dropper
+Rock Wasp
+Grasswyrm
+Soul Flayer
+Twinscythe
+Minity
+Exoray
+Hundlegs
+Ouroboros
+Sahagin Chief
+Schmidt
+Devourer
+Desert Sahagin
+Gigantoad
+Basilisk
+Medusa Chicken
+Landworm
+Test Rider
+Pluto Armor
+Onion Dasher
+Heavy Armor
+Chaser
+Gamma
+Blood Bat
+Intangir
+Misfit
+Slug
+Gatling
+Black Lizard
+Haokah
+Neck Hunter
+Grenade
+Alluring Rider
+Pandora
+Blade Dancer
+Gigantos
+Mandragora
+Lycaon
+Rustin
+Land Ray
+Antares
+Cheshire
+White Gelatin
+Specter
+Great Malboro
+Bonnacon
+Oceanus
+Living Dead
+Mykale
+Face
+Outsider
+Coco
+Zeveak
+Nightwalker
+Demon Knight
+Imperial Elite
+Desert Hare
+Dive Eagle
+Devil Fist
+Illuyankas
+Sergeant
+Neochu
+Knotty
+Lunaris
+Belzecue
+Mind Flayer
+Tzakmaqiel
+Lukhavi
+Vampyr
+Land Grillon
+Goetia
+Greater Mantis
+Bogy
+Purusa
+Black Dragon
+Luminescence
+Dante
+Platinum Dragon
+Duel Armor
+Purple Bavarois
+Yellow Mousse
+Shambling Corpse
+Punisher
+Balloon
+Coeurl
+Great Behemoth
+Scorpion
+Chaos Dragon
+Spitfire
+Vector Chimera
+Wizard
+Lamia Queen
+Cassie
+Bug
+Snow Panther
+Fortis
+Venobennu
+Jam
+Junk
+Lilith
+Vivian
+Amduscias
+Necromancer
+Glasya Labolas
+Red Marshmallow
+Cronos
+Gold Bear
+InnoSent
+Pineapple
+Garm
+Daedalus
+Baalzephon
+Thor
+Death Machine
+Metal Hitman
+Io
+Tonberries
+Ymir
+Angler Whelk
+Mega Armor
+Death Penalty
+Tunnel Armor
+Prometheus
+Phantom Train
+Tonberry King
+Shiva
+Ifrit
+Onibi
+Number 128
+Inferno
+Crane
+Crane
+Triceras
+Magitek Soldier
+Guardian
+Guardian
+Air Force
+Frozen Esper
+Frozen Esper
+Gil Turtle
+Atma Weapon
+Nelapa
+Behemoth King
+Kefka
+Tentacle
+Dullahan
+Deathgaze
+Chadarnook
+Mindy
+Cindy
+Sandy
+Wrexsoul
+Revenant
+Samurai Soul
+Ricard Mage
+Great Demon
+Fiend
+Goddess
+Demon
+Kefka
+Magic Dragon
+Ultros
+Ultros
+Ultros
+Typhon
+Titania
+Puck
+Shade
+Yama
+Ymir
+Angler Whelk
+Vilia
+Abbadon
+Master Tonberry
+Traveler
+Merchant
+Birthday Suit
+Tentacle
+Tentacle
+Tentacle
+Right Blade
+Left Blade
+Rahu
+Ketu
+Alchymia
+Valigarmanda
+Laser Cannon
+Mana Jammer
+Missile Bay
+Chadarnook
+Ice Dragon
+Kefka
+Storm Dragon
+Earth Dragon
+Brawler
+Captain
+Soldier
+Gold Dragon
+Skull Dragon
+Blue Dragon
+Red Dragon
+Opinicus Fish
+Rhizopas
+Apparition
+Short Arm
+Long Arm
+Visage
+Tiger
+Machine
+Magic
+Power
+Lady
+Rest
+Erebus
+Nyx
+Iron Giant
+Deep One
+Pit Fiend
+Proto Armor
+Sand Fish
+Soul Saver
+Ultros
+Naude
+Humbaba
+Humbaba
+Humbaba
+Humbaba
+
+
+
+Zone Eater
+
+
+
+Cadet
+Officer
+Haniel
+Omniscient
+Imperial Soldier
+
+
+Rune Claw
+Atma Buster
+Shadow
+Shinryu
+Ramuh Clone
+Ifrit
+Shiva Clone
+Siren Clone
+Midgar Zolom
+Catoblepas
+Maduin
+Bismark
+Cait Sith
+Mist Dragon
+Valigarmanda
+Odin
+Ultima
+Bahamut
+Alexander
+Jihad
+Ifrit Clone
+Kirin Clone
+Zona Seeker
+Carbuncle
+Phantom
+Seraph Clone
+Golem
+Unicorn Clone
+Fenrir Clone
+Asura
+Phoenix
+Tentacle
+Dullahan
+Deathgaze
+Chadarnook
+Snoll
+Omega
+Desert Trap
+Magna Roader
+Mini Magna
+Ghost Train
+Hidon
+Still Life
+Vargas
+Vargas
+Life Trap
+Gilgamesh
+Gilgamesh
+Mom Bomb
+Dadaluma
+Number 024
+Yeti
+Typhon
+Ice Dragon
+Draculady
+Alv
+Crystal Dragon
+Colossus
+Helldiver
+Vanguard
+Ochiudo
+Ninja Master
+Holy Dragon
+Silenus
+Li'l Murderer
+Valefor
+Aeronite
+Carrot
+Apanda
+Astos
+Myrmecoleon
+Proserpine
+Donberry
+Queen Behemoth
+Shield Dragon
+Heqet
+Korpokkur
+Emeralditan
+Moon Goddess
+Skulnant
+Azrael
+Cerberus
+Alraune
+Ironclad
+Kefka
+Audience
+Reflect Bit
+Leo Reborn
+Undead Princess
+Leviathan
+Death Rider
+Earth Eater
+Seraph
+Ultima
+Carbuncle
+Valigarmanda
+Wisp
+Adamantoise
+Tantarian
+Grimoire
+Last Wyrm
+Mist Dragon
+Mist Dragon
+Marilith
+Lich
+Kraken
+Tiamat
+Bahamut
+Leviathan
+Odin
+Ahriman
+Twinhead Dragon
+Echidna
+Nightmare
+Alexander
+Asura
+Diabolos
+Titan
+Barbariccia
+Rubicante
+Scarmiglione
+Cagnazzo
+Bahamut
+Enkidu
+Barbariccia
+Rubicante
+Scarmiglione
+Cagnazzo
+Odin
+Burn Tyrant
+Asura
+Shinryu

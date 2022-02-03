@@ -1,0 +1,818 @@
+Self-defense weapon designed
+for ease of use
+--------------------
+Knife made of precious mythril
+metal
+--------------------
+Combat dagger that can also
+block attacks on occasion
+--------------------
+Knife that can cut the air itself
+with its unique blade
+--------------------
+Knife favored by thieves
+{Chance for Mug}
+--------------------
+Dagger used for assassinations
+{Chance for instant death}
+--------------------
+Dagger housing a dancer's soul
+{Chance for Dance}
+--------------------
+Sacred knife imbued with holy
+power
+--------------------
+Knife that thirsts for danger
+{Attack up at low HP}
+--------------------
+Sword made of precious mythril
+metal
+--------------------
+Hefty, wide-bladed sword
+--------------------
+Sword adorned with ancient
+writing
+--------------------
+Sword with Ifrit's power
+{Adds: Fire}
+--------------------
+Sword with Shiva's power
+{Adds: Blizzard}
+--------------------
+Sword with Ramuh's power
+{Adds: Thunder}
+--------------------
+Sword that can dispel magic
+{Adds: Dispel}
+--------------------
+Sword made of mystical crystal
+--------------------
+Sword with Catoblepas' power
+{Adds: Break}
+--------------------
+Dark sword that can even cut
+shadows
+--------------------
+Bloodstained sword with a dark
+crimson blade
+--------------------
+Dark sword tempered in blood
+{Adds: Bio}
+--------------------
+Dark sword pulsing with fury
+{Physical attack up}
+--------------------
+Dark sword with a blue blade
+{Adds: Blizzara}
+--------------------
+Dark sword once wielded by a
+hero to slay a dragon
+--------------------
+Wide-bladed knight sword made
+of sturdy steel
+--------------------
+Holy knight sword said to have
+been forged by feys
+--------------------
+Sword forged to protect a queen
+{Cover/Auto-Protect}
+--------------------
+Knight sword of the end times
+{Auto-Shell}
+--------------------
+Knight sword wielded by Odin
+{Chance for Zantetsuken}
+--------------------
+Spear made of precious mythril
+metal
+--------------------
+Hefty, wide-bladed spear
+--------------------
+Three-pronged spear imbued
+with the power of a sea god
+--------------------
+Ornate spear used for combat
+and decorative purposes
+--------------------
+Bloodstained spear with a dark
+crimson blade
+--------------------
+Enormous spear that radiates
+a bright, dazzling light
+--------------------
+Legendary spear of the gods
+{Multi-Jump}
+--------------------
+Basic spear housing the spirit
+of a flying dragon
+--------------------
+Multi-purpose ninja weapon
+{Dual-Wield}
+--------------------
+Katana designed for mobility
+{Dual-Wield}
+--------------------
+Katana showing a foreign flower
+{Dual-Wield}
+--------------------
+Ninja sword w/ moon-like shine
+{Dual-Wield/Adds: Sleep}
+--------------------
+Ninja sword, hums when swung
+{Dual-Wield}
+--------------------
+Ninja sword, stitches shadows
+{Dual-Wield/Adds: Stop}
+--------------------
+Katana named after an avatar
+of war
+--------------------
+Katana with a tiger masterfully
+etched into the blade
+--------------------
+Katana made using high quality
+iron sand
+--------------------
+Katana with a chrysanthemum
+scabbard motif
+--------------------
+Mystical katana with an
+extraordinarily sharp blade
+--------------------
+Katana wielded by a Doman hero
+{+25% HP}
+--------------------
+Katana with a wet blade, as if
+it were weeping
+--------------------
+Katana from Doman legends
+{Physical Attack up}
+--------------------
+Long bamboo club designed for
+strike and thrust attacks 
+--------------------
+Wooden staff with spirit power
+{HP Recovery attack}
+--------------------
+Rod with the power of fire
+{As Item: Casts Fira}
+--------------------
+Rod with the power of ice
+{As Item: Casts Blizzara}
+--------------------
+Rod with the power of lightning
+{As Item: Casts Thundara}
+--------------------
+8-sided club covered in iron
+{Adds: Toad}
+--------------------
+Rod imbued with holy power
+{As Item: Casts Holy}
+--------------------
+Ancient throwing weapon
+{Blade Grasp}
+--------------------
+Huge club with beautiful etchings
+{Two-Handed}
+--------------------
+Mace of damnation once held
+by a god
+--------------------
+Brush made of chocobo feathers
+{Improves Sketch}
+--------------------
+Paintbrush with magical power
+{Improves Sketch}
+--------------------
+Alluring lamia hair paintbrush
+{Improves Sketch/Adds: Conf.}
+--------------------
+Brush that can produce rainbows
+{Improves Sketch}
+--------------------
+Throwing weapon used by ninjas
+{Dual-Wield}
+--------------------
+Shuriken of a famous ninja clan
+{Dual-Wield}
+--------------------
+A certain ninja's deadly weapon
+{Dual-Wield}
+--------------------
+Axe made of precious mythril
+metal
+--------------------
+Steel throwing weapon with a
+sharpened outer edge
+--------------------
+Whip made of fiery Garm hide
+{Adds: Fira}
+--------------------
+Wooden throwing weapon
+--------------------
+Disc-shaped throwing weapon
+with a bladed edge
+--------------------
+Hand axe that deals heavy hits
+{Adds: Slow}
+--------------------
+Whip formed from an iron chain
+--------------------
+Whip with lightning magic
+{Adds: Thundara}
+--------------------
+Hammer once wielded by Titan
+{Adds: Quake}
+--------------------
+Glass bell imbued with magic
+power
+--------------------
+Special card deck used in
+casinos
+--------------------
+Darts modified for combat use
+--------------------
+Pair of dice that deal more
+damage the higher they roll
+--------------------
+Illustrated by a famous painter
+{Adds: Death}
+--------------------
+Trio of dice that deal more
+damage the higher they roll
+--------------------
+Darts tipped w/ scorpion venom
+{Adds: Scourge}
+--------------------
+Trump cards with sharp edges
+{Attack up at low HP}
+--------------------
+Iron combat knuckle
+--------------------
+Mythril fighting claw
+--------------------
+Fighting knuckle that bears the
+name of the emperor
+--------------------
+Bone claw of a dead magic beast
+{Adds: Poison}
+--------------------
+Knuckle that can ignite fires
+{Adds: Fire}
+--------------------
+Small shield designed for close
+combat
+--------------------
+Large, sturdy shield made of
+steel
+--------------------
+Fighting claw made from a
+dragon's talon and scales
+--------------------
+Claw of the legendary holy
+beast Byakko
+--------------------
+Bell for encouraging allies
+{Adds: Mute}
+--------------------
+Holy knight sword given by a god
+{Adds: Flare}
+--------------------
+Acutely beautiful ninja sword
+{Dual-Wield/+12% MP}
+--------------------
+Unusual sword of ancient origin
+{Higher damage at lower HP}
+--------------------
+Brush w/ a moon goddess' name
+{Impr. Sketch/Adds: Tornado}
+--------------------
+Cursed cleaver wielded by the
+merciless Tonberry
+--------------------
+Sharp, needle-like dagger
+designed to be thrown
+--------------------
+"In you,the world's hope [A0] love[AA]
+{Adds: X-Magic, Maduin}
+--------------------
+Changes sharpness with wielder
+{Improves Steal/Adds: Aspir}
+--------------------
+Knight sword of king of kings
+{Auto-Regen/Adds: Comet}
+--------------------
+Dark sword said to devour souls
+{Adds: Rasp}
+--------------------
+Forged by legendary swordsmith
+{Auto-Haste/Pre.Attack/Alert}
+--------------------
+Katana used by legendary ninja
+{Dual-Wield/Blade Grasp}
+--------------------
+Rod used by a renowned wizard
+{Magic Attack up}
+--------------------
+Dart decorated w/ fairy wings
+{Barrage}
+--------------------
+Crude, earth-cleaving axe
+{+50% Power}
+--------------------
+Whip with Leviathan's power
+{Wall at low HP/Adds: Flood}
+--------------------
+Trident tempered w/ holy water
+{Adds: Holy}
+--------------------
+Mighty claw of a deity
+{Aim}
+--------------------
+Magic bell created by Ancients
+{All-elemental attack}
+--------------------
+Shield made of precious mythril
+--------------------
+Shield made of solid gold
+--------------------
+Shield decorated with dark
+red gemstones
+--------------------
+Shield decorated with light
+blue gemstones
+--------------------
+Shield decorated with light
+yellow gemstones
+--------------------
+Shield made of
+lightning-resistant diamond
+--------------------
+Shield made of mystical crystal
+{Immune: Toad}
+--------------------
+Modeled after a god's cuirass
+{Immune: Stone}
+--------------------
+Magic shield that generates a
+force field around its user
+--------------------
+Pure black shield made w/ the
+techniques of a foreign land
+--------------------
+Blood-smeared shield that
+carries a horrifying curse
+--------------------
+Shield used by a mythical hero
+{+12% HP/Immune: All elem.}
+--------------------
+Holy shield with prismatic shine
+{Absorbs: All elements}
+--------------------
+Hat made from Nut Eater hide
+--------------------
+Light cap decorated with
+Cockatrice feathers
+--------------------
+Defensive equipment that
+protects the face and ears
+--------------------
+Hat topped with a magical,
+triangular pattern
+--------------------
+Fine headwear used by priests
+{+12% MP}
+--------------------
+Worn by special task forces
+{+12% HP}
+--------------------
+Cloth worn around the head
+{Immune: Sleep}
+--------------------
+Beautiful, pure gold hairpin
+{Halves: MP costs}
+--------------------
+Lady's veil, particularly favored
+by young dancers
+--------------------
+Black headwear of foreign origin
+{Immune: Poison}
+--------------------
+Veil used at wedding ceremonies
+--------------------
+Hat with a magical fiend's power
+{+25% MP}
+--------------------
+Large hood with cat ears on top
+{Auto-Regen/Double gil}
+--------------------
+Hat with crystal spirit power
+{Halves: All elements}
+--------------------
+Sturdy helmet made of iron
+--------------------
+Helmet made of precious mythril
+metal
+--------------------
+Mythril helmet decorated with
+gold
+--------------------
+Helmet made of
+lightning-resistant diamond
+--------------------
+Headgear with magical stones
+{Immune: Mute}
+--------------------
+Helmet made of mystical crystal
+--------------------
+Crown of Figaro royal family
+{Immune: Zombie}
+--------------------
+Pure black helmet made w/ the
+techniques of a foreign land
+--------------------
+Helmet used by a mythical hero
+{+25% HP}
+--------------------
+Barrette that blocks ailments
+{Imm.:Toad,Blind,Poison,Sleep}
+--------------------
+Hairband that blocks ailments
+{Imm.: Stone,Bers.,Conf.,Mute}
+--------------------
+Cute ribbon that blocks ailments
+{Immune: Most status ailments}
+--------------------
+Simple robe made of cotton
+--------------------
+Training uniform worn by
+martial artists
+--------------------
+Clothing covered with small
+mythril plates
+--------------------
+Foreign attire suited for covert
+operations
+--------------------
+Pure white dress that boosts
+the wearer's magic power
+--------------------
+Clothing made from fabric with
+a striking pattern
+--------------------
+Full-body moogle suit
+{Transform into moogle}
+--------------------
+Special sash designed with
+mobility in mind
+--------------------
+Black combat outfit of foreign
+origin
+--------------------
+Robe from an age of magic
+{Immune: Death sentence}
+--------------------
+Tool that produces a sound that
+confuses monsters
+--------------------
+Tool that magically enhances
+bacteria to poison enemies
+--------------------
+Tool that emits intense light
+to blind enemies
+--------------------
+Tool with a spinning blade
+{Chance of instant death}
+--------------------
+Launches a magic-infused bomb
+Causes eventual death
+--------------------
+Tool that can pierce armor
+Ignores enemy's Defense
+--------------------
+Fires blasts that make an enemy
+self-destruct upon moving
+--------------------
+Tool that automatically fires
+a barrage of arrows
+--------------------
+Explosive ninja tool
+Inflicts fire damage [A0] Blind
+--------------------
+Water-based ninja tool
+Inflicts water dmg [A0] Mute
+--------------------
+Ninja tool that attracts lightning
+Inflicts lightning dmg [A0] Slow
+--------------------
+Stealthy ninja tool
+Turns user invisible
+--------------------
+Deceptive ninja tool
+Produces mirages of user
+--------------------
+Pure white robe given to those
+who master white magic
+--------------------
+Pure black robe given to those
+who master black magic
+--------------------
+Vest that produces mirages
+{Auto-Blink}
+--------------------
+Bustier with a goddess' power
+{+12% MP}
+--------------------
+Small strap worn by hunters
+{Animal}
+--------------------
+Rubber suit that hugs the body
+{+12% HP}
+--------------------
+Warm muffler handmade by
+moogles
+--------------------
+Full-body Behemoth suit
+{+50% Power}
+--------------------
+Armor made from the tanned
+hide of a Mu
+--------------------
+Sturdy armor made of iron
+--------------------
+Armor made of precious mythril
+metal
+--------------------
+Gold armor with an engraving
+of Unicorn, the forest esper
+--------------------
+Armor made of
+lightning-resistant diamond
+--------------------
+Armor made of mystical crystal
+--------------------
+Golden armor w/ a mirror sheen
+{Auto-Reflect}
+--------------------
+Armor w/ anti-magic force field
+{Auto-Shell}
+--------------------
+Pure black shield, foreign origin
+{Immune: Zombie}
+--------------------
+Armor used by a mythical hero
+{+25% HP/Imm.:Instant death}
+--------------------
+Silver-rimmed spectacles
+{Immune: Blind}
+--------------------
+Cape made of pure white silk
+{Immune: Toad}
+--------------------
+Gorgeous ring studded w/ opal
+{Immune: Stone}
+--------------------
+Topaz ring with defense magic
+{Auto-Protect}
+--------------------
+Speedy, brand-name shoes
+{Auto-Haste}
+--------------------
+Anti-magic moonstone ring
+{Auto-Reflect}
+--------------------
+Anti-gravity boots of Ancients
+{Auto-Float}
+--------------------
+Made of chocobos' favorite food
+{Immune: Mute, Sleep}
+--------------------
+Book about knights' mottoes
+{Cover/Protect at low HP}
+--------------------
+Boots once used by a dragoon
+{Jump}
+--------------------
+Cape with esper Sylph's power
+{Physical [A0] Magic evasion up}
+--------------------
+Ruby earring that boosts magic
+{Magic attack up}
+--------------------
+Armlet once equipped by a giant
+{Physical attack up}
+--------------------
+Ring imbued w/ a thief's power
+{Improves Steal}
+--------------------
+Absolutely indomitable hammer
+{Aim/Adds: Thundaga}
+--------------------
+Gloves that enhance flexibility
+{Mug}
+--------------------
+Battle gauntlets used by knights
+{Two-Handed/Shell at low HP}
+--------------------
+Pure black, foreign gauntlet
+{Dual-Wield}
+--------------------
+Gloves with strong wrist support
+{+50% Power}
+--------------------
+Odd weapon from a foreign land
+{Gil Toss}
+--------------------
+Award for great achievements
+{Can wear any equipment}
+--------------------
+Diamond ring w/ a family's love
+{Imm.:InstDth,DthSent.,Zomb.}
+--------------------
+Charm filled w/ Molulu's hopes
+{Prevents random battles}
+--------------------
+Sapphire armlet, wards off evil
+{Fewer random battles}
+--------------------
+Earring that detects enemies
+{Alert}
+--------------------
+Enhances battlefield awareness
+{Pre-emptive attack}
+--------------------
+Pinpoints enemy movements
+{Aim}
+--------------------
+Star-shaped pendant
+{Immune: Poison}
+--------------------
+Blessed amethyst charm
+{Immune: Zombie}
+--------------------
+"Magic Light Fairy[AA] brand lipstick
+{Auto-Wall/Auto-Regen}
+--------------------
+Thin silk bathed in moonlight
+{Auto-Reflect at low HP}
+--------------------
+Calming aquamarine ring
+{Immune: Confuse, Berserk}
+--------------------
+Belt that fires up its wearer
+{Extreme Berserk}
+--------------------
+Ring made from Deathgaze claw
+{Ally Toss} {+50% Power}
+--------------------
+Frill designed by flower goddess
+{+50% HP/+25% MP}
+--------------------
+Robe with an angel's blessing
+{Imm:InsDth,Zmb/Half:MPcost}
+--------------------
+Another sword of ancient civiliz.
+{Over-Technology}
+--------------------
+Legendary fruit of the gods
+Increases maximum HP
+--------------------
+Medicine that restores HP
+--------------------
+Medicine that restores HP
+Stronger than Potions
+--------------------
+Medicine that restores HP
+Stronger than Hi-Potions
+--------------------
+Medicine that restores MP
+--------------------
+Medicine that restores MP
+Stronger than Ethers
+--------------------
+Medicine that restores MP
+Stronger than Hi-Ethers
+--------------------
+Medicine that fully restores
+HP and MP
+--------------------
+Medicine that fully restores
+the entire party's HP and MP
+--------------------
+Down feather of esper Phoenix
+Revives fallen target
+--------------------
+Water blessed by a priest
+Cures Zombie status ailment
+--------------------
+Medicine that neutralizes poison
+Cures Poison status ailment
+--------------------
+Medicine that restores sight
+Cures Blind status ailment
+--------------------
+Purified white gold needle
+Cures Stone status ailment
+--------------------
+Compound medicine that cures
+a wide variety of ailments
+--------------------
+Sacred water from a ley line
+Increases maximum MP
+--------------------
+Tent for the full party to rest
+Restores HP and MP
+--------------------
+Medicine made of alpine dew
+Cures Toad status ailment
+--------------------
+Shattered magicite piece
+Summons a random esper
+--------------------
+Medicine made from a Phx. Down
+Fully restores a fallen target
+--------------------
+Tonic made w/ perennial plants
+Cures Mute status ailment
+--------------------
+Smoke-producing explosive
+Allows escape from battles
+--------------------
+Stone with teleportation magic
+Allows escape from dungeons
+--------------------
+Mobliz's famous dried meat
+Feed your wild hunger!
+--------------------
+Defensive weapon designed with
+ease of use in mind
+--------------------
+Amethyst ring of true bravery
+{Physical [A0] Magic attack up}
+--------------------
+Holds protective emerald magic
+{Auto-Wall}
+--------------------
+Soul taken from the underworld
+{Transform into zombie}
+--------------------
+Charm of foreign swordsmen
+{Blade Grasp}
+--------------------
+Black belt from a foreign land
+{Counter}
+--------------------
+Horn of extinct flying dragon
+{Multi-Jump}
+--------------------
+Charm made from 3 star shards
+{All spells cost 1 MP}
+--------------------
+Badge of accomplished fighters
+{Barrage}
+--------------------
+Activates deep fighting instinct
+{Auto-Berserk}
+--------------------
+Small orb, flies around wearer
+{Immune: Inst. death, Zombie}
+--------------------
+Holds hidden secrets of mimicry
+{Special command changes}
+--------------------
+Gauntlet used by a mythical hero
+{Dual-Wield/Phys. attack up}
+--------------------
+Protects from 4 main elements
+{Absorbs four main elements}
+--------------------
+Feather-decorated embroidery
+{Bless}
+--------------------
+Antique trinket of wizard village
+{X-Magic}
+--------------------
+Armlet of a famous general
+{Shock}
+--------------------
+Fire Fiend's crimson cape
+{Cover/Auto-Regen}
+--------------------
+Wind Fiend's flower headwear
+{Aim/Auto-Haste}
+--------------------
+Earth Fiend's crude footwear
+{Alert/Auto-Protect}
+--------------------
+Water Fiend's magic handwear
+{Counter/Auto-Shell}
+--------------------
+Magic perfume with a nice scent
+{Pray}
+--------------------
+Strange charm! Imp-appa!
+{Transform into imp}
+--------------------
+Patch imbued with Piggy spell
+{Transform into pig}
+--------------------

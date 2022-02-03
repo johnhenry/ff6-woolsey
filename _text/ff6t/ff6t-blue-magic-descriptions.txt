@@ -1,0 +1,24 @@
+Begins a death countdown
+Kills a random ally or enemy
+Inflicts MP dmg, Mute, Disease
+2-elem. water [A0] wind attack
+Powerful wind spell
+Deals 1000 damage
+Casts Protect, Shell, [A0] Regen
+Deals dmg based on curr. HP loss
+Restores allies' HP, cures poison
+Casts Death if LV divisible by ?
+Casts Flare if LV divisible by 3
+Casts Stop+Slow if LV divis. by 4
+Sleep effect on enemies [A0] allies
+Casts Holy if LV divisible by 2
+Deals dmg based on steps taken
+Nullifies random element
+Halves one enemy's level
+Inflicts dark damage [A0] ailments
+Absorbs 1/8 of one enemy's MP
+Swaps status with target
+Summons random esper
+Damage+ailments, ignores DEF
+Dmg+cancels magic, ignores DEF
+Converts remaining HP into dmg

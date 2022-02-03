@@ -1,0 +1,21 @@
+03D257|[CD][78]Weapons
+03D25D|[CF][78]Armor
+03D264|[CF][78]Items
+03D26B|[CD][78]Relics
+03D275|[CD][78]Peddler
+03D27E|[CF][79]Buy  Sell  Exit
+03D28B|[01][7A]G[68]
+03D290|[EB][7A]G[68]
+03D295|[73][7A]Owned:
+03D29F|[73][7B]Equipped:
+03D2AB|[55][7B]Attack…
+03D2B7|[55][7B]Defense
+03D2C2|[DF][78]How can I help you?
+03D2D8|[DF][78]Whatcha buyin'!?   
+03D2EE|[DF][78]How many you want!?
+03D300|[DF][78]Whatcha sellin'!?  
+03D316|[DF][78]Sell how many?     
+03D327|[DF][78]Thanks! Come again!
+03D33D|[DF][78]Not enough money!  
+03D351|[DF][78]Can't carry more!  
+03D363|[DF][78]One's all you need!

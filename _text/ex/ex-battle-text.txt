@@ -1,0 +1,256 @@
+Failed!
+Enemy has no items!
+Couldn't steal!
+Stole [ITEM]!
+Can't control!
+Can't leap!
+Stumbled!
+Mugu mugu?
+No Gil to throw!
+Can't run away!
+Can't escape!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Now weak to some elements!
+Move and you're done for!
+Can't possess!
+Weak against fire.
+Weak against ice.
+Weak against lightning.
+Weak against darkness.
+Weak against wind.
+Weak against light.
+Weak against earth.
+Weak against water.
+I dub thee… [ITEM]!
+[ITEM] shattered!
+Can't sketch!
+Obtained [ITEM].[WAIT]
+Obtained [ITEM] [77] [11].[WAIT]
+Preemptive strike!
+Back attack!
+Side attack!
+Surrounded!
+Obtained [11] Gil.[WAIT]
+Earned [10] EXP.[WAIT]
+Not enough MP.
+The party has fallen…[WAIT]
+Dispelled the shield's curse![WAIT]
+Level halved!
+Unable to scan!
+Learned [SKILL]![WAIT]
+[ACTOR] gained a level![WAIT]
+No weaknesses.
+HP: [10]/[11]
+MP: [10]/[11]
+[ACTOR] learned [SKILL]![WAIT]
+Devised a new blitz technique![WAIT]
+Level: [10]
+Earned [10] magic AP.[WAIT]
+Banon has fallen…
+Now immune to fire
+Now immune to ice
+Now immune to lightning
+Now immune to poison
+Now immune to wind
+Now immune to holy
+Now immune to earth
+Now immune to water
+Stole [11] Gil!
+Mastered a new dance![WAIT]
+Can't throw!
+Learned bushido technique![WAIT]
+Incorrect blitz input!
+Organyx shattered!
+The prayer caused a miracle!
+WEIRD THING 70 decimal
+WEIRD THING 71 decimal
+WEIRD THING 72 decimal
+WEIRD THING 73 decimal
+WEIRD THING 74 decimal
+WEIRD THING 75 decimal
+WEIRD THING 76 decimal
+Name: [12][01]
+WEIRD THING 78 decimal
+WEIRD THING 79 decimal
+WEIRD THING 80 decimal
+WEIRD THING 81 decimal
+WEIRD THING 82 decimal
+WEIRD THING 83 decimal
+WEIRD THING 84 decimal
+WEIRD THING 85 decimal
+WEIRD THING 86 decimal
+
+Caught enemy by surprise!
+WEIRD THING 89 decimal
+WEIRD THING 90 decimal
+WEIRD THING 91 decimal
+WEIRD THING 92 decimal
+WEIRD THING 93 decimal
+WEIRD THING 94 decimal
+WEIRD THING 95 decimal
+WEIRD THING 96 decimal
+WEIRD THING 97 decimal
+WEIRD THING 98 decimal
+WEIRD THING 99 decimal
+WEIRD THING 100 decimal
+
+Surrounded!
+WEIRD THING 103 decimal
+WEIRD THING 104 decimal
+WEIRD THING 105 decimal
+WEIRD THING 106 decimal
+WEIRD THING 107 decimal
+WEIRD THING 108 decimal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Casts Death if LV divis. by ?
+Casts Flare if LV divis. by 3
+Casts Stop if LV divis. by 4
+Casts ??? if Reflect status
+Casts Holy if LV divis. by 2
+
+
+Level halved!
+
+
+Status effects exchanged!
+WEIRD THING 159 DECIMAL
+
+
+
+Ribbit, ribbit!
+
+
+Rise, my zombie!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Be frozen!
+
+Protect me!
+……!
+…!
+!
+
+
+
+Hit your friends 'til they die!
+Be frozen!
+
+
+
+
+
+Mmm… Munch, munch!
+
+
+
+
+
+
+Death won't lift this curse!
+
+
+
+
+Magic will drop 'til you die!
+
+
+
+A zombie, you will be!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+﻿03B5FA|[D1][3F]End
+03B600|[51][39]Reset
+03B608|[D7][38]Arrange Party Order
+038229|[DD][38]Form   party         
+038230|[DD][38]Form   parties       
+03823D|[CD][38]Party
+038244|[DD][38]Not enough parties!  
+038258|[DD][38]Party is empty!         

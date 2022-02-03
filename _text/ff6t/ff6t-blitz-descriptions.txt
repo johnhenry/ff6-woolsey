@@ -1,0 +1,8 @@
+Damages one enemy, ignores DEF
+Light-element dmg to one enemy
+Damages one enemy, ignores DEF
+Fire damage to all enemies
+Restores others' HP, cures poison
+Wind damage to all enemies
+Three-hit attack
+Deals dmg based on current HP

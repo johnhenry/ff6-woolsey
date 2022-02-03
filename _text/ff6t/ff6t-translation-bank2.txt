@@ -1,0 +1,8033 @@
+Owzer: Hrm? That claw…
+[NEWPAGE]
+"We got it off a monster named
+[SPACE_07]Deathgaze."
+[NEWPAGE]
+Owzer: My lands! You actually
+downed that ancient beast!?
+[NEWPAGE]
+Owzer: Deathgaze is-- I mean,
+was, a legendary monster.
+He's even mentioned in some
+ancient books I've collected.
+[NEWPAGE]
+Owzer: I can't believe someone
+actually took down that fiend…
+Just incredible!
+[NEWPAGE]
+Oh, here! [LONGPAUSE]Take this with you!
+--------------------
+Lure monsters onto the Veldt?
+[CHOICE] Yes, please
+[CHOICE] No, thank you
+--------------------
+Owzer: You managed to beat a
+legendary monster. No doubt
+you have what it takes to save
+our world, too.
+[NEWPAGE]
+I know it's not much, but I'm
+rooting for you. Go show the
+world what you're made of!
+--------------------
+Owzer: Hmm… I have a fine
+idea.
+[NEWPAGE]
+If you DO save the world,
+perhaps I'll celebrate by
+painting your portraits for
+display in my gallery.
+--------------------
+[CELES]: I'll go to the Empire
+alone. I'm the most familiar
+with its inner workings.
+[NEWPAGE]
+[SABIN]: But won't it be
+too dangerous by yourself…?
+--------------------
+[CELES]: …M- [LONGPAUSE]me?
+--------------------
+[CELES]: Now just a minute…
+--------------------
+[CELES]: H-hold on here! [LONGPAUSE]
+I'm a former general, not
+some opera floozy!
+--------------------
+[CELES]: [LOCKE]. [LONGPAUSE]
+Why did you help me back
+then?
+--------------------
+[CELES]: Am I just a
+replacement… [LONGPAUSE]for her?
+--------------------
+[CELES]: I have to go on
+stage soon. This next scene's
+an important one.
+[NEWPAGE]
+Maria starts to worry that
+something's happened to Draco,
+and pours her feelings into
+song.
+--------------------
+[LOCKE]: You're a natural,
+[CELES].
+[CELES]: Quit teasing me!
+--------------------
+[CELES]: Here he comes.
+--------------------
+[CELES]: [SETZER], we need
+your help. We need to get to
+Vector. Your ship is the only[64][64]
+--------------------
+[CELES]: Wait! [LONGPAUSE]
+We heard that your ship is the
+finest vessel in the world.
+--------------------
+[CELES]: You're not the only
+one suffering.
+[NEWPAGE]
+The Empire has been toppling
+towns and villages left and
+right…
+--------------------
+[CELES]: We're at least
+together in hating the Empire,
+right? [LONGPAUSE]So, please…
+[NEWPAGE]
+[SETZER]: You know, I think
+you may be even prettier than
+Maria.
+[NEWPAGE]
+[CELES]: Huh?
+--------------------
+[CELES]: …Fine.
+--------------------
+[CELES]: But only on one
+condition.
+--------------------
+We flip this coin. If it's heads
+you help us. If it's tails, I'm
+yours. [LONGPAUSE]
+Well, [LONGPAUSE]Mr. Gambler?
+--------------------
+[CELES]: Ready?
+--------------------
+[CELES]: Heads… I win.
+Now it's time for you to hold
+up your end of the bargain.
+--------------------
+[CELES]: I'm afraid you've
+been hustled, Mr. Gambler. [LONGPAUSE]
+But that's part of the game,
+now, isn't it?
+--------------------
+[CELES]: No… [LONGPAUSE]
+You see, [LONGPAUSE]I…
+--------------------
+[LOCKE]: [CELES]!
+You… tricked us!?
+[NEWPAGE]
+[CELES]: Of course not!
+Please, trust me!
+--------------------
+[CYAN]: Hmph. I knew she
+was not to be trusted!
+--------------------
+[CELES]: [LOCKE]… [LONGPAUSE]
+It's my turn to protect you
+now…
+[NEWPAGE]
+And then maybe… [LONGPAUSE]
+…maybe you'll believe me.
+--------------------
+5000 Gil!
+--------------------
+6000 Gil!
+--------------------
+[CHOICE] (Bid 7000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+7000 Gil!
+--------------------
+8000 Gil!
+--------------------
+9000 Gil!
+--------------------
+10,000 Gil!
+--------------------
+[CHOICE] (Bid 12,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+12,000 Gil!!
+--------------------
+15,000 Gil!
+--------------------
+18,000 Gil!
+--------------------
+20,000 Gil!
+--------------------
+[CHOICE] (Bid 22,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+22,000 Gil!!!
+--------------------
+25,000 Gil!
+--------------------
+Ack…! That's it!
+I'm going all-in!
+--------------------
+28,000 Gil!
+--------------------
+30,000 Gil!
+--------------------
+[CHOICE] (Bid 32,000 Gil)
+[CHOICE] (Give up)
+--------------------
+32,000 Gil!!!!
+--------------------
+[CHOICE] (Bid 10,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+10,000 Gil!
+--------------------
+12,000 Gil!
+--------------------
+13,000 Gil!
+--------------------
+14,000 Gil!
+--------------------
+[CHOICE] (Bid 15,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+15,000 Gil!!
+--------------------
+22,000 Gil!
+--------------------
+[CHOICE] (Bid 25,000 Gil)
+[CHOICE] (I should stop bidding)
+--------------------
+25,000 Gil!!!
+--------------------
+32,000 Gil!
+--------------------
+[CHOICE] (Bid 35,000 Gil)
+[CHOICE] (I should really stop)
+--------------------
+35,000 Gil!!!!
+--------------------
+[CHOICE] (Bid 30,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+30,000 Gil!!
+--------------------
+What a gorgeous stone!
+A true gentleman like me
+DESERVES to own it!
+--------------------
+50,000 Gil!
+--------------------
+[CHOICE] (Bid 55,000 Gil)
+[CHOICE] (Nope! Nope!)
+--------------------
+55,000 Gil!!!!!
+--------------------
+40,000 Gil!
+--------------------
+[CHOICE] (Bid 45,000 Gil)
+[CHOICE] (Nope! Nope! Nope!)
+--------------------
+45,000 Gil!!!!!
+--------------------
+32,000 Gil!!
+--------------------
+This PuPu magicite!
+[NEWPAGE]
+Do I have 15,000 Gil?
+--------------------
+[CHOICE] EXIT
+[CHOICE] I'm an expert, not a beginner!
+--------------------
+[CHOICE] EXIT
+[CHOICE] I want to buy items
+[CHOICE] I'm an expert, not a beginner!
+[CHOICE] New Game+
+--------------------
+My apologies.
+In that case, our members will
+gladly discuss things of a more
+advanced nature.
+--------------------
+[CHOICE] EXIT
+[CHOICE] Oops, I'm a beginner after all…
+--------------------
+[CHOICE] EXIT
+[CHOICE] I want to buy items
+[CHOICE] Oops, I'm a beginner after all…
+[CHOICE] New Game+
+--------------------
+Everyone starts out a beginner.
+If there's ever anything you
+don't understand, just feel
+free to ask.
+--------------------
+Welcome to our school for
+budding adventurers.
+[NEWPAGE]
+We're always here to help you
+find your way in the world…
+or at least what's left of it.
+--------------------
+Have the mimic or the yeti
+teamed up with you? They can
+equip magicite too, you know.
+[NEWPAGE]
+They can also summon espers
+like normal, but they can't
+learn magic.
+--------------------
+If you hold the B Button while
+walking, you'll move twice as
+fast!
+--------------------
+Apparently, there might be
+places that are only accessible
+when the lead party member
+has certain status ailments.
+--------------------
+Some characters learn magic
+naturally when leveling up.
+[NEWPAGE]
+These characters include
+Magitek Soldiers, Rune Knights,
+and Pictomancers.
+--------------------
+Relics don't remove existing
+status ailments when equipped.
+Keep that in mind!
+--------------------
+You can see detailed
+information about equipment
+by "double-clicking" them while
+in the Item menu.
+[NEWPAGE]
+Press Left while on the details
+screen to see even more
+information about an item.
+[NEWPAGE]
+You can even see which special
+abilities a piece of equipment is
+compatible with.
+[NEWPAGE]
+You can also see which magic
+spells a piece of equipment will
+teach when equipped!
+--------------------
+There are some pieces of
+equipment that won't be
+auto-equipped if you use the
+Equip menu's "BEST" command.
+[NEWPAGE]
+This includes special equipment
+like the Atma Weapon and
+absorption weapons like the
+Blood Sword.
+--------------------
+New Game+ resets all treasure
+chests, as well as which
+monsters appear on the Veldt.
+--------------------
+Want to know about magic?
+[CHOICE] About black magic
+[CHOICE] About space-time magic
+[CHOICE] No
+--------------------
+(Break)
+Inflicts earth damage and
+causes petrification.
+[NEWPAGE]
+(Tornado)
+Puts all enemies in a
+near-death state. Doesn't hit
+allies.
+--------------------
+(Meteo)
+Inflicts damage four times at
+random. The total damage is
+displayed after the spell ends.
+--------------------
+Would you like to hear about
+special abilities in detail?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Two-Handed)
+The attacker holds one weapon
+in both hands. Inflicts double
+the damage of a normal attack.
+[NEWPAGE]
+(Dual-Wield)
+The attacker holds one weapon
+in each hand. Each weapon
+deals 3/4 normal damage.
+[NEWPAGE]
+(Physical/Magic Power Up)
+These effects don't stack
+across multiple relics or pieces
+of equipment.
+--------------------
+Items with multiple elemental
+types can still cause partial
+damage when one elemental
+type is nullified or absorbed.
+--------------------
+You can summon espers by
+equipping magicite, you know.
+You can summon them as many
+times as you want per battle.
+[NEWPAGE]
+Espers are a great way to pack
+a magical punch in battle!
+--------------------
+When you level up, your stats
+will increase a random amount!
+[NEWPAGE]
+So if you run into a problem or
+a foe you can't beat, try
+leveling up before trying again.
+--------------------
+Shall I explain some blue magic
+spells in detail?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Mind Blast)
+Deals MP damage and inflicts
+Mute and Sap.
+[NEWPAGE]
+(White Wind)
+Restores an amount of HP equal
+to the caster's current HP.
+Also cures Sleep.
+[NEWPAGE]
+(Night)
+Puts all enemies and all allies to
+sleep. Always works, unless a
+target has Sleep immunity.
+[NEWPAGE]
+(Bad Breath)
+Deals poison damage and
+inflicts a wide variety of status
+ailments.
+[NEWPAGE]
+(Magic Hammer)
+Absorbs 1/8 of the target's MP.
+[NEWPAGE]
+(Quasar)
+Deals damage that ignores
+magic defense and inflicts
+random status ailments.
+--------------------
+Shall I explain how the Morph
+ability works?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Morph)
+Deals +50% extra damage.
+Damage received is reduced by
+25%.
+--------------------
+Shall I explain the moogle's
+Dance ability?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Dance)
+Dances last for only one turn,
+after which the dancer can act
+freely again.
+--------------------
+Shall I explain how the
+assassin's Throw ability works?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Throw)
+Some ninja-specific items have
+special effects when thrown in
+battle.
+[NEWPAGE]
+(Fire Skean)
+Deals fire damage and inflicts
+Blind.
+[NEWPAGE]
+(Water Edge)
+Deals water damage and inflicts
+Mute.
+[NEWPAGE]
+(Thunder Edge)
+Deals lightning damage and
+inflicts Slow.
+--------------------
+Shall I explain how the Sketch
+ability works?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+(Sketch)
+Attacks induced by the Sketch
+command use the sketcher's
+stats, not the enemy's.
+[NEWPAGE]
+It's possible to sketch without
+a brush equipped. Equipping a
+brush will increase the success
+rate of the Sketch command.
+--------------------
+Esper: I cannot allow you to go
+any further…
+--------------------
+Esper: You… You have magicite?
+[LONGPAUSE]Ah, it's you…!
+--------------------
+Esper: Ah, you're Maduin's… [LONGPAUSE]
+[TERRA]: You know my
+father…?
+--------------------
+Esper: You may pass. Our home,
+the Esper Realm, lies ahead…
+--------------------
+This is the espers' village.
+How long it's been since a
+human last visited…
+--------------------
+Eek! [LONGPAUSE]Humans!
+[NEWPAGE]
+Sorry, you surprised me.
+I've never talked to a human
+before…
+--------------------
+With the power of the Warring
+Triad gone, this land is well on
+its way to ruin too…
+--------------------
+I've heard about you guys.
+You're the humans with our
+magicite, right?
+[NEWPAGE]
+Take good care of them, okay?
+Even though they're in magicite
+form, it's still them in there.
+--------------------
+The elder's house is ahead.
+I'm sure everything will be just
+fine, but just in case, try not to
+offend him.
+--------------------
+Sylph: I've infused this bell with
+the magicites' power. With this,
+you should be able to lift the
+seal on Lady Ultima's shrine.
+--------------------
+Sylph: Lady Ultima's shrine is
+supposedly north of a place
+called the Dragon's Neck.
+--------------------
+Some especially powerful
+enemies have unseen strength
+that goes beyond what the
+Libra spell will tell you.
+--------------------
+When an esper dies, it becomes
+magicite. But, if enough time
+passes, they will return to this
+world.
+[NEWPAGE]
+Thus magicite represents both
+death and the first step toward
+new life.
+--------------------
+You're using us for war, yet
+again… It's almost like nothing
+has changed since the War of
+the Magi 1000 years ago…
+--------------------
+Oh, you took the Lost Path to
+get here? You must be
+exhausted. Please feel free to
+use the bed here.
+--------------------
+Elder: It's you…
+--------------------
+Never did I expect to see you
+here… I am the ruler of this
+realm.
+[NEWPAGE]
+"Our world has been…"
+[NEWPAGE]
+Elder: I know. Never in my all
+my years did I expect a human
+to usurp the power of the
+Warring Triad…
+[NEWPAGE]
+Hear me, magicite bearers.
+You are our only hope now.
+We cannot control ourselves
+when in your realm.
+[NEWPAGE]
+Yet, something must be done,
+before the situation turns far
+graver than the War of the
+Magi…
+[NEWPAGE]
+"We're part of the problem.
+[SPACE_07]We keep using magicite… and
+[SPACE_07]your power… for our needs."
+[NEWPAGE]
+Elder: Not true. The magicite
+you possess only works
+because those espers have
+deemed you worthy of heart.
+[NEWPAGE]
+We want you to use that
+strength of heart to save both
+your realm and ours.
+--------------------
+Elder: You are of strong and
+gentle heart. Please use it to
+replace the world's darkness
+with light.
+--------------------
+Elder: !! [LONGPAUSE]
+Oh, my stars! You're Maduin's
+daughter…!
+[NEWPAGE]
+[TERRA]: Yes. My name is
+[TERRA].
+--------------------
+Elder: Ah, I see. [TERRA]… [LONGPAUSE]
+You've grown so much…
+[NEWPAGE]
+[TERRA]: So this is where my
+father used to live?
+[NEWPAGE]
+Elder: Indeed. And it is where
+you were born.
+[NEWPAGE]
+When everything happened back
+then, I was powerless to save
+your parents… [LONGPAUSE]I'm truly, truly
+sorry.
+[NEWPAGE]
+[TERRA]: No, it's okay, sir.
+It wasn't your fault at all.
+[NEWPAGE]
+Elder: [TERRA]…
+Take this with you. It used to
+belong to your father, Maduin.
+[NEWPAGE]
+[TERRA]: This was my
+father's…?
+[NEWPAGE]
+Elder: You're all welcome here.
+It's a small, simple village, but
+I hope you'll enjoy your stay,
+however long that may be.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Maduin's Horn.
+--------------------
+The relics here have been
+imbued with our magic power.
+I bet they'll be really useful to
+you!
+--------------------
+I wonder if humans can master
+using our weapons…
+--------------------
+I've never had human
+customers before. Please, have
+a look around.
+--------------------
+The weapon shopkeeper can be
+pretty rude, but he also really
+knows his stuff.
+--------------------
+Welcome! Please have a look
+around at your leisure!
+--------------------
+[SPACE_01]
+[CENTER]Defeated Ahriman!
+--------------------
+[SPACE_01]
+[CENTER]Defeated Echidna!
+--------------------
+[SPACE_01]
+[CENTER]Defeated Twinhead Dragon!
+--------------------
+I am… [LONGPAUSE]the ferryman of death… [LONGPAUSE]
+Scarmiglione of Earth…
+[NEWPAGE]
+I cannot let you pass beyond
+here…
+--------------------
+… You may pass.
+[NEWPAGE]
+[SPACE_01]
+[CENTER]Defeated Scarmiglione of Earth!
+--------------------
+Fwa ha ha ha… [LONGPAUSE]
+I am… [LONGPAUSE]Cagnazzo of Water…!
+[NEWPAGE]
+Prepare to taste my wrath!
+--------------------
+I hate to admit it… [LONGPAUSE]
+But your strength… [LONGPAUSE]
+Is genuine…
+[NEWPAGE]
+[SPACE_01]
+[CENTER]Defeated Cagnazzo of Water!
+--------------------
+Ohoho… [LONGPAUSE]
+You actually made it this far… [LONGPAUSE]
+It seems I underestimated you!
+[NEWPAGE]
+I am Barbariccia of Wind… [LONGPAUSE]
+Now let's see just how strong
+you truly are!
+--------------------
+Not bad at all! [LONGPAUSE]
+I can't wait to see how far you
+can go. [LONGPAUSE]Ohohoho…!
+[NEWPAGE]
+[SPACE_01]
+[CENTER]Defeated Barbariccia of Wind!
+--------------------
+O-ho… [LONGPAUSE]
+You've breached far into Lady
+Ultima's forbidden land, despite
+being human… [LONGPAUSE]Truly admirable!
+[NEWPAGE]
+Now, demonstrate your
+strength and courage to me,
+Rubicante of Fire!
+--------------------
+First, I shall heal you all! [LONGPAUSE]
+Face me with all your might!
+--------------------
+Well done… [LONGPAUSE]
+You are indeed exceptional
+warriors…!
+--------------------
+Carve something into it?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+[CHOICE] TELO
+[CHOICE] MET
+[CHOICE] EK
+[CHOICE] ESS
+--------------------
+[CHOICE] MET
+[CHOICE] EK
+[CHOICE] ESS
+--------------------
+[CHOICE] TELO
+[CHOICE] EK
+[CHOICE] ESS
+--------------------
+[CHOICE] TELO
+[CHOICE] MET
+[CHOICE] ESS
+--------------------
+[CHOICE] TELO
+[CHOICE] MET
+[CHOICE] EK
+--------------------
+[CHOICE] EK
+[CHOICE] ESS
+--------------------
+[CHOICE] MET
+[CHOICE] ESS
+--------------------
+[CHOICE] MET
+[CHOICE] EK
+--------------------
+[CHOICE] TELO
+[CHOICE] ESS
+--------------------
+[CHOICE] TELO
+[CHOICE] EK
+--------------------
+[CHOICE] TELO
+[CHOICE] MET
+--------------------
+[SPACE_01]
+[CENTER]TELO MET EK ESS
+--------------------
+[SPACE_01]
+[CENTER]TELO MET ESS EK
+--------------------
+[SPACE_01]
+[CENTER]TELO EK MET ESS
+--------------------
+[SPACE_01]
+[CENTER]TELO EK ESS MET
+--------------------
+[SPACE_01]
+[CENTER]TELO ESS EK MET
+--------------------
+[SPACE_01]
+[CENTER]TELO ESS MET EK
+--------------------
+[SPACE_01]
+[CENTER]MET TELO EK ESS
+--------------------
+[SPACE_01]
+[CENTER]MET TELO ESS EK
+--------------------
+[SPACE_01]
+[CENTER]MET EK TELO ESS
+--------------------
+[SPACE_01]
+[CENTER]MET EK ESS TELO
+--------------------
+[SPACE_01]
+[CENTER]MET ESS TELO EK
+--------------------
+[SPACE_01]
+[CENTER]MET ESS EK TELO
+--------------------
+[SPACE_01]
+[CENTER]EK TELO MET ESS
+--------------------
+[SPACE_01]
+[CENTER]EK TELO ESS MET
+--------------------
+[SPACE_01]
+[CENTER]EKMET TELOESS
+--------------------
+[SPACE_01]
+[CENTER]EKMET ESS TELO
+--------------------
+[SPACE_01]
+[CENTER]EK ESS MET TELO
+--------------------
+[SPACE_01]
+[CENTER]EK ESS TELO MET
+--------------------
+[SPACE_01]
+[CENTER]ESS TELO MET EK
+--------------------
+[SPACE_01]
+[CENTER]ESS TELO EK MET
+--------------------
+[SPACE_01]
+[CENTER]ESS MET TELO EK
+--------------------
+[SPACE_01]
+[CENTER]ESS MET EK TELO
+--------------------
+[SPACE_01]
+[CENTER]ESS EK TELO MET
+--------------------
+[SPACE_01]
+[CENTER]ESS EK MET TELO
+--------------------
+Nothing happens.
+--------------------
+Many citizens of Doma lost
+their lives at the hands of the
+Empire.
+[NEWPAGE]
+But there are surely still
+survivors out there who
+managed to escape that
+bloodbath…
+[NEWPAGE]
+I intend to stay here, to help
+defend the castle and wait for
+others to return.
+[NEWPAGE]
+I don't have much, but please
+have a look.
+--------------------
+Gilgamesh: Th- [LONGPAUSE]that sword…!
+[NEWPAGE]
+Gilgamesh: It's THE sacred
+sword of legend… [LONGPAUSE]The
+Excalibur!
+[NEWPAGE]
+Gilgamesh: Where and how did
+that legendary blade fall into
+YOUR grubby hands!?
+[NEWPAGE]
+Well, no matter. I request a
+duel with you! Nay, I DEMAND it!
+[NEWPAGE]
+"A duel, huh?"
+[NEWPAGE]
+Gilgamesh: My dream was to
+be the world's greatest
+swordsman…
+[NEWPAGE]
+And it still IS my dream. Not
+even the end of the world
+could change that.
+[NEWPAGE]
+Gilgamesh: … But you have the
+sword now. That's proof that
+you're no ordinary warriors.
+[NEWPAGE]
+Please! Let me fight you! [LONGPAUSE]
+Just this once? [LONGPAUSE]I'll never ask
+you for anything ever again.
+[NEWPAGE]
+So, come on… Fight me, okay?
+Pretty please!?
+[CHOICE] Sure, let's fight
+[CHOICE] No, thanks
+--------------------
+Gilgamesh: Woo-hoo! [LONGPAUSE]In that
+case… [LONGPAUSE]It's go time!
+--------------------
+Gilgamesh: Dang, you're strong!
+I thought I could kick yer butts,
+but mine was the only butt to
+be kicked in the end. [LONGPAUSE]Bwahaha!
+[NEWPAGE]
+Gilgamesh: Hmm. I'm not yet
+worthy to wield this sword of
+mine. [LONGPAUSE]You can have it!
+[NEWPAGE]
+Gilgamesh: Let's lock horns
+again sometime!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Lightbringer!
+--------------------
+Gilgamesh: Hey, there!
+How's it goin'?
+--------------------
+[UMARO]: Oo! Me make this
+into item, oo!
+[NEWPAGE]
+"Wait, isn't that…"
+"Deathgaze's claw?"
+[NEWPAGE]
+[UMARO]: You, wait! Oo!
+--------------------
+[UMARO]: Done, oo!
+Made good! Oo!
+[NEWPAGE]
+"Wow! That's amazing work!"
+--------------------
+[SPACE_01]
+[CENTER]Obtained Rage Ring!
+--------------------
+You've sure gathered a fine
+share of strange stones, you
+have.
+[NEWPAGE]
+With so many, I reckon I could
+make an even better sword
+than that last one I made.
+[NEWPAGE]
+But I can't make it out of those
+stones alone. I'd need
+something else too…
+--------------------
+Oh! That's a mighty rare item
+you've got there!
+[NEWPAGE]
+With that, I could make a sword
+even better than the last one I
+made.
+[NEWPAGE]
+Whadya say? Want me to make
+it into a sword?
+[CHOICE] Yes, please
+[CHOICE] Absolutely not
+--------------------
+[SPACE_01]
+[CENTER]Obtained Omega Weapon!
+--------------------
+Oh, I've got another gift for
+you, too.
+--------------------
+[SPACE_01]
+[CENTER]Obtained La Serafica!
+--------------------
+Different abilities take
+different amounts of time to
+perform in battle.
+[NEWPAGE]
+Keep in mind that the stronger
+the ability, the longer it takes
+to perform.
+[NEWPAGE]
+This means that powerful
+commands like Magic and
+Bushido take longer to perform
+than weaker ones.
+--------------------
+Characters in the back row
+take 1/3 less damage than
+normal, but their attack power
+is also halved.
+[NEWPAGE]
+To change the row a character
+is in, press Left on the main
+menu, select the character,
+then press the A Button.
+--------------------
+If you press Left and Right
+while the battle menu is open,
+you can choose to change rows
+or defend.
+[NEWPAGE]
+While defending, any physical
+damage taken is halved, and
+any magic damage taken is
+reduced by 33%.
+[NEWPAGE]
+The Defend command remains
+active until the character is
+given another command.
+--------------------
+Numbers are displayed in
+different colors, depending on
+what is being impacted.
+[NEWPAGE]
+White numbers: HP damage
+Green numbers: HP restoration
+Red numbers: MP damage
+Blue numbers: MP restoration
+--------------------
+Welcome.
+[CHOICE] Any jobs available?
+[CHOICE] Let's chat a bit
+--------------------
+Monsters've started appearing
+in the ocean lately, so it's been
+tough to get any fish for my
+pub.
+[NEWPAGE]
+Could you get me some fish?
+I'll compensate you, of course.
+[CHOICE] Accept "Ingredient Hunt"
+[CHOICE] Decline
+--------------------
+I'm looking for one type of
+fish in particular, called the
+Vector Sardine.
+[NEWPAGE]
+All right, I'll leave you to your
+work!
+--------------------
+I'm out of fish again. Could you
+get me some more?
+[CHOICE] Accept "Ingredient Hunt"
+[CHOICE] Decline
+--------------------
+Oh, that's exactly what I was
+looking for!
+[NEWPAGE]
+Here's your reward, as
+promised. Hope to work with
+you again!
+--------------------
+[SPACE_01]
+[CENTER]Received X-Potion!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Ingredient Hunt
+[CHOICE] Research Assistant
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]Ingredient Hunt
+[CHOICE] Research Assistant
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]Ingredient Hunt
+[CHOICE] [68]Research Assistant
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Ingredient Hunt
+[CHOICE] [68]Research Assistant
+[CHOICE] EXIT
+--------------------
+Looks like you've already
+taken care of that one.
+--------------------
+A local scholar needs help with
+his research. Want to help?
+[CHOICE] Accept "Research Assistant"
+[CHOICE] Decline
+--------------------
+Here's hoping you can help the
+scholar with his work.
+Good luck!
+--------------------
+I'm been conducting research
+into the espers.
+[NEWPAGE]
+From what I've learned, the
+Ancients fashioned a cave
+that's of great importance to
+the espers.
+[NEWPAGE]
+Apparently, an artifact called
+the Goddess Bell holds a clue
+to this cave's location.
+[NEWPAGE]
+It goes without saying that I
+would very much like to find
+the Goddess Bell and examine
+it in detail.
+--------------------
+Oh, that bell you have… [LONGPAUSE]
+Could it be? [LONGPAUSE]The Goddess Bell!?
+[NEWPAGE]
+I apologize for asking, but
+could I borrow it for a short
+while?
+[NEWPAGE]
+"Sure, go ahead."
+[NEWPAGE]
+Oh, thank you! [LONGPAUSE]
+Okay, time to get to work…!
+--------------------
+Thank you. You've been
+invaluable to my research.
+[NEWPAGE]
+Please take this. I know it
+isn't much, but it's the least I
+can do to repay you.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 5 Megalixirs!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] A Helping Hand
+[CHOICE] Dream Opera
+[CHOICE] Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]A Helping Hand
+[CHOICE] Dream Opera
+[CHOICE] Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] A Helping Hand
+[CHOICE] [68]Dream Opera
+[CHOICE] [68]Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] A Helping Hand
+[CHOICE] Dream Opera
+[CHOICE] [68]Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]A Helping Hand
+[CHOICE] [68]Dream Opera
+[CHOICE] Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]A Helping Hand
+[CHOICE] Dream Opera
+[CHOICE] [68]Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] A Helping Hand
+[CHOICE] [68]Dream Opera
+[CHOICE] [68]Requiem
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]A Helping Hand
+[CHOICE] [68]Dream Opera
+[CHOICE] [68]Requiem
+[CHOICE] EXIT
+--------------------
+A man here had his house
+demolished by a flying
+monster. Do you think you
+could spare some Gil for him?
+[NEWPAGE]
+All the villagers have chipped
+in as much as they can, but it's
+still not enough…
+[NEWPAGE]
+[CHOICE] Accept "A Helping Hand"
+[CHOICE] Decline
+--------------------
+I'm embarrassed to bother
+you like this, but it really is
+for a good cause.
+--------------------
+There's a communal
+gravesite west of the village.
+Could you go there and play
+this music box for me?
+[NEWPAGE]
+They say that this melody can
+soothe the souls of the dead.
+[NEWPAGE]
+Normally, we villagers would
+go do it ourselves, but there've
+been so many more monsters
+lately…
+[NEWPAGE]
+[CHOICE] Accept "Requiem"
+[CHOICE] Decline
+--------------------
+Thank you. The gravesite is to
+the west of this village. It isn't
+too far away, though.
+--------------------
+Oh, you played the music box?
+Thank you very much.
+Surely the dead can rest in
+peace now.
+[NEWPAGE]
+Please take this as thanks.
+It isn't much, but it might be
+of use to you.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Fire Rod!
+--------------------
+Wha…? [LONGPAUSE]You want to give me
+money!?
+[CHOICE] Give 10,000 Gil
+[CHOICE] EXIT
+--------------------
+R-really!? Oh, thank you, thank
+you!
+[NEWPAGE]
+Oh, I know! Take these in
+exchange!
+[NEWPAGE]
+They're tickets to the opera.
+I was hoping to see it myself,
+but I can't go anywhere with
+my house still in shambles…
+--------------------
+[SPACE_01]
+[CENTER]Obtained Opera Tickets!
+--------------------
+I can't wallow in pity forever.
+I need to build a house quick,
+so I can finally go see the
+opera!
+--------------------
+My daughter keeps talking
+about how badly she wants to
+go see the opera. I wish I
+could help her out somehow…
+[NEWPAGE]
+Apparently, this particular
+opera is super-popular, so it's
+almost impossible to get a
+single ticket.
+[NEWPAGE]
+If you happen to find one
+somewhere and have no need
+for it, could you let my
+daughter have it?
+[NEWPAGE]
+[CHOICE] Accept "Dream Opera"
+[CHOICE] Decline
+--------------------
+Oh, thank you! I think my
+daughter is taking a walk
+outside at the moment.
+--------------------
+Oh, wow… Is that… [LONGPAUSE]
+A ticket to "I Want To Be Your
+Canary"!?
+[NEWPAGE]
+But, are you sure? Are you
+really giving this to me…?
+[NEWPAGE]
+"Of course. It's all yours."
+"Someone gave it to us as a
+[SPACE_07]gift anyways."
+[NEWPAGE]
+Thank you so much! It's been
+my dream for so long to see
+this opera in person!
+[NEWPAGE]
+… [LONGPAUSE]Hmm? Wait, there are
+actually two tickets here.
+[NEWPAGE]
+If you don't mind me asking,
+who did you get these tickets
+from? I'd love to know.
+[NEWPAGE]
+"It was, umm, the man whose
+[SPACE_07]house was destroyed…"
+[NEWPAGE]
+Oh! It was him? [LONGPAUSE]
+In that case, since I have an
+extra ticket and all, maybe I'll
+invite him to see it with me.
+[NEWPAGE]
+Thank you for the tickets.
+This is all I have to give in
+return, but I hope it'll help
+you in some way.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Katyusha!
+--------------------
+I feel like I'm about to have
+two dreams come true!
+Thank you so very much!
+--------------------
+The girl from the pub invited
+me to the opera. I better
+hurry and get my house fixed
+right away!
+--------------------
+Looks like you've already
+taken care of that one.
+--------------------
+Flowers have been placed in
+front of the grave.
+--------------------
+"This is the place…"
+"Let's play the music box."
+--------------------
+"May these souls rest in
+[SPACE_07]peace…"
+"Let's return to Kohlingen."
+--------------------
+[SETZER]: …
+--------------------
+"[SETZER]… Whose grave is
+[SPACE_07]this?"
+--------------------
+[SETZER]: … [LONGPAUSE]… [LONGPAUSE]
+It belongs to a friend. An old
+friend.
+--------------------
+[SETZER]: Sorry for the wait.
+Okay. Let's go.
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] I'll Buy Anything!
+[CHOICE] EXIT
+--------------------
+The item shop here is famous
+for buying anything you bring
+him, even if it looks like trash
+at first glance.
+[NEWPAGE]
+[CHOICE] Accept "I'll Buy Anything!"
+[CHOICE] Decline
+--------------------
+Who knows, maybe there's
+already a hidden treasure
+among all your items.
+--------------------
+Oh! Oh…! [LONGPAUSE]That helmet of yours!
+Can I get a closer look at it?
+[NEWPAGE]
+Mmhmm… [LONGPAUSE]Aha… [LONGPAUSE][LONGPAUSE]
+Could it be…? [LONGPAUSE]Wait, but… [LONGPAUSE]
+Fascinating…!
+[NEWPAGE]
+Say, would you be willing to
+let me keep this? I could pay,
+oh, say… [LONGPAUSE]25,000 Gil.
+[NEWPAGE]
+How does that sound?
+[CHOICE] Sell for 25,000 Gil
+[CHOICE] EXIT
+--------------------
+Oh… [LONGPAUSE]Well, if you ever change
+your mind, just let me know!
+--------------------
+Thanks! [LONGPAUSE]
+Ooh… [LONGPAUSE]What a great find! [LONGPAUSE]
+… [LONGPAUSE]I hope.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 25,000 Gil!
+--------------------
+Here are all the available jobs
+at the moment.
+[CHOICE] [68]I'll Buy Anything!
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Cave Monster Cleanup
+[CHOICE] EXIT
+--------------------
+The cave leading to Figaro has
+been teeming with monsters
+lately. It's becoming a big
+problem for us.
+[NEWPAGE]
+You look plenty skilled. Could
+you get rid of the monsters
+for us? I'll reward you
+handsomely.
+[NEWPAGE]
+[CHOICE] Accept "Cave Monster Cleanup"
+[CHOICE] Decline
+--------------------
+Great. Be careful in there, and
+good luck!
+--------------------
+You have to go over the Sabre
+Mountains to reach the port
+town of Nikeah.
+[NEWPAGE]
+You can get there by climbing
+Mt. Kolts, but the path is
+riddled with danger.
+--------------------
+I can't believe the Empire is
+here… What's going to happen
+to us?
+--------------------
+Finally, things in town have
+quieted down.
+--------------------
+"We still haven't wiped out the
+[SPACE_07]monsters…"
+"Let's keep pushing forward."
+--------------------
+"I think that monster was in
+[SPACE_07]charge of the others…"
+"Great. Let's return to South
+[SPACE_07]Figaro."
+--------------------
+Oh, you've gotten rid of them?
+Thank you. Here's your
+reward, as promised.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 10 Potions!
+[NEWPAGE]
+[SPACE_01]
+[CENTER]Obtained 5 Hi-Potions!
+[NEWPAGE]
+[SPACE_01]
+[CENTER]Obtained Phoenix Down!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]Cave Monster Cleanup
+[CHOICE] EXIT
+--------------------
+Looks like you've already taken
+care of that one.
+--------------------
+'Fraid there's not really any
+jobs at the moment. The place
+isn't doing too well, as you can
+see…
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Merchandise Delivery
+[CHOICE] EXIT
+--------------------
+With so many monsters
+appearing these days, it's
+dangerous to transport my
+merchandise.
+[NEWPAGE]
+Think you could you deliver my
+goods to Tzen and Maranda for
+me? I'd compensate you, of
+course.
+[NEWPAGE]
+Deliver the merchandise?
+[CHOICE] Accept "Merchandise Delivery"
+[CHOICE] Decline
+--------------------
+Thank you. You'll need to
+deliver my goods to the item
+shop in Tzen and the weapon
+shop in Maranda.
+--------------------
+Oh, the stuff from Albrook!
+Thanks! This is for your
+trouble!
+--------------------
+[SPACE_01]
+[CENTER]Obtained 5000 Gil!
+--------------------
+Oh, you've brought the
+merchandise from Albrook?
+It's much appreciated.
+Please, take this as thanks.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 8000 Gil!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]Merchandise Delivery
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Cave Monster Cleanup
+[CHOICE] Defend Mt. Kolts!
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] [68]Cave Monster Cleanup
+[CHOICE] Defend Mt. Kolts!
+[CHOICE] EXIT
+--------------------
+According to a traveling
+salesman I know, there've
+been lots of falling rocks on
+Mt. Kolts lately.
+[NEWPAGE]
+Some people claim to have
+seen imperial soldiers in the
+area too. Call it a hunch, but I
+bet the Empire is involved…
+[NEWPAGE]
+[CHOICE] Accept "Defend Mt. Kolts!"
+[CHOICE] Decline
+--------------------
+Mt. Kolts is a sacred mountain.
+Go take care of whoever's
+defiling it!
+--------------------
+"Should be safe now…"
+"Okay! Let's go back to town!"
+--------------------
+Thank you. Now we can rest
+easy. Please take this with
+you.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Blood Lance!
+--------------------
+Here are all the available jobs
+at the moment.
+[CHOICE] [68]Cave Monster Cleanup
+[CHOICE] [68]Defend Mt. Kolts!
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Cave Monster Cleanup
+[CHOICE] [68]Defend Mt. Kolts!
+[CHOICE] EXIT
+--------------------
+…Opera Tickets!
+[NEWPAGE]
+Do I have 800 Gil!?
+--------------------
+[SPACE_01]
+[CENTER]Obtained Opera Tickets!
+--------------------
+…A Shiny Helmet!
+[NEWPAGE]
+Do I have 4000 Gil!?
+--------------------
+[SPACE_01]
+[CENTER]Obtained Shiny Helmet!
+--------------------
+"20,000 Gil!!!"
+--------------------
+[CHOICE] (Bid 20,000 Gil)
+[CHOICE] (Don't bid)
+--------------------
+We grownups gotta keep it
+together!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Cave Fiend Crackdown
+[CHOICE] Victory Drink
+[CHOICE] EXIT
+--------------------
+A ferocious beast has claimed
+the cave to Figaro as its lair… [LONGPAUSE]
+If we don't do something, it
+could attack our town next.
+[NEWPAGE]
+You folks seem mighty strong.
+Could you get rid of the beast
+for us? I'll make it worth your
+while.
+[NEWPAGE]
+[CHOICE] Accept "Cave Fiend Crackdown"
+[CHOICE] Decline
+--------------------
+[SPACE_01]
+[CENTER]Obtained 2 X-Ethers!
+--------------------
+[SPACE_01]
+[CENTER]Obtained 2 Hi-Ethers!
+--------------------
+Another beast has taken over
+the cave. Can you help again?
+[CHOICE] Accept "Cave Fiend Crackdown"
+[CHOICE] Decline
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Cave Monster Crackdown
+[CHOICE] A Girl's Wish
+[CHOICE] Victory Drink
+[CHOICE] EXIT
+--------------------
+Thanks for offering to help
+me. Take me to the
+storeroom, okay?
+--------------------
+I'm in a real pickle! A kid has
+gotten stuck somewhere
+under the town!
+[NEWPAGE]
+Monsters lurk down there
+these days, so nobody has
+dared go down there until
+now…
+[NEWPAGE]
+[CHOICE] Accept "A Girl's Wish"
+[CHOICE] Decline
+--------------------
+"She went down there!?"
+"That place is dangerous!"
+"We'll go take a look."
+[NEWPAGE]
+Oh, thank you! You can get
+into the underground area
+from behind Duncan's house.
+[NEWPAGE]
+Be extra careful down there,
+y'hear!?
+--------------------
+You can get into the
+underground area from behind
+Duncan's house. Be extra
+careful down there, y'hear!?
+--------------------
+Eek!
+--------------------
+Y- [LONGPAUSE]you scared me! Whew!
+[NEWPAGE]
+"Thank goodness you're okay!"
+"It's dangerous here. Let's
+[SPACE_07]return to town."
+[NEWPAGE]
+Umm, actually… [LONGPAUSE]
+Can I ask you a favor?
+[NEWPAGE]
+Can you take me to the
+storeroom? It's somewhere
+deep inside this place. I really
+wanna get there.
+[NEWPAGE]
+I thought I could get there on
+my own, but I got lost 'cause
+it's so dark down here…
+[NEWPAGE]
+"Oh, all right…"
+"Okay, we'll stop by the
+[SPACE_07]storeroom. Then we go
+[SPACE_07]straight back to town."
+--------------------
+"What the…?"
+"A record?"
+[NEWPAGE]
+Yeah! I was looking for that!
+Thanks for finding it!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Old Record!
+--------------------
+Old Man: Oh! You're okay!
+Thank goodness! But what in
+blazes made you go down
+there in the first place?
+[NEWPAGE]
+Girl: I'm sorry for worrying
+you… [LONGPAUSE]I went to get this.
+[NEWPAGE]
+Old Man: That record… [LONGPAUSE]
+We used to play it here…
+[NEWPAGE]
+Girl: Mom used to talk about
+how the music you played at
+this pub was really nice!
+[NEWPAGE]
+Girl: Everyone here's been so
+sad since the world ended.
+So I hoped maybe this music
+could cheer them up.
+[NEWPAGE]
+Old Man: Oh, what a nice
+thought. Thank you! [LONGPAUSE]
+Now then, let's play it, shall
+we?
+--------------------
+"It really is a lovely melody…"
+[NEWPAGE]
+The world's a tougher place
+than ever before, but us
+grownups gotta keep it
+together, y'know?
+[NEWPAGE]
+Anyways, thanks, you guys.
+It's not much, but take this…
+--------------------
+Wait! [LONGPAUSE]If anyone should thank
+you, it's me!
+--------------------
+Thank you for saving me!
+Here, this ribbon is for you!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Ribbon!
+--------------------
+I love this pub! It's great! [LONGPAUSE]
+Even if I can't drink yet.
+--------------------
+That's a really nice tune. [LONGPAUSE]
+It makes me feel full of life
+again.
+[NEWPAGE]
+Yeah! Bring on the bandits and
+whatever else! Nothing can
+stop me now!
+--------------------
+Figaro Castle's surfaced, you
+say? Oh, that's great news!
+Now the people of Figaro can
+rest easy!
+--------------------
+Everyone thought Figaro Castle
+had up and vanished, but it's
+back!
+[NEWPAGE]
+The sight of the castle rising
+from the ocean of gold… [LONGPAUSE]
+Oh, it set my old heart
+aflutter again!
+--------------------
+A good customer of mine has
+been wantin' a venomous fish
+called the Yellow Globe real
+bad lately…
+[NEWPAGE]
+I just hope he's not planning
+anything rash…
+[CHOICE] Accept "Victory Drink"
+[CHOICE] Decline
+--------------------
+That customer of mine who
+wants a Yellow Globe lives on
+the east side of town.
+--------------------
+My grandpa's given up alcohol,
+believe it or not.
+--------------------
+Oh, my! That's a Yellow Globe
+y'have there!
+[NEWPAGE]
+"You know it's poisonous,
+[SPACE_07]right?"
+"What exactly are you going to
+[SPACE_07]use it for…?"
+[NEWPAGE]
+Indeed, it IS a venomous fish…
+[LONGPAUSE]but I'm not gonna eat it.
+[NEWPAGE]
+I just want its fins. [LONGPAUSE]
+Broiled Yellow Globe fins can
+turn ordinary wine into the
+most delicious drink ever.
+--------------------
+But didn't you give up drinking,
+Grandpa?
+--------------------
+Wahahaha. [LONGPAUSE]Indeed, I did.
+Wine just doesn't taste as
+good with the world in
+shambles.
+[NEWPAGE]
+But things'll get better
+someday. And when that
+happens, we'll need wine to
+celebrate our victory with.
+[NEWPAGE]
+After all, how can we make a
+toast to anything without
+something to drink? That's
+what this fish is for.
+[NEWPAGE]
+Thank you, young fellows.
+Here's hoping we'll all get to
+share this tasty fish and wine
+someday soon.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Hermes Shoes!
+--------------------
+There's something on the
+ground…
+--------------------
+[SPACE_01]
+[CENTER]Obtained Sylkis Greens!
+--------------------
+LADY MATOYA IS AWAY AT THE
+MOMENT.
+--------------------
+CLEAN-CLEAN-CLEAN-CLEAN
+CLEAN CLEAN CLEAN-CA-CLEAN!
+SWISH-SWISH-KA-SWISH!
+--------------------
+SSE OLET TEM KE
+…A MAGIC SPELL?
+SWISH-SWISH-KA-SWISH!
+--------------------
+"Well, we managed to meet
+[SPACE_07]with the sylphs…"
+"But we can't speak each
+[SPACE_07]other's language."
+[NEWPAGE]
+Banon: Hmm… Surely there
+must be some way…
+--------------------
+Arvis: Say, there's a mage who
+supposedly lives in the
+Phantom Forest. Maybe we
+could ask her for help?
+[NEWPAGE]
+"The Phantom Forest?"
+"You mean that spooky forest
+[SPACE_07]east of Doma?"
+[NEWPAGE]
+Banon: Hmm, that's a good
+idea. Perhaps she'll know of a
+way to communicate with
+espers…
+--------------------
+Arvis: The Phantom Forest
+seems to have moved a great
+distance after the cataclysm.
+[NEWPAGE]
+It's not surprising, I guess.
+I feel like that forest has
+always had magical properties
+to begin with.
+[NEWPAGE]
+Banon: It won't be an easy
+task, but we leave it in your
+hands!
+--------------------
+Who are you? What do you
+want? [LONGPAUSE]This is Lady Matoya's
+home.
+[NEWPAGE]
+I don't care who you are.
+I won't let anyone through!
+--------------------
+Mmgg…!
+Wow, you guys are strong!
+--------------------
+Astos! Stop that! You know
+better than to harass visitors
+like that! Let those kind folks
+through!
+--------------------
+Sorry about that. Astos didn't
+mean any ill will. He's just got
+a short temper, is all…
+[NEWPAGE]
+I am Matoya, one of the few
+surviving magi of old. Some
+folks call me a witch, though.
+[NEWPAGE]
+"We're looking for a way to
+[SPACE_07]communicate with espers."
+[NEWPAGE]
+Oho… [LONGPAUSE]You have magicite.
+More than a few espers have
+acknowledged your strength
+of heart, I see.
+--------------------
+Let me see… [LONGPAUSE]I last saw it right
+around here…
+--------------------
+Aha! Here we go. Take this
+with you.
+[NEWPAGE]
+"What is it…?"
+[NEWPAGE]
+With that crystal in hand,
+you'll able to talk with espers.
+[NEWPAGE]
+"Thank you very much!"
+[NEWPAGE]
+Oh, it's my pleasure. I still
+have plenty left to do in this
+world before my time comes,
+after all.
+[NEWPAGE]
+You aim to mend this broken
+world, no? I'm too old to do
+much anymore, but hopefully
+this'll help you in my place.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Crystal Eye!
+--------------------
+Somewhere in this world,
+there exists a place called the
+Soul Shrine. It's well beyond
+the reach of regular people…
+[NEWPAGE]
+…but seeing as the espers
+have given you their approval,
+maybe you'll find it someday.
+--------------------
+I am Astos! [LONGPAUSE]Lady Matoya and I
+go way back.
+--------------------
+Changing outfits every once in
+a while can be a nice change of
+pace.
+--------------------
+Here, you can change how your
+characters look. But there are
+some important notes to keep
+in mind.
+[NEWPAGE]
+1. Any new outfit you put on
+will appear while walking
+around or during battle.
+[NEWPAGE]
+2. When using the shop menu,
+coliseum menu, or save screen,
+everyone will have their
+original outfits on.
+[NEWPAGE]
+3. There's also no guarantee
+that your chosen outfit will
+appear during event scenes.
+--------------------
+[CHOICE] [CELES]
+[CHOICE] [LOCKE]
+[CHOICE] [SHADOW]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES]
+[CHOICE] [SHADOW]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES]
+[CHOICE] [LOCKE]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES] (Normal)
+[CHOICE] Opera Dress
+[CHOICE] EXIT
+--------------------
+[CHOICE] [LOCKE] (Normal)
+[CHOICE] Ancient Armor
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SHADOW] (Normal)
+[CHOICE] Wanderer's Cape
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Supply Haul
+[CHOICE] EXIT
+--------------------
+Could you deliver these
+materials to Mobliz Village?
+There aren't any adults there
+to handle this themselves.
+[NEWPAGE]
+[CHOICE] Accept "Supply Haul"
+[CHOICE] Decline
+--------------------
+Thanks. I'll have a reward
+waiting for you after you've
+delivered the supplies.
+--------------------
+Duane: Whoa… [LONGPAUSE]
+You delivered this all the way
+from Nikeah for us?
+[NEWPAGE]
+Duane: Thanks! We really
+needed this stuff!
+--------------------
+Duane: I gotta stay strong…!
+--------------------
+Thanks for delivering the
+supplies. Take this for your
+trouble.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Dark Gear!
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Supply Haul
+[CHOICE] Melancholy of a Dancer
+[CHOICE] EXIT
+--------------------
+Hey, is that your airship
+outside? Think I could join you
+guys? I'd love to be part of the
+airship crew!
+[NEWPAGE]
+"You… [LONGPAUSE]want to work on our
+[SPACE_07]airship??"
+[NEWPAGE]
+Don't get me wrong, I don't
+hate being a pub dancer. I just
+love the idea of a life in the
+skies, flying to and fro.
+[NEWPAGE]
+So, what do you say?
+[CHOICE] Let her join the airship crew
+[CHOICE] Decline
+--------------------
+Really!? Thank you!
+I promise I won't get in your
+way or anything. I'll work hard
+and do what I do best!
+--------------------
+I went and hired me a new
+waitress.
+--------------------
+Didja hear? The Phantom
+Forest moved a long way away
+from Doma. Now it's near
+Maranda!
+[NEWPAGE]
+People say a witch or
+something lives deep in the
+forest… [LONGPAUSE]I wonder if it's true.
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Supply Haul
+[CHOICE] Melancholy of a Dancer
+[CHOICE] Staying Strong
+[CHOICE] EXIT
+--------------------
+Have you ever heard of Sylkis
+Greens? Apparently, they can
+grow in infertile land. I bet
+Mobliz could really use some.
+[NEWPAGE]
+But Sylkis Greens are rare, so
+who knows where exactly to
+find any…
+[NEWPAGE]
+If you find some Sylkis Greens,
+could you take 'em to Mobliz?
+[CHOICE] Accept "Staying Strong"
+[CHOICE] Decline
+--------------------
+Apparently, Sylkis Greens grow
+where Neochus live. Neochus
+are vicious monsters, so be
+careful!
+--------------------
+Duane: Are those…
+Sylkis Greens!? We might be
+able to grow them in Mobliz!
+[NEWPAGE]
+"They're all yours."
+"I hope they help you out."
+[NEWPAGE]
+Duane: These are really rare,
+though. [LONGPAUSE]We can't accept them
+just like that…
+[NEWPAGE]
+Duane: But, yeah, I guess we're
+in no position to turn them
+down, either…
+[NEWPAGE]
+Duane: How about this, then?
+I'll trade you the Sylkis Greens
+for a relic.
+[NEWPAGE]
+"What kind of relic?"
+[NEWPAGE]
+Duane: It used to belong to a
+soldier who stayed in this
+village. It'd be more useful to
+you than me, anyways.
+[NEWPAGE]
+Duane: Thank you for so much…
+[NEWPAGE]
+Duane: I'm going to work my
+very hardest to make the world
+a better place for Katarin, our
+baby, and everyone else!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Merit Award!
+--------------------
+[CHOICE] [TERRA]
+[CHOICE] [LOCKE]
+[CHOICE] [CYAN]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [SHADOW]
+[CHOICE] [RELM]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [TERRA] (Normal)
+[CHOICE] Silk Dress
+[CHOICE] EXIT
+--------------------
+Oops, that person isn't here
+right now, it seems.
+--------------------
+I'm sorry. It looks like there
+aren't any suitable outfits at
+the moment.
+--------------------
+[TERRA]: … [LONGPAUSE]
+This… [LONGPAUSE]was my mother's…
+--------------------
+[SPACE_01]
+[CENTER]Obtained Silk Dress!
+--------------------
+[CHOICE] [RELM] (Normal)
+[CHOICE] White Robe
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES]
+[CHOICE] [STRAGO]
+[CHOICE] [RELM]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [STRAGO] (Normal)
+[CHOICE] Black Robe
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SHADOW]
+[CHOICE] [EDGAR]
+[CHOICE] [SABIN]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [EDGAR] (Normal)
+[CHOICE] Criminal Disguise
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SABIN] (Normal)
+[CHOICE] Royal Coat
+[CHOICE] EXIT
+--------------------
+High Priestess: Oh, no, no… [LONGPAUSE]
+You really must stop dressing
+like that, [SABIN]! It doesn't
+become you!
+[NEWPAGE]
+[SABIN]: But I like these
+clothes better…
+[NEWPAGE]
+No, they will not do! I insist
+that you take these garments
+with you!
+[NEWPAGE]
+[SABIN]: I see you're still as
+pushy as ever, Auntie…
+--------------------
+[CHOICE] [CYAN] (Normal)
+[CHOICE] Foreign Armor
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SETZER]
+[CHOICE] [MOG]
+[CHOICE] [GAU]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [SETZER] (Normal)
+[CHOICE] Engineer's Clothes
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GAU] (Normal)
+[CHOICE] Tuxedo
+[CHOICE] EXIT
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Rest in Peace
+[CHOICE] EXIT
+--------------------
+There aren't any open jobs at
+the moment, it seems.
+--------------------
+There's a communal gravesite
+west of the village. Could you
+go there and play this music
+box for me?
+[NEWPAGE]
+Monsters have been pouring
+out of the underground tomb
+ever since the world was torn
+apart.
+[NEWPAGE]
+I'd like to soothe the souls that
+dwell there. It might not help
+much, but we need to try.
+[NEWPAGE]
+[CHOICE] Accept "Rest in Peace"
+[CHOICE] Decline
+--------------------
+It's dangerous inside the tomb.
+Please be careful.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 5 Elixirs!
+--------------------
+We decided to start playing the
+music box inside the shop too.
+--------------------
+"New Game+" will allow you
+to restart the adventure with
+your current stats and items.
+[NEWPAGE]
+Begin a New Game+ game?
+[CHOICE] No
+[CHOICE] Yes
+--------------------
+[CHOICE] [MOG] (Normal)
+[CHOICE] Geomancer Cap
+[CHOICE] EXIT
+--------------------
+Additionally, different outfits
+will change a character's stats
+in different ways.
+[NEWPAGE]
+Outfits tend to raise some stats
+while lowering other stats.
+[NEWPAGE]
+So it's a good idea to check a
+character's stats before and
+after an outfit change to see if
+it suits your current situation.
+--------------------
+[CHOICE] [GOGO]
+[CHOICE] [UMARO]
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GOGO] (Normal)
+[CHOICE] Chameleon Robes
+[CHOICE] EXIT
+--------------------
+Hoo… Hoo…
+[NEWPAGE]
+No, no, I'm no owl. It's just…
+I feel a little warmer when I
+say "hoo" when I breathe out.
+[NEWPAGE]
+So I say "hoo" a lot whenever
+I'm cold. It's important to stay
+warm on the inside, after all.
+--------------------
+Did you hear about that cave
+that opened up on the Veldt?
+Rumor has it you can hear
+flowing water inside it.
+--------------------
+I often wonder where my old
+student is now, and what
+they're up to…
+--------------------
+Welcome.
+[CHOICE] Any jobs available?
+[CHOICE] Let's chat a bit
+--------------------
+I rebuilt the old storehouse into
+a pub.
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Advanced Mimicry
+[CHOICE] Night Patrol
+[CHOICE] EXIT
+--------------------
+That elderly man apparently
+once had a student who studied
+under him. Sounds like he used
+to be a mime or something.
+[NEWPAGE]
+It does make me wonder
+where his student ended up
+after all this time.
+[NEWPAGE]
+[CHOICE] Accept "Advanced Mimicry"
+[CHOICE] Decline
+--------------------
+If you happen to meet the
+elderly man's student
+somewhere, could you let him
+know?
+--------------------
+[GOGO]: Master!?
+[NEWPAGE]
+"Wait, he's…"
+"…[GOGO]'s…"
+"…Master!?"
+--------------------
+Hrm? [LONGPAUSE]Oh, [GOGO]!
+It's been so long. How've you
+been all this time?
+[NEWPAGE]
+Mhm… I see… [LONGPAUSE]You've been using
+your mimicry to help these
+people, eh?
+[NEWPAGE]
+But can you say you've TRULY
+mastered the art of mimicry,
+hmm?
+[NEWPAGE]
+To fully mimic someone, you
+MUST know everything about
+them. You must know who they
+are to their very core.
+--------------------
+With that said, I have a little
+test for you. You ready?
+[NEWPAGE]
+[GOGO]: ……Yes!
+--------------------
+I'll now ask you questions
+about your friends. Get them all
+right and I shall teach you my
+ultimate mimicry technique!
+--------------------
+Question 1:
+[TERRA] enjoys "fluffing"
+which of the following?
+[NEWPAGE]
+[CHOICE] Chocobos
+[CHOICE] Moogles
+[CHOICE] Mus
+[CHOICE] Cactaurs
+--------------------
+Incorrect! You've still got a lot
+to learn, it seems…
+--------------------
+Correct!
+[NEWPAGE]
+Question 2:
+Who used to tell [LOCKE]
+stories about the War of the
+Magi?
+[NEWPAGE]
+[CHOICE] His mother
+[CHOICE] His father
+[CHOICE] His grandmother
+[CHOICE] The pub owner
+--------------------
+Correct!
+[NEWPAGE]
+Question 3:
+At what level does [CYAN]
+learn the Dragon Force Bushido
+technique?
+[NEWPAGE]
+[CHOICE] Level 16
+[CHOICE] Level 20
+[CHOICE] Level 24
+[CHOICE] Level 32
+--------------------
+Well done!
+[NEWPAGE]
+Question 4:
+[SHADOW]'s real name is Clyde.
+So where did he get the name
+[SHADOW] from?
+[NEWPAGE]
+[CHOICE] It was his old gang's name
+[CHOICE] It was his best friend's name
+[CHOICE] It was his old sword's name
+[CHOICE] None of the above
+--------------------
+Impressive!
+[NEWPAGE]
+Question 5:
+What is the coming-of-age
+ritual in [EDGAR]'s Kingdom
+of Figaro?
+[NEWPAGE]
+[CHOICE] Walking across the desert
+[CHOICE] Mastering machine technology
+[CHOICE] Hunting an Antlion
+[CHOICE] Spiritual training on Mt. Kolts
+--------------------
+Let's see how you handle this
+one!
+[NEWPAGE]
+Question 6:
+What is [SABIN]'s middle
+name?
+[NEWPAGE]
+[CHOICE] Rani
+[CHOICE] Rane
+[CHOICE] Reni
+[CHOICE] Rene
+--------------------
+Oh, you've done your
+homework!
+[NEWPAGE]
+Question 7:
+[CELES] treasures a flower
+that Cid gave her as a gift.
+What type of flower is it?
+[NEWPAGE]
+[CHOICE] Rose
+[CHOICE] Casablanca
+[CHOICE] Snowdrop
+[CHOICE] Malboro
+--------------------
+Yes! Correct! You're on a real
+roll!
+[NEWPAGE]
+Question 9:
+Which of the following
+nicknames has [RELM] never
+called anyone?
+[NEWPAGE]
+[CHOICE] Lover-boy
+[CHOICE] Old hag
+[CHOICE] Ditzy thief
+[CHOICE] Oversized meatball
+--------------------
+Mrmmm… You really know your
+stuff…
+[NEWPAGE]
+Question 10:
+Which of the following Final
+Fantasy games has [SETZER] 
+NOT appeared in?
+[NEWPAGE]
+[CHOICE] Final Fantasy Tactics
+[CHOICE] Final Fantasy V (Advance)
+[CHOICE] Final Fantasy 13-2
+[CHOICE] Final Fantasy Type-0
+--------------------
+Wow! I can't believe you've
+made it this far!
+[NEWPAGE]
+Question 11:
+What is [MOG] the moogle's
+blood type?
+[NEWPAGE]
+[CHOICE] Spinny Sheep Type
+[CHOICE] Fluffy Kitty Type
+[CHOICE] Lion Mane Type
+[CHOICE] Black-Footed Duck Type
+--------------------
+Okay, how about this one?
+[NEWPAGE]
+Question 12:
+Where does [GAU] say,
+"Smells like wine…
+[SPACE_07]Smells like old man…"?
+[NEWPAGE]
+[CHOICE] Vector
+[CHOICE] The Blackjack
+[CHOICE] South Figaro
+[CHOICE] Jidoor
+--------------------
+I knew I trained you right!
+Here's another!
+[NEWPAGE]
+Question 13:
+During the boss fight against
+[UMARO], which of the
+following does he NOT do?
+[NEWPAGE]
+[CHOICE] Power up with Dried Meat
+[CHOICE] Counter fire-based attacks
+[CHOICE] Perform Ice Storm regularly
+[CHOICE] Cast Berserk at low HP
+--------------------
+Very good! You clearly know
+your friends inside and out!
+[NEWPAGE]
+But more than anything else,
+you must understand yourself.
+So let's move on to the final
+question!
+[NEWPAGE]
+Question 14:
+Which of Gogo's stats is the
+lowest?
+[NEWPAGE]
+[CHOICE] Power
+[CHOICE] Speed
+[CHOICE] Stamina
+[CHOICE] Magic Power
+--------------------
+Correct!
+To know the enemy AND
+yourself makes you
+unstoppable.
+[NEWPAGE]
+As of this moment, I deem you
+a true mimic of unfathomable
+ability!
+[NEWPAGE]
+[GOGO]: Master…
+[NEWPAGE]
+Wahaha! [LONGPAUSE]
+Here. This book symbolizes that
+you've passed my test and have
+learned my ultimate technique.
+[NEWPAGE]
+Take the book with you… [LONGPAUSE]but
+don't make a copy of it! Wahah!
+--------------------
+Now, then… [LONGPAUSE]Go forth and mimic
+the saving of our world!
+--------------------
+I think I'll stay here and take it
+easy while I wait for you folks
+do your world-saving thing.
+--------------------
+[CHOICE] [UMARO] (Normal)
+[CHOICE] Oracle's Bolero
+[CHOICE] EXIT
+--------------------
+What'll it be today?
+[CHOICE] Use dressing room
+[CHOICE] Hear explanation
+--------------------
+When your party has three or
+fewer members, the game can
+freeze if everyone else on the
+Falcon has a new outfit on.
+[NEWPAGE]
+So please be extra aware of
+whose outfits you're changing
+when traveling with three or
+fewer party members.
+--------------------
+How about this question?
+[NEWPAGE]
+Question 8:
+In which of the following
+situations will [STRAGO] NOT
+learn a blue magic spell?
+[NEWPAGE]
+[CHOICE] When it (the spell) KOes him
+[CHOICE] While inflicted with Blind
+[CHOICE] When it hits someone else
+[CHOICE] When a level-based spell fails
+--------------------
+Welcome to the Soul Shrine.
+[NEWPAGE]
+This is a place where evil souls
+linger and fester, trapped in a
+vortex of despair…
+[NEWPAGE]
+The only way to quell their
+blind anger is to defeat them in
+combat and put them to rest.
+[NEWPAGE]
+As you have already quieted the
+souls, you are now free to
+fight the souls of your
+choosing.
+[NEWPAGE]
+Do you wish to challenge souls
+in battle?
+[NEWPAGE]
+[CHOICE] Yeah! Let's fight!
+[CHOICE] Let me choose!
+[CHOICE] Heck, no! Never mind!
+[CHOICE] Ask for an explanation
+--------------------
+Begin with which group?
+[CHOICE] 1    [SPACE_01][CHOICE] 2   [SPACE_04][CHOICE] 3
+[CHOICE] 4   [SPACE_02][CHOICE] 5   [SPACE_04][CHOICE] 6
+[CHOICE] NEXT
+--------------------
+[CHOICE] 7   [SPACE_03][CHOICE] 8   [SPACE_04][CHOICE] 9
+[CHOICE] 10  [SPACE_03][CHOICE] 11   [SPACE_02][CHOICE] 12
+[CHOICE] BACK
+[CHOICE] NEXT
+--------------------
+[SPACE_01]
+[CHOICE] 13  [SPACE_03][CHOICE] 14  [SPACE_03][CHOICE] 15
+[CHOICE] BACK
+--------------------
+Lone Wolf: Surprised to see
+me? I got caught stealing stuff
+and now I'm being forced to
+work here.
+[NEWPAGE]
+Lone Wolf: So, whatcha wanna
+buy?
+--------------------
+Baram: That cute girl behind
+you… Her name's Rachel, you
+say? She's gorgeous!
+--------------------
+Baram: Oh, hey! Clyde!
+How are things? You better
+take good care of your
+daughter, y'hear!?
+[NEWPAGE]
+[SHADOW]: …Of course. You can
+count on it. [LONGPAUSE]Thank you, Baram.
+--------------------
+Rachel: Oh, hello, everyone!
+It's good to see you again!
+I hope you enjoy your time
+here!
+--------------------
+Rachel: [LOCKE]! [LONGPAUSE]
+Are you STILL "working" as a
+treasure hunter?
+[NEWPAGE]
+Rachel: You should think about
+getting a REAL job soon, or else
+[CELES] is liable to dump
+you! Better get to it!
+--------------------
+[LOCKE]: … [LONGPAUSE]Eep.
+--------------------
+Darill: How's my dear ol' Falcon
+doing? I love looking at the
+night sky from her deck!
+There's nothing like it!
+[NEWPAGE]
+Darill: [SETZER]'s Blackjack is
+definitely a good ship too, but
+nothing compared to the
+Falcon!
+--------------------
+Darill: [SETZER]! [LONGPAUSE]
+You're taking good care of my
+Falcon, I hope?
+[NEWPAGE]
+[SETZER]: Yeah. She's doing
+fine.
+[NEWPAGE]
+Darill: Just remember, I'm only
+lending her to you. She's gonna
+leave your Blackjack in the
+dust again someday!
+--------------------
+[SETZER]: Ha! In your
+dreams!
+--------------------
+Welcome to the Developer's
+Room! [LONGPAUSE]Well, the developers
+aren't actually here, but, uhh,
+yeah…
+[NEWPAGE]
+Hmm? Why's it called the
+Developer's Room then? [LONGPAUSE]
+What kind of question is that!?
+'Cause it sounds cool, duh!
+--------------------
+????: Oh, it was terrible…
+[NEWPAGE]
+I rode the Phantom Train for
+so long… but I actually have
+terrible motion sickness.
+[NEWPAGE]
+Thank goodness I finally
+managed to get off it!
+--------------------
+????: Oh, hi, [SABIN]!
+Long time, no see!
+[NEWPAGE]
+[SABIN]: … [LONGPAUSE]You know me? [LONGPAUSE]
+Oh! You're that ghost from the
+Phantom Train!
+[NEWPAGE]
+[SABIN]: Wait… [LONGPAUSE]… [LONGPAUSE]
+You can talk!?
+--------------------
+This place throws the main
+story, canon, and all that out
+the window. So don't take this
+stuff too seriously, okay?
+[NEWPAGE]
+It's just for fun!
+--------------------
+Namingway: My name is
+Namingway.
+[NEWPAGE]
+Namingway: So, would you like
+to change someone's name?
+[CHOICE] Yes!
+[CHOICE] No!
+--------------------
+Namingway: Ah. Well, if you
+ever want to change someone's
+name, I'll be right here.
+--------------------
+Change whose name?
+--------------------
+Gestahl: Indeed, I am the
+emperor.
+--------------------
+Biggs: Whew, we finally made
+it back.
+[NEWPAGE]
+We wound up traveling
+through a bunch of different
+worlds while you were on your
+own adventure, you see.
+--------------------
+Biggs: ! [LONGPAUSE]It's you…!
+[NEWPAGE]
+[TERRA]: … [LONGPAUSE]Captain Biggs?
+[NEWPAGE]
+Biggs: [TERRA]… [LONGPAUSE] [LONGPAUSE]
+Finally, we meet again… [LONGPAUSE]
+It was you! [LONGPAUSE]It was all YOUR
+doing!
+[NEWPAGE]
+Biggs: Because of you, we got
+transported to a place called
+the Guardia Kingdom…
+[NEWPAGE]
+…joined some group called
+AVALANCHE, and got hired as
+bottom-tier grunts for the
+Galbadian Army!
+[NEWPAGE]
+Biggs: In this one world called
+Spira, we worked as security
+soldiers and athletes for a
+really weird sport!
+[NEWPAGE]
+And then in this other world
+with two moons, we were
+members of an airship fleet
+called the Red Wings!
+[NEWPAGE]
+Biggs: Oh, yeah, and in the last
+world, we ended up with bodies
+that can't die, no matter what!
+Can you believe that!?
+[NEWPAGE]
+All I remember is being stuck
+there for centuries!
+--------------------
+[TERRA]: I'm… [LONGPAUSE]Umm…
+--------------------
+Biggs: That was SO much fun! [LONGPAUSE]
+And it was all thanks to you! [LONGPAUSE]
+You're the greatest!
+--------------------
+[TERRA]: …!?
+--------------------
+Biggs: Hahaha! [LONGPAUSE]I doubt anyone
+else has ever got to experience
+so many different things!
+[NEWPAGE]
+Biggs: Thank you! Really, I
+mean it! Thank you!
+--------------------
+Biggs: But, there is one thing
+that bugs me… [LONGPAUSE]Why is my name
+the only one that people get
+wrong?
+[NEWPAGE]
+Biggs: My name is BIGGS! [LONGPAUSE]
+B-I-G-G-S! Not Vicks! [LONGPAUSE]
+Seriously, who calls anyone
+"Vicks" in the first place!?
+--------------------
+Wedge: I'm glad to be back and
+all, but… [LONGPAUSE]man, the world sure
+got wrecked while we were
+gone.
+--------------------
+Wedge: ! [LONGPAUSE][TERRA]… right?
+Do you… [LONGPAUSE]remember me at all?
+[NEWPAGE]
+[TERRA]: Of course. You're
+Wedge, right?
+[NEWPAGE]
+Wedge: O- [LONGPAUSE]oh man…
+[NEWPAGE]
+Wedge: Then… [LONGPAUSE]I guess you
+remember when I used the
+Slave Crown to make you, [LONGPAUSE]umm,
+[LONGPAUSE]call me "Wedgey-Wedge"…?
+--------------------
+[TERRA]: … [LONGPAUSE]Nope, can't say I
+remember that. [LONGPAUSE] [LONGPAUSE]
+…Wedgey-Wedge.
+--------------------
+Wedge: S-send me back! Send
+me back to any other world
+than this one!
+--------------------
+Leo: Oh, thank heavens!
+It's you! I'm saved!
+[NEWPAGE]
+"What do you mean?"
+[NEWPAGE]
+Leo: Kefka here has been
+talking to me non-stop for… [LONGPAUSE]
+who knows how long.
+[NEWPAGE]
+Could you help me out and
+chat with him so I don't have
+to?
+--------------------
+Leo: Say… Is my face really
+that frightening?
+[NEWPAGE]
+Leo: Children run away in tears
+when they see me…
+--------------------
+Kefka: Hey, you cretins!
+Have you bought Dissidia yet?
+Hmmm?
+[NEWPAGE]
+Kefka: I'm in it, you know!
+It makes me look so cool and
+hip! It's MY kind of game!
+[NEWPAGE]
+Kefka: What's that?
+You haven't played it yet!?
+--------------------
+Kefka: You son of a
+submariner!
+--------------------
+Kefka: You better buy
+Duodecim too, or else I'll hate
+hate HATE you!
+--------------------
+You can use that record player
+to listen to a variety of music.
+--------------------
+Owain: Someday I'm gonna be a
+good swordfighter just like my
+dad!
+--------------------
+Owain: Dad! [LONGPAUSE]I'm gonna train lots
+and lots and be a swordfighter
+just like you!
+[NEWPAGE]
+[CYAN]: Owain… [LONGPAUSE]No. [LONGPAUSE]
+You mustn't grow up to be like
+me. You should be… [LONGPAUSE]better than
+me. As a man and a warrior.
+[NEWPAGE]
+Owain: ! [LONGPAUSE]Okay! [LONGPAUSE]
+I'll be a swordfighter just like
+you, but better!
+--------------------
+Owain: I'm trying to copy my
+dad's sword moves. [LONGPAUSE]
+Hiyaaa! [LONGPAUSE]Faaaang Strike!
+--------------------
+Elayne: Hello, everyone.
+Please look after [CYAN]
+for me.
+--------------------
+Elayne: My dear…!
+[NEWPAGE]
+[CYAN]: Elayne! How elated
+I am to see thee again!
+[NEWPAGE]
+Elayne: I'm all right. I do worry
+about you, but I know that you
+will accomplish your mission.
+--------------------
+[CYAN]: Yes. Please continue
+to look after Owain until my
+return.
+--------------------
+Shiva: Urgghh… [LONGPAUSE]
+Just a few more minutes… [LONGPAUSE]
+Mornings are my ultimate
+weakness…
+--------------------
+Carbuncle: Apparently, in the
+old days, espers could only be
+summoned by people who made
+pacts with them.
+[NEWPAGE]
+Those people were called
+"summoners".
+[NEWPAGE]
+Carbuncle: So I was thinking… [LONGPAUSE]
+You should make a pact with
+me, so you can be just like
+old-timey summoners!
+[NEWPAGE]
+Haha! Just kidding!
+--------------------
+Ramuh: Now that I'm back in
+the peace and quiet of the
+Esper Realm, I can't help but
+miss living in Zozo.
+[NEWPAGE]
+Despite how they seem, the
+people there are quite nice in
+their own way.
+--------------------
+Ifrit: This is my vegetable field.
+Once my new crop comes in, I'd
+be happy to have you over for
+dinner.
+[NEWPAGE]
+Cooking is my true skill, believe
+it or not.
+--------------------
+[SPACE_01]
+[CENTER]Master Crown
+[NEWPAGE]
+Awarded to those who conquer
+the Soul Shrine and quiet the
+countless souls within it.
+--------------------
+[SPACE_01]
+[CENTER]Magitek Armor
+[NEWPAGE]
+A military weapon powered by
+magic. Comprises the bulk of
+the Empire's military strength.
+--------------------
+[SPACE_01]
+[CENTER]Shiny Helmet
+[NEWPAGE]
+[GAU]'s treasure, which
+he kept hidden inside Crescent
+Mountain.
+[NEWPAGE]
+Originally used by the Empire
+for underwater work. Allows
+the wearer to move freely
+underwater for a short period.
+--------------------
+*** WLn1
+--------------------
+*** WLn2
+--------------------
+*** WLn3
+--------------------
+[SPACE_01]
+[CENTER]Crystal Shards
+[NEWPAGE]
+Shards of crystal with the
+powers of Wind, Water, Fire,
+and Earth. Stories of old
+describe them thusly…
+[NEWPAGE]
+[CENTER]"Hope gives Earth blessing
+[CENTER]Courage lights the flame…
+[NEWPAGE]
+[CENTER]Kindness makes water
+[CENTER]the source of life
+[CENTER]and pursuit lets wisdom
+[CENTER]ride the wind…
+[NEWPAGE]
+[CENTER]When the day comes
+[CENTER]that Void shall again envelop
+[CENTER]the world…
+[NEWPAGE]
+[CENTER]If within people
+[CENTER]live the four Spirits,
+[CENTER]Light shall again be born.[62]
+[NEWPAGE]
+
+[CENTER]-Minwu Cenestis
+[CENTER](Excerpt from "Luminostea
+[CENTER]Properita Vetrilada[62])
+--------------------
+[SPACE_01]
+[CENTER]Imp Robot
+[NEWPAGE]
+A wind-up doll. Popular
+among the aristocrats of
+Jidoor.
+--------------------
+[SPACE_01]
+[CENTER]Airship Model
+[NEWPAGE]
+A 1/1200 scale model of the
+Blackjack airship.
+--------------------
+Father: Wait… [LONGPAUSE]Oops! I forgot my
+billfold!
+[NEWPAGE]
+Child: Daddy!! You're such a
+dumb-dumb!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Talking Chocobo!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Imp Robot!
+--------------------
+Sylph: In the old days, people
+used to summon us all the time.
+But these days, almost nobody
+ever calls for us.
+--------------------
+Sylph: Oh, are you a warrior
+monk too? [LONGPAUSE]Hmm… [LONGPAUSE]You're
+nowhere as cool as Yang,
+though.
+[NEWPAGE]
+[SABIN]: … [LONGPAUSE]
+Maybe I should care more about
+how I dress after all…
+--------------------
+Hummingway: Hum-hum-hum! ♪
+--------------------
+Catoblepas: I have trouble
+looking others in the eye,
+partly because my eyes turn
+stuff to stone.
+[NEWPAGE]
+Catoblepas: But the truth is… [LONGPAUSE]
+I'm just really shy, more than
+anything else…
+--------------------
+Phantom: I know I'm practically
+invisible and easy to forget, but
+I hope you'll still summon me
+from time to time.
+[NEWPAGE]
+If that's okay with you, I mean!
+--------------------
+Yura: I wonder what move I'd
+do if someone were to summon
+me.
+[NEWPAGE]
+Yura: Giga-Flare!! [LONGPAUSE]
+Ooh, that'd be so nice to have…
+--------------------
+Maduin: Just so you know,
+there's a different esper
+named Madeen. He's not me,
+though.
+[NEWPAGE]
+We have similar names, but
+we're completely different.
+Try not to mix us up!
+--------------------
+[TERRA]: Father!
+[NEWPAGE]
+Maduin: Oh, [TERRA]! [LONGPAUSE]
+Wow… [LONGPAUSE]You've grown so much. [LONGPAUSE]
+Come visit us anytime. We'll be
+waiting for you!
+--------------------
+Madeline: That silly Maduin of
+mine is self-conscious about
+being a bland, generic esper.
+[NEWPAGE]
+Madeline: I don't get it.
+Personally, I see lots of things
+that make him great!
+--------------------
+[TERRA]: Mother…!
+[NEWPAGE]
+Madeline: Oh, [TERRA]…! [LONGPAUSE]
+I never thought I'd see you
+again!
+[NEWPAGE]
+Madeline: Just promise me you
+won't push yourself too hard,
+okay?
+[NEWPAGE]
+[TERRA]: Okay. I promise. [LONGPAUSE]
+Thank you, Mother.
+--------------------
+Unicorn: Did you know? My Heal
+Horn can even turn a Raged
+character back to normal.
+--------------------
+[GAU]: …… [LONGPAUSE]Gau?
+--------------------
+How can I help you today?
+[CHOICE] Use dressing room
+[CHOICE] Hear explanation
+[CHOICE] Change everyone's outfits
+--------------------
+Oh, you want to change
+everyone's outfits?
+[NEWPAGE]
+Which outfits should everyone
+switch to?
+[CHOICE] Normal Outfits
+[CHOICE] Special Outfits
+--------------------
+Got it. Just a moment, please.
+--------------------
+I'm not sure when it happened,
+but an octopus-like fellow
+moved in to our village at some
+point.
+[NEWPAGE]
+I don't recall there being any
+espers who look like him,
+though…
+--------------------
+Ultros: The espers have loads
+of cute girls too, y'know.
+--------------------
+[RELM]: What are YOU doing
+here, Ulty?
+[NEWPAGE]
+Ultros: N'ghaaa! [LONGPAUSE]Y-y-you! [LONGPAUSE]
+I finally found you, pipsqueak!
+[NEWPAGE]
+That painting you did of me… [LONGPAUSE]
+It… [LONGPAUSE]made me look like a nasty
+sea creature! [LONGPAUSE]How could ya do
+that to me 'n my face!?
+--------------------
+Typhon: Fungahhh!!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Airship Model!
+--------------------
+This is the Mog House!
+The save point here is special!
+[NEWPAGE]
+If you save your game here
+and "transfer" the save file to
+work with Final Fantasy VI
+T-Edition EX…
+[NEWPAGE]
+…you'll be able to access an
+entirely new bonus area with
+super-challenging boss battles!
+[NEWPAGE]
+Basic Instructions:
+1. Unlock the Mog House in
+   FF6 T-Edition
+[NEWPAGE]
+2. Save the game at the save
+   point inside the Mog House
+   (To be safe, make a backup
+   of your save file too)
+[NEWPAGE]
+3. Rename the FF6 T-Edition
+   save file (usually a .srm
+   file) to match the name
+   of the EX game.
+[NEWPAGE]
+(For example, if the EX game is
+called FF6T-EX.smc, rename
+your save file to FF6T-EX.srm)
+[NEWPAGE]
+4. Load and play the EX game.
+   If done correctly, it will
+   recognize your FF6 T-Edition
+   save file and load properly.
+[NEWPAGE]
+This is kind of complicated
+stuff, so see the readme file
+if you're having trouble
+getting it to work.
+--------------------
+Feel free to use the Mog House
+whenever you want!
+--------------------
+"Love Conquers All"
+Obtained the mementos of
+a certain someone's mother
+and father.
+--------------------
+"Like Candy from a Baby"
+Successfully performed Steal
+500 times.
+--------------------
+"Bushido Blade"
+Mastered all Bushido
+techniques.
+--------------------
+"Team Effort"
+Used Twin Fangs 250 times.
+--------------------
+"Icing on the Cake"
+Liberated South Figaro during
+the banquet event.
+--------------------
+"The Duncan Master"
+Learn Duncan's ultimate
+technique.
+--------------------
+"Rune Amok"
+Successfully performed Runic
+500 times.
+--------------------
+"Old Dog's New Tricks"
+Learned every blue magic spell.
+--------------------
+"Worth a Thousand Words"
+Successfully performed Sketch
+500 times.
+--------------------
+"One-Armed Bandit"
+Used Slot 500 times.
+--------------------
+"Dances with Moogles"
+Learned every Dance technique.
+--------------------
+"Zoo Keeper"
+Learned every Rage technique.
+--------------------
+"Copy Machine"
+Used Mimic 500 times.
+--------------------
+"Cold-Hearted"
+Used Ice Storm 500 times.
+--------------------
+"Fashion Statement"
+All characters have at least one
+extra outfit.
+--------------------
+"Ultimate Collector"
+Complete all collections.
+--------------------
+"Time Traveler"
+Began a New Game+ game.
+--------------------
+"Magicite Maniac"
+Obtained every magicite.
+--------------------
+"Totally Engrossed"
+Played for over 100 hours.
+--------------------
+"Roam, Sweet Roam"
+Took over 200,000 steps.
+(Technically, over 196,607
+[SPACE_07]steps)
+--------------------
+"Extra Complete"
+Completed Final Fantasy VI,
+Final Fantasy T-Edition, and
+Final Fantasy T-Edition EX.
+--------------------
+"Quest Quencher"
+Completed every pub quest.
+--------------------
+[UMARO]: Boss! Me have Boss!
+Oo!
+--------------------
+[GOGO]: I need to mimic
+saving the world.
+--------------------
+[MOG]: I have… Molulu and
+my friends, kupo!
+--------------------
+[SABIN]: [CYAN]!
+H-hit that switch! [PAUSE_0A][SHORTPAUSE]
+[NEWPAGE]
+[CYAN]: I, umm… Mechanical
+devices are… not my strong
+point. [PAUSE_0A][SHORTPAUSE]
+--------------------
+[UMARO]: Me fix! Oo! [PAUSE_0A][SHORTPAUSE]
+--------------------
+[GAU]: No open! [PAUSE_0C][SHORTPAUSE]
+--------------------
+[RELM]: We have to press
+both buttons the same way at
+the same time! [PAUSE_08][SHORTPAUSE]
+--------------------
+[STRAGO]: [GOGO]!
+Mimic [RELM]! [PAUSE_08][SHORTPAUSE]
+--------------------
+[SABIN]: [SHADOW]!
+[RELM]: Hurry! Hurry! [PAUSE_07][SHORTPAUSE]
+--------------------
+[SHADOW]: Sorry, Baram.
+Looks like you're gonna have to
+wait a little while longer.[PAUSE_0A][SHORTPAUSE]
+--------------------
+[SHADOW]: I'm not ready to
+join you just yet after all.[PAUSE_0A][SHORTPAUSE]
+--------------------
+[CYAN]: With faith in the
+dawn, I can do naught but
+swing my sword.
+--------------------
+[SABIN]: I'm gonna use
+everything my master taught
+me to take Kefka down!
+--------------------
+[MOG]: I'm going to show
+the world what we moogles are
+made of, kupo!
+--------------------
+[UMARO]: Oo… Me, hurt
+nature killer!
+--------------------
+[GOGO]: …Please. Let me
+mimic you someday.
+--------------------
+[SHADOW]: Hmm… A reason
+for living…
+--------------------
+[GAU]: [GAU] get
+stronger! Uwaaoh!
+--------------------
+At night, monsters crawl out of
+the mine and come into town.
+[NEWPAGE]
+The city guards do conduct
+patrols to keep us safe, but it's
+a lot of work for so few
+people.
+[NEWPAGE]
+So, if it isn't too much to ask,
+could you deal with some of the
+monsters before they take
+over the town?
+[NEWPAGE]
+[CHOICE] Accept "Night Patrol"
+[CHOICE] Decline
+--------------------
+Thank you! I'll go make
+arrangements with the
+innkeeper. The patrol will begin
+after sundown.
+--------------------
+The mine is where all the
+creatures come from. But you'll
+need to take out all the
+monsters along the way first.
+[NEWPAGE]
+The monsters leave before
+sunrise. We'd like to wipe out
+as many as we can, then take
+the fight into the caves.
+[NEWPAGE]
+It's a tall order for us, but I
+bet it'll be a walk in the park
+for you.
+[NEWPAGE]
+All right, then. We're counting
+on you! Good luck!
+--------------------
+"It's sunrise…"
+"We didn't get rid of them all…"
+--------------------
+Hmm? Are you gonna call it
+quits for tonight?
+[CHOICE] We can keep going!
+[CHOICE] We can't handle any more…
+--------------------
+The monsters don't seem
+interested in breaking into our
+houses, so we'll be okay for
+tonight at least.
+[NEWPAGE]
+Thanks for your help. I hope
+you'll lend a hand again
+sometime!
+--------------------
+Urgh! These things just never
+let up!
+--------------------
+Thanks! I owe you one!
+--------------------
+Banon: Oh, it's you! [LONGPAUSE]
+It seems the monsters are
+coming from the snowfield
+beyond the mines.
+[NEWPAGE]
+Banon: Don't push yourselves
+too hard, you hear? If you get
+hurt, come see me anytime.
+--------------------
+The monsters aren't that
+strong, but they come every
+single night. I never get enough
+sleep anymore.
+--------------------
+Urgh! I'm sick and tired of you
+monsters! Back off!
+--------------------
+Whew, I think I'll be okay now.
+Thanks!
+--------------------
+"I think that's all of them."
+"Let's check out the mines!"
+--------------------
+"There are still monsters in the
+[SPACE_07]city!"
+--------------------
+"Are you okay!?"
+[NEWPAGE]
+Guard: Oww, oww… [LONGPAUSE]Good thing
+all this snow was here to break
+our fall…
+--------------------
+Guard: The lead monster is in 
+the snowfield area ahead. But
+be careful inside the mines.
+They're filled with Snolls!
+--------------------
+"What now?"
+"Let's talk to the person down
+[SPACE_07]below."
+--------------------
+"That should do it, I think."
+"Let's return to town."
+--------------------
+Thank you. The city guards
+gave me this to give to you.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Snow Muffler!
+--------------------
+[SPACE_01]
+[CENTER]Obtained 5 Reincarnations!
+--------------------
+Thanks again. I hope you'll help
+us out again sometime.
+--------------------
+"Up ahead!"
+--------------------
+"The sun's about to rise!"
+--------------------
+(Poison)
+HP gradually decreases.
+[NEWPAGE]
+(Regen)
+HP gradually recovers.
+[NEWPAGE]
+(Disease)
+MP gradually decreases.
+--------------------
+[SPACE_01]
+[CENTER]Sarah
+[CENTER]FINAL FANTASY
+[NEWPAGE]
+Princess of Cornelia. The
+Warriors of Light rescue her
+from Garland. She shows great
+care for them afterward.
+[NEWPAGE]
+Cosmos, a character in the
+Dissidia series, is modeled after
+Sarah. Sarah is also Garnet's
+real name in Final Fantasy IX.
+--------------------
+[SPACE_01]
+[CENTER]Crystals
+[CENTER]FINAL FANTASY
+[NEWPAGE]
+The Warriors of Light keep
+watch over these mysterious
+artifacts that sustain the
+world.
+[NEWPAGE]
+Although the crystals had lost
+their light, the defeat of the
+Four Fiends of Chaos restores
+their brilliance.
+[NEWPAGE]
+The crystals, which serve as a
+symbol of the Final Fantasy
+series, debuted in the first
+game.
+[NEWPAGE]
+Each crystal has its own unique
+glow. This is the Crystal of Fire,
+incidentally.
+--------------------
+[SPACE_01]
+[CENTER]Hilda
+[CENTER]FINAL FANTASY II
+[NEWPAGE]
+Hilda is crown princess of the
+Kingdom of Fynn. She takes the
+reins of the rebellion after her
+father, the king, is killed.
+[NEWPAGE]
+Hilda's exceptional leadership
+abilities belie her young age
+and inspire the faith of her
+people.
+[NEWPAGE]
+Hilda's name is referenced in
+several other Final Fantasy
+games.
+[NEWPAGE]
+These references include Lady
+Hildagarde of Lindblum in FFIX,
+the pub owner in Port Bastok in
+FFXI, and an airship in FFXII.
+--------------------
+[SPACE_01]
+[CENTER]Luca
+[CENTER]FINAL FANTASY IV
+[NEWPAGE]
+The only daughter of the
+Dwarven King Giott. Her
+necklace is the key to a sealed
+cave that protects a crystal.
+[NEWPAGE]
+In the After Years sequel, Luca
+is an adult who studies
+engineering as Cid's apprentice.
+--------------------
+[SPACE_01]
+[CENTER]Namingway
+[CENTER]FINAL FANTASY IV
+[NEWPAGE]
+A mysterious character who
+grants people new names, and
+a distant relative of the
+Hummingways on the moon.
+[NEWPAGE]
+Namingway has since appeared
+in several other Final Fantasy
+games, primarily as a name
+changer.
+[NEWPAGE]
+In the Four Heroes of Light
+spinoff, he is a semi-hidden
+character who can be reached
+from Liberte at night.
+--------------------
+[SPACE_01]
+[CENTER]Boco
+[CENTER]FINAL FANTASY V
+[NEWPAGE]
+A chocobo, and Bartz's best
+friend.
+[NEWPAGE]
+Boco was separated from his
+flock before Bartz found him.
+The two end up going on an
+adventure together.
+[NEWPAGE]
+During the story, it's revealed
+that Boco has a wife named
+Koko, and that they are about
+to become parents.
+[NEWPAGE]
+In Final Fantasy IX, the Black
+Mages raise a baby chocobo
+named Bobby Corwen, or
+"Boco" for short.
+--------------------
+*** BROKEN DESCRIPTION?
+--------------------
+[SPACE_01]
+[CENTER]Angelo
+[CENTER]FINAL FANTASY VIII
+[NEWPAGE]
+Rinoa's shy, but loving pet dog.
+Despite the masculine name,
+Angelo is female. Born on
+December 13th.
+[NEWPAGE]
+In terms of strength, Angelo is
+on par with Interceptor from
+Final Fantasy VI.
+[NEWPAGE]
+Incidentally, the "Wishing Star"
+Sketch attack included in this
+ROM hack is based on one of
+Angelo's classic attacks.
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Night Patrol
+[CHOICE] EXIT
+--------------------
+[CHOICE] [TERRA] (Normal)
+[CHOICE] Silk Dress
+[CHOICE] GC-BSR Uniform
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES] (Normal)
+[CHOICE] Opera Dress
+[CHOICE] Alexandrian General's Armor
+[CHOICE] EXIT
+--------------------
+[CHOICE] [LOCKE] (Normal)
+[CHOICE] Ancient Armor
+[CHOICE] Wild Rose Bandana
+[CHOICE] EXIT
+--------------------
+[CHOICE] [EDGAR] (Normal)
+[CHOICE] Criminal Disguise
+[CHOICE] Dragon Mail
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GOGO] (Normal)
+[CHOICE] Chameleon Robes
+[CHOICE] Mysidian Robe
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SETZER] (Normal)
+[CHOICE] Engineer's Clothes
+[CHOICE] Dark Black Coat
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SABIN] (Normal)
+[CHOICE] Royal Coat
+[CHOICE] Fabul Fighting Gi
+[CHOICE] EXIT
+--------------------
+[CHOICE] [RELM] (Normal)
+[CHOICE] White Robe
+[CHOICE] Bal Princess Dress
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SHADOW] (Normal)
+[CHOICE] Wanderer's Cape
+[CHOICE] Lunar Mail
+[CHOICE] EXIT
+--------------------
+[CHOICE] [MOG] (Normal)
+[CHOICE] Geomancer Cap
+[CHOICE] Mog Bag
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GAU] (Normal)
+[CHOICE] Tuxedo
+[CHOICE] Gentleman Thief's Vest
+[CHOICE] EXIT
+--------------------
+[CHOICE] [STRAGO] (Normal)
+[CHOICE] Black Robe
+[CHOICE] Sage Spectacles
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CYAN] (Normal)
+[CHOICE] Foreign Armor
+[CHOICE] Spira Vestments
+[CHOICE] EXIT
+--------------------
+[CHOICE] [UMARO] (Normal)
+[CHOICE] Oracle's Bolero
+[CHOICE] Ronso Loincloth
+[CHOICE] EXIT
+--------------------
+Oh, you want to change
+everyone's outfits? Which
+outfits should they switch to?
+[NEWPAGE]
+[CHOICE] Normal Outfits
+[CHOICE] Special Outfits
+[CHOICE] Nice Outfits
+--------------------
+[CHOICE] [TERRA] (Normal)
+[CHOICE] Silk Dress
+[CHOICE] GC-BSR Uniform
+[CHOICE] NEXT
+--------------------
+[CHOICE] Flower Girl Dress
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [LOCKE] (Normal)
+[CHOICE] Ancient Armor
+[CHOICE] Wild Rose Bandana
+[CHOICE] NEXT
+--------------------
+[CHOICE] SeeD Jacket
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SABIN] (Normal)
+[CHOICE] Royal Coat
+[CHOICE] Fabul Fighting Gi
+[CHOICE] NEXT
+--------------------
+[CHOICE] NORA Coat
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [CELES] (Normal)
+[CHOICE] Opera Dress
+[CHOICE] Alexandrian General's Armor
+[CHOICE] NEXT
+--------------------
+[CHOICE] Summoner Kimono
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [RELM] (Normal)
+[CHOICE] White Robe
+[CHOICE] Bal Princess Dress
+[CHOICE] NEXT
+--------------------
+[CHOICE] Scholar Attire
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GOGO] (Normal)
+[CHOICE] Chameleon Robes
+[CHOICE] Mysidian Robe
+[CHOICE] NEXT
+--------------------
+[CHOICE] Heavy Armor of Moore
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [UMARO] (Normal)
+[CHOICE] Oracle's Bolero
+[CHOICE] Ronso Loincloth
+[CHOICE] NEXT
+--------------------
+[CHOICE] Full Moon Headdress
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+Y'know, I nabbed me some bait
+that's real special, yessiree.
+Monsters everywhere just love
+the taste of it, uh-huh!
+[NEWPAGE]
+I reckon we could use the bait
+to gather all of the world's
+monsters onto the Veldt!
+[NEWPAGE]
+Whatcha say? Should I lure the
+monsters onto the Veldt?
+[CHOICE] Yes, please
+[CHOICE] No, thank you
+--------------------
+Askin' for a gaggle of monsters
+to gather 'round and whatnot…
+You guys are strange, uh-huh.
+--------------------
+[CHOICE] [EDGAR] (Normal)
+[CHOICE] Criminal Disguise
+[CHOICE] Dragon Mail
+[CHOICE] NEXT
+--------------------
+[CHOICE] Cross Sword Coat
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CENTER]Achievement Goals, Part 1
+[NEWPAGE]
+- Obtain Maduin's Horn and the
+  [SPACE_04]Silk Dress
+- Successfully perform Steal
+  [SPACE_04]many times
+[NEWPAGE]
+- Defeat Cyan's nightmare and
+  [SPACE_04]learn all 8 Bushido techniques
+- Perform many teamwork
+  [SPACE_04]attacks with Interceptor
+[NEWPAGE]
+- Liberate South Figaro from
+  [SPACE_04]the Empire
+- Learn the ultimate martial
+  [SPACE_04]arts technique
+[NEWPAGE]
+- Successfully perform Runic
+  [SPACE_04]many times
+- Learn all 24 blue magic spells
+[NEWPAGE]
+- Successfully perform Sketch
+  [SPACE_04]many times
+- Use the Slot command many
+  [SPACE_04]times
+[NEWPAGE]
+- Learn all 8 Dances
+- Learn all 255 Rages
+- Use the Mimic command many
+  [SPACE_04]times
+[NEWPAGE]
+- Use the Ice Storm command
+  [SPACE_04]many times
+--------------------
+[CENTER]Achievement Goals, Part 2
+[NEWPAGE]
+- Obtain a new outfit for every
+  [SPACE_04]character
+- Fill the Collection Room in the
+  [SPACE_04]Beginner's House with stuff
+[NEWPAGE]
+- Start a New Game+ game
+- Collect every magicite
+- Play the game for a long time
+- Get a high total step count
+[NEWPAGE]
+- Complete every side quest
+  [SPACE_04]offered at pubs
+- Unlock many characters'
+  [SPACE_04]achievements
+[NEWPAGE]
+- Defeat every enemy in the
+  [SPACE_04]Final Fantasy VI T-Edition EX
+  [SPACE_04]bonus patch
+--------------------
+[CHOICE] [STRAGO] (Normal)
+[CHOICE] Black Robe
+[CHOICE] Sage Spectacles
+[CHOICE] NEXT
+--------------------
+[CHOICE] Moon Cloak
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+"Character Study"
+Unlocked achievements for
+every character.
+--------------------
+[CHOICE] [CYAN] (Normal)
+[CHOICE] Foreign Armor
+[CHOICE] Spira Vestments
+[CHOICE] NEXT
+--------------------
+[CHOICE] Far East Armor
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SHADOW] (Normal)
+[CHOICE] Wanderer's Cape
+[CHOICE] Lunar Mail
+[CHOICE] NEXT
+--------------------
+[CHOICE] SOLDIER Uniform
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [SETZER] (Normal)
+[CHOICE] Engineer's Clothes
+[CHOICE] Dark Black Coat
+[CHOICE] NEXT
+--------------------
+[CHOICE] Knight Armor
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [GAU] (Normal)
+[CHOICE] Tuxedo
+[CHOICE] Gentleman Thief's Vest
+[CHOICE] NEXT
+--------------------
+[CHOICE] Traveler's Garb
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] [MOG] (Normal)
+[CHOICE] Geomancer Cap
+[CHOICE] Mog Bag
+[CHOICE] NEXT
+--------------------
+[CHOICE] Shiny Crown
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+Oh, you want to change
+everyone's outfits? Which
+outfits should they switch to?
+[NEWPAGE]
+[CHOICE] Normal Outfits
+[CHOICE] Special Outfits
+[CHOICE] Nice Outfits
+[CHOICE] Glamorous Outfits
+--------------------
+[SPACE_01]
+[CENTER]Talking Chocobo
+[NEWPAGE]
+A life-sized stuffed doll
+popular with children. Makes a
+"wark" (or possibly "kweh")
+sound when its head is pet.
+--------------------
+[CHOICE] Never mind
+[CHOICE] I want to change outfits
+[CHOICE] I'm an expert, not a beginner!
+--------------------
+[CHOICE] Never mind
+[CHOICE] I want to change outfits
+[CHOICE] Oops, I'm a beginner after all…
+--------------------
+Excellent. Who will be changing
+their outfit?
+--------------------
+Oops, that person isn't here
+right now, it seems.
+--------------------
+What would you like to do?
+[CHOICE] Rest
+[CHOICE] Change Outfit
+--------------------
+Welcome.
+[CHOICE] Rest
+[CHOICE] Change Outfit
+--------------------
+Right. Who's going to change
+outfits?
+--------------------
+Oops, that person isn't here
+right now, it seems.
+--------------------
+"Looks like it'd be tough to
+[SPACE_07]break through here alone…"
+--------------------
+[SHADOW]: … [LONGPAUSE]
+Looks like this is where we
+part ways.
+--------------------
+Carbuncle: Are you set to fight?
+[CHOICE] Face Carbuncle in battle
+[CHOICE] EXIT
+--------------------
+Carbuncle: Okay! Here goes!
+--------------------
+Catoblepas: Are you ready?
+[CHOICE] Face Catoblepas in battle
+[CHOICE] EXIT
+--------------------
+Catoblepas: Let us see if you
+can stand up to the magical
+might of my petrifying gaze!
+--------------------
+Coliseum entrants must wager
+items when they fight.
+First, choose an item from your
+inventory to wager.
+[NEWPAGE]
+But if you're carrying lots of
+items, it'll be too hard to see
+what you're betting if it's at
+the bottom of your inventory.
+[NEWPAGE]
+So it's best to place the item
+you want to wager near the
+top of your inventory first.
+[NEWPAGE]
+Once you have chosen an item,
+your opponent will appear.
+Choose a party member to fight
+that opponent.
+[NEWPAGE]
+A one-on-one battle will then
+take place. You'll have to use
+all of your strength and wits to
+defeat your opponent!
+[NEWPAGE]
+The item you wagered serves
+as your entry fee. But if you
+win, you'll be rewarded with an
+even better item!
+[NEWPAGE]
+That's all there is to it.
+Good luck!
+--------------------
+Esper: I thank you for
+defeating Wrexsoul…
+[NEWPAGE]
+Esper: I am known as Diabolos. [LONGPAUSE]
+As an esper, I preside over
+dreams.
+[NEWPAGE]
+Diabolos: Now, what shall you
+do? Will you face me in battle?
+[CHOICE] Fight Diabolos
+[CHOICE] EXIT
+--------------------
+Diabolos: Very well. Let us see
+if you are worthy of handling
+my power…
+--------------------
+Merchant: Well, no matter!
+Need anything?
+[CHOICE] (Take a look)
+[CHOICE] (Maybe another time)
+--------------------
+Merchant: Good day to ya!
+Need anything?
+[CHOICE] (Take a look)
+[CHOICE] (Maybe another time)
+--------------------
+Ack! We gotta run!
+--------------------
+[CHOICE] Face in battle
+[CHOICE] EXIT
+--------------------
+"I don't think we can go
+[SPACE_07]underwater as we are now."
+"We shore can't."
+"……"
+[NEWPAGE]
+"What if we turn ourselves
+[SPACE_07]into toads?"
+--------------------
+Faint light shines halfway
+down the cliff…
+[NEWPAGE]
+Jump down to it?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+"Okay! Let's cast Float on
+[SPACE_07]everyone…"
+"…And then head down there."
+--------------------
+There's a hole inside the
+treasure chest…
+[NEWPAGE]
+Try jumping inside?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+[TERRA]: Hmm, let's see…
+Oh! [ITEM]!
+--------------------
+[LOCKE]: Wow, what a find!
+[ITEM]!
+--------------------
+[CYAN]: !? This is…!
+[ITEM]!
+--------------------
+[SHADOW]: Hmm.
+[ITEM].
+--------------------
+[EDGAR]: It's my lucky day!
+[ITEM]!
+--------------------
+[SABIN]: Whoa, check it out!
+[ITEM]!
+--------------------
+[CELES]: Oh.
+[ITEM].
+--------------------
+[STRAGO]: Ooh!
+[ITEM]!
+--------------------
+[RELM]: Yay! Check it out!
+[ITEM]!
+--------------------
+[SETZER]: Jackpot!
+[ITEM]!
+--------------------
+[MOG]: What the…!
+[ITEM]!
+Kupo!
+--------------------
+[GAU]: Find thing!
+[ITEM]!
+--------------------
+[GOGO]: I see.
+[ITEM].
+--------------------
+[UMARO]: Ooo! Oo!
+[ITEM] here!
+--------------------
+[TERRA]: There's
+[GP] Gil here!
+--------------------
+[LOCKE]: Whoa…
+There's [GP] Gil here!
+--------------------
+[CYAN]: My word!
+A stash of [GP] Gil!
+--------------------
+[SHADOW]: Hmm.
+[GP] Gil.
+--------------------
+[EDGAR]: Looks like
+there's [GP] Gil here!
+--------------------
+[SABIN]: Whoaaa!
+[GP] Gil!
+--------------------
+[CELES]: Oh, [GP] Gil.
+--------------------
+[STRAGO]: My stars!
+There's [GP] Gil here!
+--------------------
+[RELM]: Yay!
+[GP] Gil!
+--------------------
+[SETZER]: Ah! [GP] Gil!
+It's music to my ears!
+--------------------
+[MOG]: [GP] Gil, kupo!
+--------------------
+[GAU]: [GP] Gil-Gil!
+--------------------
+[GOGO]: Hmm.
+[GP] Gil.
+--------------------
+[UMARO]: [GP] Gil!
+Oooo!
+--------------------
+[CHOICE] Flower Girl Dress
+[CHOICE] Caller Bustier
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] SOLDIER Uniform
+[CHOICE] Shinobi Garb
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Cross Sword Coat
+[CHOICE] Pilot Suit
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] NORA Coat
+[CHOICE] Auroch Bandana
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Summoner Kimono
+[CHOICE] Sorceress' Coat
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Scholar Attire
+[CHOICE] Azure Dirndl
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Knight Armor
+[CHOICE] Emperor's Coat
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Traveler's Garb
+[CHOICE] Ace Uniform
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Far East Armor
+[CHOICE] Judge Mail
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Shiny Crown
+[CHOICE] Tonberry Coat
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Moon Cloak
+[CHOICE] Engineer's Goggles
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+There's writing on the
+gravestone, but it's too faded
+to read…
+[NEWPAGE]
+On closer look, there's some
+sort of button here. Push it?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+Very impressive! I can't believe
+you actually found me! As your
+reward, I'll give you new
+outfits to wear!
+[NEWPAGE]
+See you again somewhere,
+someday!
+--------------------
+[SPACE_01]
+[CENTER]Received a whole bunch
+[CENTER]of new outfits!
+--------------------
+Oh, you want to change
+everyone's outfits? Which
+outfits should they switch to?
+[NEWPAGE]
+[CHOICE] Normal Outfits
+[CHOICE] Special Outfits
+[CHOICE] Nice Outfits
+[CHOICE] NEXT
+--------------------
+[CHOICE] Glamorous Outfits
+[CHOICE] Secret Outfits
+[CHOICE] EXIT
+--------------------
+[CHOICE] SeeD Jacket
+[CHOICE] Sky Pirate Garb
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Heavy Armor of Moore
+[CHOICE] Aegishjalmr
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+[CHOICE] Full Moon Headdress
+[CHOICE] Pure White Apron
+[CHOICE] BACK
+[CHOICE] EXIT
+--------------------
+Banon: I wish I'd been given
+more to do in the original
+game…
+--------------------
+Arvis: Here's hoping for a patch
+that adds me and Banon as full
+party members!
+--------------------
+Duane: I'm sorry for all the
+dumb stuff I've said!
+[NEWPAGE]
+Duane: Man… [LONGPAUSE]I'm such a loser in
+the main game…
+--------------------
+Katarin: The children gave
+Duane a real talking-to about
+how he doesn't understand
+girls at all.
+--------------------
+This music… It gives one the
+feeling of a story beginning, or
+of something ominous waiting
+just over the horizon.
+--------------------
+This music nicely conveys what
+the town of Narshe "feels"
+like.
+[NEWPAGE]
+And is it just me, or is that the
+sound of steam being released
+into the cold air?
+--------------------
+There are many things that
+can awaken in people, just as
+there are many things that
+people can awaken.
+[NEWPAGE]
+Hidden inner strength, for
+example, or determination born
+from uncertainty.
+--------------------
+This music fills me with strong
+feelings of courage.
+[NEWPAGE]
+It reminds me that no matter
+how difficult things get, there
+will always be a path forward
+if you keep looking ahead.
+--------------------
+Pointless fighting only leads to
+sorrow, but sometimes fighting
+is necessary to survive.
+[NEWPAGE]
+That's the thought that comes
+to mind as I listen to this tune.
+--------------------
+This is a fanfare played for the
+victors, after a battle is won.
+But, then, what music is played
+for the losers, I wonder…
+--------------------
+A mechanical castle, floating in
+a vast sea of sand…
+[NEWPAGE]
+This music brilliantly captures
+the Figaro Kingdom's fiery
+spirit that burns hotter than
+the desert itself.
+--------------------
+Ah, the whimsical melody of a
+clown.
+[NEWPAGE]
+Deep within its guise of
+innocence lurks a hidden
+madness. But, what, in turn,
+lurks within that madness?
+--------------------
+Mt. Kolts has served as a
+training spot since time
+immemorial.
+[NEWPAGE]
+As this adventurous tune hits
+my ears, I can't help but
+imagine braving the sacred
+mountain's challenges myself.
+--------------------
+The Returners… A resistance
+group that opposes the
+Empire.
+[NEWPAGE]
+This music nicely conveys the
+covert, rebellious spirit that
+drives every one of its
+members.
+--------------------
+An assassin who has silenced
+his own soul…
+[NEWPAGE]
+I can almost hear this music
+accompanying him as he
+wanders the wastelands all
+alone.
+--------------------
+This music captures the image
+of the mighty Empire's soldiers
+marching into battle.
+--------------------
+A samurai who wields his
+katana for what he believes in.
+[NEWPAGE]
+This music conveys his sheer
+strength of will to keep moving
+forward, in spite of the great
+sorrow he carries with him.
+--------------------
+This is the sound of intense
+anger translated into music.
+[NEWPAGE]
+Its quick tempo accurately
+expresses the fiery feelings
+that come with anger.
+--------------------
+This mysterious, otherworldly
+melody portrays the beauty
+and quietness of the Phantom
+Forest.
+--------------------
+This haunting, enigmatic music…
+[NEWPAGE]
+It truly befits the idea a
+"phantom" train that carries
+the souls of the dead to the
+afterlife.
+--------------------
+This music boasts such wild
+power… The sound of it fires
+up everyone who hears it.
+--------------------
+Oh, what soothing music…
+It makes me feel warm and
+happy inside, like I'm sitting in
+a nice, sunny spot.
+--------------------
+The Serpent Trench stretches
+along the ocean floor. Who
+knows what could be lurking in
+its underwater depths…
+--------------------
+This music evokes the image of
+a peaceful town filled with
+hope.
+[NEWPAGE]
+You can almost hear the
+laughter of children in the
+distance as the melody plays.
+--------------------
+Loneliness… Insecurity… Fear…
+This music seems to embody
+the uncertainty felt by people
+who have been conquered.
+--------------------
+"O my hero, my beloved,
+[SPACE_07]shall we still be made to
+[SPACE_07]part…?"
+[NEWPAGE]
+I can't help but hear this song
+in my head whenever I see two
+lovers sharing a moment
+together.
+--------------------
+This invigorating music fills me
+with courage.
+[NEWPAGE]
+Perhaps it's true that a
+person's true strength reveals
+itself while protecting the
+things they love most.
+--------------------
+A battle with a great
+adversary…
+[NEWPAGE]
+Suddenly hearing this music
+during a decisive situation
+would definitely give me a
+confidence boost!
+--------------------
+An omen that something
+terrible will happen…
+[NEWPAGE]
+This music captures the sense
+of uncertainty you'd feel if the
+world you knew suddenly
+ceased to exist.
+--------------------
+This melody conveys the
+feelings of unease and hope
+that come with a journey of
+self-discovery.
+[NEWPAGE]
+With that in mind, this music
+certainly suits the start of a
+certain young woman's
+journey.…
+--------------------
+This music tells the tale of two
+people, bound by the fate of
+royal succession that ultimately
+rests on a single coin flip.
+--------------------
+Chocobo-choco-choco
+Cho-cobo~♪ [LONGPAUSE]
+Come on! All together now!
+--------------------
+This music captures the feeling
+of saying goodbye to a loved
+one for the last time.
+[NEWPAGE]
+But even afterward, that
+feeling will undoubtedly remain
+deep within, never to
+disappear.
+--------------------
+The slum city of Zozo is
+teeming with liars.
+[NEWPAGE]
+Apparently this type of music
+can sometimes be heard when
+it rains there.
+--------------------
+This fun, rhythmic tune almost
+makes you want to drop
+everything and start dancing
+wherever you are.
+--------------------
+Oh, this is the prelude to the
+opera, "Maria and Draco".
+[NEWPAGE]
+The two lovers get separated
+by the war. I wonder what will
+become of them…
+--------------------
+"I am thankful, my beloved, for
+[SPACE_07]your tenderness and grace.
+[NEWPAGE]
+[SPACE_07]I see in your eyes, so gentle
+[SPACE_07]and wise, all doubts and fears
+[SPACE_07]erased."
+[NEWPAGE]
+This is the beautiful song in
+which Maria shares her feelings
+for Draco.
+--------------------
+This music plays when Ralse
+and Draco confront each other.
+Just how will their duel end…?
+--------------------
+All's well that ends well, I
+guess? In opera, like in life,
+there's no telling what can
+happen.
+--------------------
+This delightful tune conveys the
+lifestyle of a gambler who lives
+as freely as a great airship
+soaring through the skies.
+--------------------
+Ah, a standard jazz number.
+It's not good, though. It's bad.
+Literally. It's in the title.
+--------------------
+This intimidating piece of music
+evokes the image of an
+enormous, terrifying empire.
+[NEWPAGE]
+But, as they say, pride comes
+before the fall…
+--------------------
+This music is as industrial as it
+gets. What in the world could
+they be making in this factory?
+--------------------
+Surely everyone wishes they
+could fly through the sky at
+one point or another.
+[NEWPAGE]
+If it WERE possible for us to
+fly, I could see myself
+humming this tune in the air all
+the time.
+--------------------
+This comical melody leaves one
+wondering what the heck is
+going on.
+--------------------
+I've heard that the moogles
+love to sing and dance. If that's
+true, I bet they'd dance to this
+music too.
+--------------------
+Thamasa Village is home to the
+ancient magis' descendants.
+[NEWPAGE]
+For them, supernatural abilities
+probably seem normal-natural.
+--------------------
+Just like music, art is imbued
+with the thoughts and feelings
+of its creator.
+[NEWPAGE]
+And, just as skilled musicians
+bring music to life, there are
+surely pictomancers out there
+who can bring art to life too.
+--------------------
+I've heard that this music was
+first created in the Esper
+Realm. It's a truly mysterious
+and magical melody, indeed.
+--------------------
+Some claim that the magical
+Floating Continent is, in fact,
+the entrance to the afterlife.
+[NEWPAGE]
+If so, then I imagine it's as
+terrifying a place as this
+dreadful music suggests.
+--------------------
+What's going to happen now?
+Is it even possible to move on
+from everything that's
+transpired?
+[NEWPAGE]
+I believe that this music
+perfectly captures those
+feelings of fear and
+uncertainty for the future.
+--------------------
+The music of an inescapable
+battle…
+[NEWPAGE]
+If I ever found myself in such
+a situation, I imagine this is
+what would be playing in my
+mind the whole time.
+--------------------
+"I may have been defeated,
+[SPACE_07]but so what?"
+[NEWPAGE]
+Defeat is simply the seed of
+victory. Even warriors need
+rest, along with the patience
+to let that seed grow.
+--------------------
+The world has been destroyed.
+The cry of the ruined land
+carries on the wind, and strikes
+the hearts of all who hear it.
+--------------------
+Whoever wrote this must've
+been reflecting on times long
+past, when children's laughter
+echoed through the streets.
+--------------------
+What is your personal definition
+of a friend?
+[NEWPAGE]
+If you define it as someone you
+never want to lose, then keep
+this music close to your heart.
+--------------------
+Apparently, there is someone
+who claims to be a "mimic".
+They live to copy other people…
+or something like that. I dunno.
+[NEWPAGE]
+But If I ever met such a
+person, I'd want to hear them
+sing with their own true voice,
+without copying anyone.
+--------------------
+Even after you lose something
+important, it still lives on inside
+you as a memory.
+[NEWPAGE]
+This music reminds the listener
+of those important things they
+may have lost, and invites them
+to revisit those memories.
+--------------------
+The art collector Owzer lives in
+the upper-class, aristocratic
+city of Jidoor.
+[NEWPAGE]
+It seems that this piece of
+music comes from his personal
+record collection.
+--------------------
+Deep within the snowy caves of
+Narshe lives a yeti. This
+powerful music suits him so
+very perfectly.
+--------------------
+Apparently this is a song of
+praise for the god of ruin and
+destruction.
+[NEWPAGE]
+I wonder what the believers
+expect to come from their
+faith for their deity…
+--------------------
+It's said that this music can be
+heard coming from that twisted
+tower made of scattered
+debris.
+[NEWPAGE]
+Old stories say that people
+once built a tower high enough
+to reach the gods, only to be
+punished with destruction.
+[NEWPAGE]
+If that's true, then what will
+become of this portentous
+tower?
+--------------------
+[CENTER]When the harbinger cometh
+[CENTER]the god of ruin shall descend
+[CENTER]Wrapped in his wings of chaos
+[CENTER]all will come to an end
+[NEWPAGE]
+This is apparently an old song
+about a god of calamity.
+[NEWPAGE]
+Ruin and rebirth are two sides
+of the same coin. Should the
+god of ruin expire, something
+miraculous is sure to occur.
+--------------------
+With the god of ruin defeated,
+life and color return to the
+ravaged land…
+[NEWPAGE]
+This wondrous medley finely
+decorates the story's finale.
+--------------------
+Apparently this is the prelude
+to a musical suite known as
+"Vinyl Fallacy"… or something
+like that. [LONGPAUSE]I might be wrong.
+[NEWPAGE]
+At any rate, this music is
+probably what started it all.
+--------------------
+Undoubtedly, there are as many
+worlds out there as there are
+musical compositions.
+--------------------
+[CENTER]An Omen
+[CENTER](AKA Opening Theme)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Mining City of Narshe
+[CENTER](AKA Colliery Nalsh)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Awakening
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Locke's Theme
+[CENTER](AKA Lock)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Battle
+[CENTER](AKA Battle Theme)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Victory Fanfare
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Edgar and Sabin's Theme
+[CENTER](AKA Edgar and Mash's Theme)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Kefka the Mage
+[CENTER](AKA Cefca)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Sacred Mt. Kolts
+[CENTER](AKA Mt. Coltz)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Rebellious Elements
+[CENTER](AKA Returners)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Shadow's Theme
+[CENTER](AKA Shadow)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]The Imperial Army Advances
+[CENTER](AKA Troops March On)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Cyan's Theme
+[CENTER](AKA Cayenne)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]The Unforgiven
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Phantom Forest
+[CENTER](AKA The Mystic Forest)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Phantom Train
+[CENTER](AKA Mystery Train)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]The Veldt
+[CENTER](AKA Wild West)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Gau's Theme
+[CENTER](AKA Gau)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Serpent Trench
+[CENTER](AKA The Snake Path)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Kids in the Streets
+[CENTER](AKA Kids Run Through
+[CENTER]the City Corner)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Under Martial Law
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Celes' Theme
+[CENTER](AKA Celes)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Protect the Espers!
+[CENTER](AKA Save Them!)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Showdown
+[CENTER](AKA The Decisive Battle)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Metamorphosis
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Terra's Theme
+[CENTER](AKA Tina)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Coin of Fate
+[CENTER](AKA Coin Song)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Techno de Chocobo
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Forever Rachel
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Slum Shuffle
+[CENTER](AKA Slam Shuffle)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Spinach Rag
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Opera: Prelude
+[CENTER](AKA Overture)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Opera: Aria
+[CENTER](AKA Aria di Mezzo Carattere)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Opera: Wedding Waltz ~ Duel
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]The Grand Finale?
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Setzer's Theme
+[CENTER](AKA Setzer)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Johnny C. Bad
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]The Gestahlian Empire
+[CENTER](AKA The Empire "Ghastra")
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Magitek Research Facility
+[CENTER](AKA Devil's Lab)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]The Airship Blackjack
+[CENTER](AKA Blackjack)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Hrm? 2
+[CENTER](AKA ??)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Mog's Theme
+[CENTER](AKA Mog)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Strago's Theme
+[CENTER](AKA Stragus)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Relm's Theme
+[CENTER](AKA Relm)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Esper Realm
+[CENTER](AKA Another World of Beasts)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Magic Continent
+[CENTER](AKA New Continent)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Catastrophe
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Battle to the Death
+[CENTER](AKA The Fierce Battle)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Rest in Peace
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]World of Ruin
+[CENTER](AKA Dark World)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]From that Day On…
+[CENTER](AKA The Day After)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Searching for Friends
+[CENTER](AKA Searching Friends)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Gogo's Theme
+[CENTER](AKA Gogo)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Epitaph
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]The Clockwork Mansion
+[CENTER](AKA The Magic House)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Umaro's Theme
+[CENTER](AKA Umaro)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Fanatics
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Tower of the False God
+[CENTER](AKA Last Dungeon)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Dancing Mad
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]Green Springs Anew
+[CENTER](AKA Ending Theme)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]The Prelude
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Matoya's Cave
+[CENTER]FINAL FANTASY
+--------------------
+[SPACE_01]
+[CENTER]Battle Scene
+[CENTER]FINAL FANTASY
+--------------------
+[CENTER]Mid-Boss Battle
+[CENTER](AKA Inside a Boss Battle)
+[CENTER]FINAL FANTASY
+--------------------
+[SPACE_01]
+[CENTER]Boss Battle A
+[CENTER]FINAL FANTASY
+--------------------
+[SPACE_01]
+[CENTER]Boss Battle B
+[CENTER]FINAL FANTASY
+--------------------
+[SPACE_01]
+[CENTER]Town
+[CENTER]FINAL FANTASY II
+--------------------
+[SPACE_01]
+[CENTER]Rebel Army Theme
+[CENTER]FINAL FANTASY II
+--------------------
+[SPACE_01]
+[CENTER]Dungeon
+[CENTER]FINAL FANTASY II
+--------------------
+[SPACE_01]
+[CENTER]Battle Scene 1
+[CENTER]FINAL FANTASY II
+--------------------
+[SPACE_01]
+[CENTER]Battle Scene 2
+[CENTER]FINAL FANTASY II
+--------------------
+[SPACE_01]
+[CENTER]Battle Scene A
+[CENTER]FINAL FANTASY II
+--------------------
+[CENTER]Tozus, Village of Gnomes
+[CENTER](AKA Cute Little Tozas)
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Elia, the Maiden of Water
+[CENTER]FINAL FANTASY III
+--------------------
+[CENTER]Town of Amur
+[CENTER](AKA Town of Water)
+[CENTER]FINAL FANTASY III
+--------------------
+[CENTER]Manor of Doga and Unei
+[CENTER](AKA Let Me Know the Truth)
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Crystal Cave
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Forbidden Land Eureka
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Final Battle
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]Red Wings
+[CENTER]FINAL FANTASY IV
+--------------------
+[SPACE_01]
+[CENTER]Theme of Love
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Little Girl Rydia
+[CENTER](AKA Rydia's Theme)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Boss Cid
+[CENTER](AKA Hey Cid!)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Enter the Fat Chocobo
+[CENTER](AKA Hello! Big Chocobo!)
+[CENTER]FINAL FANTASY IV
+--------------------
+[SPACE_01]
+[CENTER]Kingdom of Baron
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Land of Mysidia
+[CENTER](AKA Mystic Mysidia)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER](AKA Kingdom of Fabul)
+[CENTER](AKA Fabul)
+[CENTER]FINAL FANTASY IV
+--------------------
+[SPACE_01]
+[CENTER]The Lunarians
+[CENTER]FINAL FANTASY IV
+--------------------
+[SPACE_01]
+[CENTER]Mt. Ordeals
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Land of Summons
+[CENTER](AKA Illusionary World)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Dungeon
+[CENTER](AKA Into the Darkness)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]The Dancing Dolls, Calcobrena
+[CENTER](AKA Dancing Calcobrena)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]The Magic Ship
+[CENTER](AKA Lunar Whale)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Battle 1
+[CENTER](AKA Fight 1)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Battle2
+[CENTER](AKA Fight 2)
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Battle with Golbez's Four Kings
+[CENTER](AKA The Dreadful Fight)
+[CENTER]FINAL FANTASY IV
+--------------------
+[SPACE_01]
+[CENTER]The Final Battle
+[CENTER]FINAL FANTASY IV
+--------------------
+[CENTER]Hometown So Far Away
+[CENTER](AKA My Home Sweet Home)
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Music Box ~Arranged~
+[CENTER]FINAL FANTASY V
+--------------------
+[CENTER]Lenna's Theme
+[CENTER](AKA Lenna)
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Spreading Grand Wings
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Dear Friends
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]The Dawn Warriors
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Battle on the Big Bridge
+[CENTER]FINAL FANTASY V
+--------------------
+[CENTER]Showdown
+[CENTER](AKA The Decisive Battle)
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]The Last Battle
+[CENTER]FINAL FANTASY V
+--------------------
+[SPACE_01]
+[CENTER]Town 2 (Unused)
+[CENTER]FINAL FANTASY VI
+--------------------
+[SPACE_01]
+[CENTER]Town 3 (Unused)
+[CENTER]FINAL FANTASY VI
+--------------------
+[CENTER]On Our Journey
+[CENTER](AKA Ahead on Our Way)
+[CENTER]FINAL FANTASY VII
+--------------------
+[CENTER]Dear to the Heart
+[CENTER](AKA Holding My Thoughts
+[CENTER]in My Heart)
+[CENTER]FINAL FANTASY VII
+--------------------
+[CENTER]Words Drowned by Fireworks
+[CENTER](AKA Interrupted by Fireworks)
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Aerith's Theme
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Cosmo Canyon
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Gold Saucer
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Forested Temple
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Cid's Theme
+[CENTER]FINAL FANTASY VII
+--------------------
+[CENTER]Those Who Fight
+[CENTER](AKA Fighting)
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Those Who Fight Further
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]J-E-N-O-V-A
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]One-Winged Angel
+[CENTER]FINAL FANTASY VII
+--------------------
+[SPACE_01]
+[CENTER]Fisherman's Horizon
+[CENTER]FINAL FANTASY VIII
+--------------------
+[SPACE_01]
+[CENTER]Roses and Wine
+[CENTER]FINAL FANTASY VIII
+--------------------
+[SPACE_01]
+[CENTER]Fragments of Memories
+[CENTER]FINAL FANTASY VIII
+--------------------
+[SPACE_01]
+[CENTER]The Man with the Machine Gun
+[CENTER]FINAL FANTASY VIII
+--------------------
+[SPACE_01]
+[CENTER]Force Your Way
+[CENTER]FINAL FANTASY VIII
+--------------------
+[SPACE_01]
+[CENTER]The Extreme
+[CENTER]FINAL FANTASY VIII
+--------------------
+[CENTER]A Place to Return to Someday
+[CENTER](AKA A Place to Call Home)
+[CENTER]FINAL FANTASY IX
+--------------------
+[CENTER]Quina's Theme
+[CENTER](AKA Quina)
+[CENTER]FINAL FANTASY IX
+--------------------
+[CENTER] Gate on the Southern Border
+[CENTER](AKA South Gate)
+[CENTER]FINAL FANTASY IX
+--------------------
+[SPACE_01]
+[CENTER]Unforgettable Sorrow
+[CENTER]FINAL FANTASY IX
+--------------------
+[SPACE_01]
+[CENTER]Rose of May
+[CENTER]FINAL FANTASY IX
+--------------------
+[CENTER]Not Alone
+[CENTER](AKA You're Not Alone)
+[CENTER]FINAL FANTASY IX
+--------------------
+[SPACE_01]
+[CENTER]Terra
+[CENTER]FINAL FANTASY IX
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]FINAL FANTASY IX
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]FINAL FANTASY IX
+--------------------
+[CENTER]In Zanarkand
+[CENTER](AKA To Zanarkand)
+[CENTER]FINAL FANTASY X
+--------------------
+[CENTER]The Blitzers
+[CENTER](AKA Men Staked on Blitz)
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Movement in Green
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Yuna's Theme
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Path of Repentance
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Yuna's Decision
+[CENTER]FINAL FANTASY X
+--------------------
+[CENTER]People of the Far North
+[CENTER](AKA Servants of the Mountain)
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Normal Battle
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Seymour Battle
+[CENTER]FINAL FANTASY X
+--------------------
+[SPACE_01]
+[CENTER]Eternity ~Band Version~
+[CENTER]FINAL FANTASY X-II
+--------------------
+[SPACE_01]
+[CENTER]Mog House
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]The Federation of Windurst
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]The Grand Duchy of Jeuno
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Kazham
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Recollection
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Fighters of the Crystal
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Belief
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Currents of Time
+[CENTER]FINAL FANTASY XI
+--------------------
+[CENTER]A New Horizon
+[CENTER]~Tavnazian Archipelago~
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]The Cosmic Wheel
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Luck of the Mog
+[CENTER]FINAL FANTASY XI
+--------------------
+[SPACE_01]
+[CENTER]Clan Headquarters
+[CENTER]FINAL FANTASY XII
+--------------------
+[SPACE_01]
+[CENTER]Time for a Rest
+[CENTER]FINAL FANTASY XII
+--------------------
+[SPACE_01]
+[CENTER]Eruyt Village
+[CENTER]FINAL FANTASY XII
+--------------------
+[SPACE_01]
+[CENTER]Destiny
+[CENTER]FINAL FANTASY XII
+--------------------
+[SPACE_01]
+[CENTER]Sunleth Waterscape
+[CENTER]FINAL FANTASY XIII
+--------------------
+[SPACE_01]
+[CENTER]March of the Dreadnoughts
+[CENTER]FINAL FANTASY XIII
+--------------------
+[SPACE_01]
+[CENTER]Blinded by Light
+[CENTER]FINAL FANTASY XIII
+--------------------
+[SPACE_01]
+[CENTER]Noel's Theme ~Final Journey~
+[CENTER]FINAL FANTASY XIII-II
+--------------------
+[SPACE_01]
+[CENTER]Tutorial
+[CENTER]FINAL FANTASY TACTICS
+--------------------
+[SPACE_01]
+[CENTER]Antipyretic
+[CENTER]FINAL FANTASY TACTICS
+--------------------
+[SPACE_01]
+[CENTER]Amber Valley
+[CENTER]FINAL FANTASY TACTICS ADVANCE
+--------------------
+[CENTER]Vulpes (Daytime)
+[CENTER]FINAL FANTASY:
+[CENTER]THE 4 HEROES OF LIGHT
+--------------------
+[CENTER]Vulpes (Night)
+[CENTER]FINAL FANTASY:
+[CENTER]THE 4 HEROES OF LIGHT
+--------------------
+[SPACE_01]
+[CENTER]That Person's Name Is…
+[CENTER]BRAVELY DEFAULT: FLYING FAIRY
+--------------------
+[CENTER]Battle 2: With Pride + Bravery
+[CENTER](AKA Battle 2)
+[CENTER]SEIKEN DENSETSU /
+[CENTER]FINAL FANTASY ADVENTURE
+--------------------
+[CENTER]Meridian Dance
+[CENTER]SEIKEN DENSETSU 2 /
+[CENTER]SECRET OF MANA
+--------------------
+[CENTER]Nuclear Fusion
+[CENTER]SEIKEN DENSETSU 3 /
+[CENTER]TRIALS OF MANA
+--------------------
+[CENTER]Battle 2
+[CENTER]FINAL FANTASY USA /
+[CENTER]FINAL FANTASY MYSTIC QUEST
+--------------------
+[CENTER]Decisive Battle
+[CENTER]SAGA 2 HIHOU NO DENSETSU /
+[CENTER]FINAL FANTASY LEGEND II
+--------------------
+[CENTER]Pile Up Stacks
+[CENTER]SAGA 3 JIKUU NO HASHA /
+[CENTER]FINAL FANTASY LEGEND III
+--------------------
+[CENTER]Theme of Gray
+[CENTER](AKA Grey)
+[CENTER]ROMANCING SAGA
+--------------------
+[SPACE_01]
+[CENTER]Dungeon 1
+[CENTER]ROMANCING SAGA
+--------------------
+[CENTER]Sewers
+[CENTER](AKA Horrible Shadow)
+[CENTER]ROMANCING SAGA
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]ROMANCING SAGA
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]ROMANCING SAGA
+--------------------
+[CENTER]Showdown with Saruin!
+[CENTER](AKA Coup de Grace)
+[CENTER]ROMANCING SAGA
+--------------------
+[SPACE_01]
+[CENTER]Sunken Ship
+[CENTER]ROMANCING SAGA 2
+--------------------
+[SPACE_01]
+[CENTER]Normal Battle
+[CENTER]ROMANCING SAGA 2
+--------------------
+[CENTER]Battle with Kzinssie
+[CENTER](AKA Battle with Kujinshi)
+[CENTER]ROMANCING SAGA 2
+--------------------
+[SPACE_01]
+[CENTER]Last Battle
+[CENTER]ROMANCING SAGA 2
+--------------------
+[CENTER]Julian's Theme
+[CENTER](AKA Julian)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Thomas' Theme
+[CENTER](AKA Tomas)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Katarina's Theme
+[CENTER](AKA Katalina)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[SPACE_01]
+[CENTER]Nightmare
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Podorui
+[CENTER](AKA Boundaries)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Fairyville
+[CENTER](AKA Fairy Town)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Town of Snow
+[CENTER](AKA Snowman's Town)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Undersea Palace
+[CENTER](AKA Bottom Sea Palace)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[SPACE_01]
+[CENTER]Holy King Temple
+[CENTER]ROMANCING SAGA 3
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]ROMANCING SAGA 3
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Four Sinistrals 1
+[CENTER](AKA Four Noble Devils 1)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Four Sinistrals 2
+[CENTER](AKA Four Noble Devils 2)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Xuan Castle Battle
+[CENTER](AKA Gen's Castle Battle)
+[CENTER]ROMANCING SAGA 3
+--------------------
+[SPACE_01]
+[CENTER]Last Battle
+[CENTER]ROMANCING SAGA 3
+--------------------
+[CENTER]Confusion
+[CENTER](AKA Trick)
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]ALONE
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Battle 1
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Battle 3
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Battle 4
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Battle 5
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Last Battle ~Asellus~
+[CENTER]SAGA FRONTIER
+--------------------
+[SPACE_01]
+[CENTER]Besessenheit
+[CENTER]SAGA FRONTIER 2
+--------------------
+[SPACE_01]
+[CENTER]Believing My Justice
+[CENTER]ROMANCING SAGA: MINSTREL SONG
+--------------------
+[SPACE_01]
+[CENTER]Battle Theme 1
+[CENTER]UNLIMITED SAGA
+--------------------
+[SPACE_01]
+[CENTER]Distant Promise
+[CENTER]XENOGEARS
+--------------------
+[SPACE_01]
+[CENTER]Ship of Regret and Sleep
+[CENTER]XENOGEARS
+--------------------
+[CENTER]The Wind Calls to Shevat
+[CENTER]in the Blue Sky
+[CENTER](AKA Shevat)
+[CENTER]XENOGEARS
+--------------------
+[SPACE_01]
+[CENTER]Flight
+[CENTER]XENOGEARS
+--------------------
+[CENTER]Awakening
+[CENTER](AKA Awaken)
+[CENTER]XENOGEARS
+--------------------
+[SPACE_01]
+[CENTER]Hometown Domina
+[CENTER]LEGEND OF MANA
+--------------------
+[SPACE_01]
+[CENTER]MEGALOMANIA
+[CENTER]LIVE A LIVE
+--------------------
+[SPACE_01]
+[CENTER]PURE ODIO
+[CENTER]LIVE A LIVE
+--------------------
+[SPACE_01]
+[CENTER]Corridors of Time
+[CENTER]CHRONO TRIGGER
+--------------------
+[CENTER]Battle
+[CENTER](AKA Battle 1)
+[CENTER]CHRONO TRIGGER
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]CHRONO TRIGGER
+--------------------
+[SPACE_01]
+[CENTER]Battle with Magus
+[CENTER]CHRONO TRIGGER
+--------------------
+[SPACE_01]
+[CENTER]The Flame and the Arrow
+[CENTER]RUDRA NO HIHOU
+--------------------
+[SPACE_01]
+[CENTER]Battle 2
+[CENTER]ESTPOLIS DENKI II /
+[CENTER]LUFIA II: RISE OF THE SINISTRALS
+--------------------
+There's a record in the record
+player with the current music
+on it. You can check it to see
+what the music is called!
+--------------------
+Impresario: You can listen to a
+variety of music here. [LONGPAUSE]How, you
+ask?
+[NEWPAGE]
+Why, simply select "Sound" in
+the Config menu, then press the
+A Button!
+[NEWPAGE]
+Impresario: If you want to
+know the title (or titles) of the
+song that's playing, check the
+record player behind you.
+[NEWPAGE]
+Impresario: There might even
+be some patrons here who can
+share extra details about
+certain songs!
+--------------------
+Draco: There was one
+performance we did that was
+largely ad-libbed. The audience
+absolutely loved it, as I recall.
+--------------------
+Ralse: Just when we were
+about to be booed off stage,
+the finest actor of our time
+swooped in to save the day!
+[NEWPAGE]
+His name? [LONGPAUSE]Why, Ultros, of
+course! [LONGPAUSE]He's a superstar in the
+making, without a doubt! [LONGPAUSE]
+Well, maybe a little doubt.
+--------------------
+A dragon once rushed up onto
+the opera stage. It probably
+just wanted to be an actor.
+--------------------
+Maria: I didn't get my time in
+the spotlight, so now I'm
+singing here to de-stress!
+--------------------
+Maria: Shall I sing the lyrics to
+this song for you?
+[CHOICE] Yes, please!
+[CHOICE] Some other time…
+--------------------
+[CENTER]O my hero, my beloved,
+[CENTER]shall we still be made to part,
+[CENTER]though promises of perennial
+[CENTER]love yet sing here in my heart?
+[NEWPAGE]
+[CENTER]I'm the darkness,
+[CENTER]you're the starlight
+[CENTER]shining brightly from afar.
+[NEWPAGE]
+[CENTER]Through hours of despair,
+[CENTER]I offer this prayer
+[CENTER]to you, my evening star.
+[NEWPAGE]
+[CENTER]Must my final vows exchanged
+[CENTER]be with him and not with you?
+[NEWPAGE]
+[CENTER]Were you only here
+[CENTER]to quiet my fear…
+[CENTER]O speak! Guide me anew…
+--------------------
+[CENTER]And no one knows it
+[CENTER]Where she came from
+[CENTER]where she's going
+[NEWPAGE]
+
+[CENTER]And once you meet her
+[CENTER]Something inside is changing
+[NEWPAGE]
+[CENTER]She's like a rainbow
+[CENTER]When she comes up,
+[CENTER]all are lit up
+[NEWPAGE]
+[CENTER]And when she whispers
+[CENTER]You will hear this:
+[CENTER]"Don't chase after rainbows"
+[NEWPAGE]
+
+[CENTER]High on a hill, there's
+[CENTER]a green meadow
+[NEWPAGE]
+[CENTER]All around, it's breezin'
+[CENTER]She's smillin'
+[CENTER]She'll let them sing angel songs
+--------------------
+[CENTER]estuans interius ira vehementi
+[CENTER]estuans interius ira vehementi
+[CENTER]Sephiroth!  Sephiroth!
+[NEWPAGE]
+[CENTER]estuans interius ira vehementi
+[CENTER]estuans interius ira vehementi
+[CENTER]Sephiroth!  Sephiroth!
+[NEWPAGE]
+ 
+[CENTER]sors immanis et inanis
+[CENTER]sors immanis et inanis
+[NEWPAGE]
+[CENTER]estuans interius ira vehementi
+[CENTER]estuans interius ira vehementi
+[CENTER]Sephiroth!  Sephiroth!
+[NEWPAGE]
+[CENTER]veni, veni, venias,
+[CENTER]ne me mori facias
+[CENTER]veni, veni, venias,
+[CENTER]ne me mori facias
+[NEWPAGE]
+[CENTER]veni, veni, venias,
+[CENTER]ne me mori facias
+[CENTER]veni, veni, venias,
+[CENTER]ne me mori facias
+[NEWPAGE]
+[CENTER]veni, veni, venias (gloriosa)
+[CENTER]ne me mori facias (generosa)
+[CENTER]veni, veni, venias (gloriosa)
+[CENTER]ne me mori facias (generosa)
+[NEWPAGE]
+[CENTER]veni, veni, venias (gloriosa)
+[CENTER]ne me mori facias (generosa)
+[CENTER]veni, veni, venias (gloriosa)
+[CENTER]ne me mori facias (generosa)
+[NEWPAGE]
+ 
+[CENTER]Sephiroth!  Sephiroth!
+--------------------
+[CENTER]Alone for a while I've been
+[CENTER]searching through the dark
+[CENTER]For traces of the love you
+[CENTER]left inside my lonely heart
+[NEWPAGE]
+[CENTER]To weave by picking up
+[CENTER]the pieces that remain
+[CENTER]Melodies of life
+[CENTER]love's lost refrain
+[NEWPAGE]
+
+[CENTER]Our paths they did cross
+[CENTER]though I cannot say just why
+[NEWPAGE]
+[CENTER]We met,
+[CENTER]we laughed,
+[CENTER]we held on fast,
+[CENTER]and then we said goodbye
+[NEWPAGE]
+[CENTER]And who'll hear the echoes
+[CENTER]of stories never told?
+[CENTER]Let them ring out loud
+[CENTER]till they unfold
+[NEWPAGE]
+
+[CENTER]In my dearest memories,
+[CENTER]I see you reaching out to me
+[NEWPAGE]
+[CENTER]Though you're gone,
+[CENTER]I still believe
+[CENTER]that you can
+[CENTER]call out my name
+[NEWPAGE]
+[CENTER]A voice from the past,
+[CENTER]joining yours and mine
+[CENTER]Adding up the layers
+[CENTER]of harmony
+[NEWPAGE]
+
+[CENTER]And so it goes, on and on
+[NEWPAGE]
+[CENTER]Melodies of life, to the sky
+[CENTER]beyond the flying birds
+[CENTER]forever and beyond
+--------------------
+[CENTER]The wind and my heart
+[CENTER]Swimming in collected words
+[CENTER]Moved by the wind
+[CENTER]In through the world
+[NEWPAGE]
+[CENTER]Clouds like a voice
+[CENTER]That we all recognize
+[CENTER]Carry the holding future
+[NEWPAGE]
+[CENTER]Moon on the sky
+[CENTER]As a trembling heart
+[CENTER]Shown on the glass
+[CENTER]Unsteadily
+[NEWPAGE]
+[CENTER]Stars jetting tears
+[CENTER]In an overflowing stream
+[CENTER]I see the night all around me
+[NEWPAGE]
+[CENTER]Suteki Da Ne
+[CENTER]Being together
+[CENTER]All alone
+[CENTER]Walking hand in hand
+[NEWPAGE]
+[CENTER]And I want to go
+[CENTER]To your city
+[CENTER]To your home
+[CENTER]Into your arm
+[NEWPAGE]
+[CENTER]That's all
+[CENTER]Inside your body
+[CENTER]From those conflicted nights
+[CENTER]As from my dreams
+--------------------
+[SPACE_01]
+[CENTER]Seas invite in the evening sun
+[CENTER]To light the somber abyss
+[NEWPAGE]
+[CENTER]Clouds dance up with the
+[CENTER]heaven's stars,
+[CENTER]Chanting an air of joyous bliss
+[NEWPAGE]
+[CENTER]Water fades back
+[CENTER]from blue to jade,
+[CENTER]Guiding young rainbows high
+[NEWPAGE]
+[CENTER]Flowers bloom into
+[CENTER]red and whites,
+[CENTER]Quenching our hearts
+[CENTER]when they run dry
+[NEWPAGE]
+[CENTER]Angels chained by a beast
+[CENTER]locked in slumber
+[CENTER]Sin washed away
+[CENTER]by the swift flow of time
+[NEWPAGE]
+
+[CENTER]I may know the answers
+[CENTER]Journeys over snow and sand
+[NEWPAGE]
+[CENTER]What twist in fate has
+[CENTER]brought us
+[CENTER]To tread upon this land?
+[NEWPAGE]
+
+[CENTER]Distant Worlds together
+[CENTER]Miracles from realms beyond
+[NEWPAGE]
+
+[CENTER]The lifelight burns inside me
+[CENTER]To sing to you this song
+[NEWPAGE]
+
+[CENTER]To sing with you this song
+[CENTER]To sing to you your song
+--------------------
+[CENTER]Step into the rainbow,
+[CENTER]find another view
+[CENTER]Chase the tender light,
+[CENTER]borders let's cross over
+[NEWPAGE]
+[CENTER]Ready to define the
+[CENTER]mists inside your heart?
+[CENTER]Take a breath
+[CENTER]and start your life
+[NEWPAGE]
+
+[CENTER]Waves of a new day
+[CENTER]Clear all the gloom away
+[NEWPAGE]
+
+[CENTER]Hopes in what we simply
+[CENTER]need to proceed
+--------------------
+[CENTER]Long ago,
+[CENTER]when I was just a boy
+[CENTER]So alone that last of
+[CENTER]my kind in the world
+[NEWPAGE]
+[CENTER]I believe futures
+[CENTER]could be reborn
+[CENTER]I would go back in time,
+[CENTER]Change what's to come
+[NEWPAGE]
+[CENTER]Hunting searching
+[CENTER]for futures I've dreamed
+[CENTER]Ever chasing
+[CENTER]believing visions unseen
+[NEWPAGE]
+[CENTER]Hearing that hope is futile
+[CENTER]Only inspires me not
+[CENTER]to give up
+[NEWPAGE]
+[CENTER]Valhalla is calling me
+[CENTER]to the end
+[CENTER]I can hear now the beating
+[CENTER]hearts of lost friends
+[NEWPAGE]
+[CENTER]Urging me to not forget them
+[CENTER]As the last hunter
+[CENTER]I'll find the key
+--------------------
+[CENTER]Run through the cold
+[CENTER]of the night
+[CENTER]As passion burns
+[CENTER]in your hearts
+[NEWPAGE]
+
+[CENTER]Ready to fight, a knife
+[CENTER]held close by your side
+[NEWPAGE]
+[CENTER]Like a proud wolf alone
+[CENTER]in the dark
+[CENTER]With eyes that
+[CENTER]watch the world
+[NEWPAGE]
+
+[CENTER]And my name like a shadow
+[CENTER]On the face of the moon
+[NEWPAGE]
+[CENTER]Broken mirror,
+[CENTER]a million shades of night
+[CENTER]The old echo fades away
+[NEWPAGE]
+[CENTER]But just you and I
+[CENTER]Can find the answer
+[CENTER]And then,
+[NEWPAGE]
+[CENTER]We can run to the
+[CENTER]end of the world
+[CENTER]We can run to the
+[CENTER]end of the world
+--------------------
+Would you like to know what
+this song's lyrics mean?
+[CHOICE] Yes, please!
+[CHOICE] Some other time…
+--------------------
+Oops, my mistake. It looks like
+these lyrics are already in our
+native language.
+--------------------
+[CENTER]Burning inside
+[CENTER]with violent anger
+[CENTER]Burning inside
+[CENTER]with violent anger
+[NEWPAGE]
+
+[CENTER]Sephiroth! Sephiroth!
+[NEWPAGE]
+[CENTER]Burning inside
+[CENTER]with violent anger
+[CENTER]Burning inside
+[CENTER]with violent anger
+[NEWPAGE]
+
+[CENTER]Sephiroth! Sephiroth!
+[NEWPAGE]
+[CENTER]Fate - monstrous
+[CENTER]And empty
+[CENTER]Fate - monstrous
+[CENTER]And empty
+[NEWPAGE]
+[CENTER]Burning inside
+[CENTER]with violent anger
+[CENTER]Burning inside
+[CENTER]with violent anger
+[NEWPAGE]
+
+[CENTER]Sephiroth! Sephiroth!
+[NEWPAGE]
+[CENTER]Come, come, O come,
+[CENTER]Do not let me die
+[CENTER]Come, come, O come,
+[CENTER]Do not let me die
+[NEWPAGE]
+[CENTER]Come, come, O come,
+[CENTER]Do not let me die
+[CENTER]Come, come, O come,
+[CENTER]Do not let me die
+[NEWPAGE]
+[CENTER]Come, come, O come (Glorious)
+[CENTER]Do not let me die (Generous)
+[CENTER]Come, come, O come (Glorious)
+[CENTER]Do not let me die (Generous)
+[NEWPAGE]
+[CENTER]Come, come, O come (Glorious)
+[CENTER]Do not let me die (Generous)
+[CENTER]Come, come, O come (Glorious)
+[CENTER]Do not let me die (Generous)
+[NEWPAGE]
+ 
+[CENTER]Sephiroth! Sephiroth!
+--------------------
+Oops, my mistake. These lyrics
+are already in our native
+language!
+--------------------
+Wait, I think these lyrics don't
+need translating after all. It's
+already in our language!
+--------------------
+For some reason, this song
+already seems to be in our
+native language. Am I just that
+good of a translator, maybe?
+[NEWPAGE]
+I should change my name to
+Translatingway!
+--------------------
+These lyrics already seem to be
+translated. Also, is this song
+even in the music player!?
+--------------------
+[SPACE_01]
+[CENTER]Pendant
+[NEWPAGE]
+This pendant belonged to Terra,
+an amnesiac young woman with
+magical powers.
+[NEWPAGE]
+Originally, Terra's father
+Maduin gave this pendant to her
+mother Madeline. Madeline later
+gave it to Terra as a gift.
+--------------------
+[SPACE_01]
+[CENTER]Aged Man's Wine Bottle
+[NEWPAGE]
+This wine was once favored by
+an old man in South Figaro.
+[NEWPAGE]
+More recently, the old man has
+become obsessed with broiling
+and steeping a certain type of
+fish fin in this wine.
+--------------------
+[SPACE_01]
+[CENTER]Old Clock Key
+[NEWPAGE]
+This key is used to wind up an
+old clock in the basement of a
+South Figaro mansion. Doing so
+reveals a hidden passageway.
+--------------------
+[SPACE_01]
+[CENTER]Opera Ticket
+[NEWPAGE]
+A ticket to "I Want To Be Your
+Canary", a popular show
+playing at the opera house
+south of Jidoor.
+[NEWPAGE]
+This particular opera, written
+by Lord Avon, tells the tragic
+love story between Princess
+Cornelia and her lover Marcus.
+--------------------
+[SPACE_01]
+[CENTER]Rust-Rid
+[NEWPAGE]
+This special chemical
+concoction is used to freeze
+and remove rust.
+[NEWPAGE]
+Apparently, Rust-Rid was
+originally created to make
+rusted mine carts usable again.
+--------------------
+[SPACE_01]
+[CENTER]Metal Lump
+[NEWPAGE]
+Literally just a big piece of
+metal. The text on the side
+claims that it weighs four tons,
+but it's not actually that heavy.
+--------------------
+[SPACE_01]
+[CENTER]Coral Piece
+[NEWPAGE]
+A piece of terrestrial coral that
+grows in the cave on Ebot's
+Rock.
+[NEWPAGE]
+Swords made from this coral
+supposedly gain lightning-like
+properties, while rings made of
+it can absorb lightning attacks.
+--------------------
+[SPACE_01]
+[CENTER]Emperor's Letter
+[NEWPAGE]
+This letter was hidden inside a
+portrait of Emperor Gestahl
+that was part of Owzer's
+collection in Jidoor.
+[NEWPAGE]
+The letter contains a clue to
+the location of a legendary
+hidden treasure.
+--------------------
+[SPACE_01]
+[CENTER]Lola's Letter
+[NEWPAGE]
+Lola, a citizen of Maranda,
+spelled out her true feelings in
+this letter.
+--------------------
+[CENTER]Crystal Bass
+[CENTER]Vector Sardine
+[CENTER]Bone Fish
+[CENTER]Yellow Globe
+[NEWPAGE]
+These fish could be caught off
+the shore of the deserted
+island.
+[NEWPAGE]
+Because these fish range from
+delicious to venomous, caution
+is needed when eating them.
+--------------------
+[SPACE_01]
+[CENTER]Various Books
+[NEWPAGE]
+These books belonged to Cyan.
+[NEWPAGE]
+The list of books includes:
+[CENTER]"Machinery for Dunces"
+[CENTER]"A Pictorial Guide to Machines"
+[NEWPAGE]
+[CENTER]"Everything About Machines"
+[CENTER]"Machines for the
+[CENTER]Mechanically Disinclined"
+[CENTER]…… and…
+[NEWPAGE]
+
+[CENTER]"Bushido in the Bedroom".
+--------------------
+[SPACE_01]
+[CENTER]Adamantite
+[NEWPAGE]
+A legendary metal said to form
+inside the Adamantoise.
+[NEWPAGE]
+Until an alloy of it was
+produced, adamantite reigned
+for many years as the hardest
+metal of all.
+[NEWPAGE]
+The Excalibur, one of the
+twelve legendary weapons, is
+made from this material.
+--------------------
+[SPACE_01]
+[CENTER]Deathgaze's Claw
+[NEWPAGE]
+This claw belonged to the
+ancient fiend Deathgaze, which
+is said to have lived most of its
+life above the clouds.
+[NEWPAGE]
+This claw has had its venom
+removed. With some work, this
+hard but flexible claw could be
+made into a powerful weapon.
+--------------------
+[SPACE_01]
+[CENTER]Gil Turtle Shell
+[NEWPAGE]
+This large shell belonged to the
+Gil Turtle, a creature that lived
+in the cave leading to the
+Sealed Gate.
+[NEWPAGE]
+The Gil Turtle's shell has little
+value in its normal, brittle
+state.
+[NEWPAGE]
+But by compounding it with
+certain other materials, it can
+be made into a metal even
+stronger than adamantite.
+--------------------
+[SPACE_01]
+[CENTER]Omega Plating
+[NEWPAGE]
+The sturdy armor plating of the
+ancient weapon, Omega.
+[NEWPAGE]
+In addition to its sheer
+hardness, this armor plating
+possesses self-regenerative
+properties.
+[NEWPAGE]
+This combination means that
+any damage the shell does take
+will be repaired in time.
+--------------------
+[SPACE_01]
+[CENTER]Shinryu Fang
+[NEWPAGE]
+This fang belonged to Shinryu,
+a dragon god said to have come
+from a different world.
+[NEWPAGE]
+According to one theory,
+Shinryu only gives his fangs to
+those he deems worthy.
+[NEWPAGE]
+The magical sword Ragnarok is
+made from this fang.
+--------------------
+[SPACE_01]
+[CENTER]Sylkis Greens
+[NEWPAGE]
+This plant can grow in the
+harshest of soil. Sylkis Greens
+grow natively in the Phantom
+Forest.
+[NEWPAGE]
+Chocobos absolutely love Sylkis
+Greens, but humans enjoy the
+delicious, vitamin-rich plant as
+well.
+--------------------
+[SPACE_01]
+[CENTER]Ancient Text
+[NEWPAGE]
+A fragment of an ancient book
+that describes an esper named
+Ultima.
+[NEWPAGE]
+When combined with Arvis'
+piece of the ancient book, the
+full text becomes readable.
+--------------------
+[SPACE_01]
+[CENTER]Crystal Eye
+[NEWPAGE]
+This magic crystal, which
+belongs to the witch Matoya,
+allows one to verbally
+communicate with espers.
+[NEWPAGE]
+It's said that this item will also
+allow one to become the Lord
+of the Fey.
+--------------------
+[SPACE_01]
+[CENTER]Goddess Bell
+[NEWPAGE]
+Ringing this magic bell will lift
+the seal on the Labyrinth of the
+Ancients.
+[NEWPAGE]
+Long ago, the Goddess Bell was
+kept deep inside a
+snow-covered cavern.
+[NEWPAGE]
+The bell's magic power has
+since faded. Today, the sylphs
+keep the bell safe.
+--------------------
+[SPACE_01]
+[CENTER]Master Crown
+[NEWPAGE]
+This crown is awarded to those
+who overcome the Soul Shrine.
+[NEWPAGE]
+With wisdom, courage, and
+power, you successfully put
+many souls to rest.
+--------------------
+[SPACE_01]
+[CENTER]Silk Dress
+[NEWPAGE]
+"To you, in the future…"
+[CENTER]
+This dress was a present from
+Madeline to her daughter Terra.
+--------------------
+[SPACE_01]
+[CENTER]Excalibur
+[NEWPAGE]
+One of the twelve sealed
+weapons. This knight sword is
+believed to have been wielded
+by the king of kings.
+[NEWPAGE]
+It is said that when chaos
+befalls the world, Excalibur will
+appear before its rightful
+owner.
+--------------------
+[SPACE_01]
+[CENTER]Orichalcum
+[NEWPAGE]
+One of the twelve sealed
+weapons. This fire-like dagger
+changes its sharpness to match
+its wielder's prowess.
+[NEWPAGE]
+Legend says this dagger can
+also usurp a target's magic
+power.
+--------------------
+[SPACE_01]
+[CENTER]Sasuke Katana
+[NEWPAGE]
+One of the twelve sealed
+weapons. This katana was once
+used by a legendary ninja.
+[NEWPAGE]
+It's believed that his katana
+was originally kept in an
+Eastern shrine.
+--------------------
+[SPACE_01]
+[CENTER]Holy Lance
+[NEWPAGE]
+One of the twelve sealed
+weapons. The cutting edges
+of this trident have been
+tempered with holy water.
+[NEWPAGE]
+It's said that this weapon was
+used to skewer and seal away
+a demon that ruled the land
+long ago.
+--------------------
+[SPACE_01]
+[CENTER]Earthbreaker
+[NEWPAGE]
+One of the twelve sealed
+weapons. This crudely crafted
+axe is said to have the power
+to cleave the land itself.
+[NEWPAGE]
+According to one theory, this
+axe once belonged to an ancient
+mechanical being.
+--------------------
+[SPACE_01]
+[CENTER]Masamune
+[NEWPAGE]
+One of the twelve sealed
+weapons. This mystical katana
+was forged by Masamune, a
+legendary Eastern swordsmith.
+[NEWPAGE]
+The appearance of its cool,
+white blade is often compared
+to lightly melted snow.
+--------------------
+[SPACE_01]
+[CENTER]Soul Eater
+[NEWPAGE]
+One of the twelve sealed
+weapons. According to legend,
+this darkest of Dark Swords
+can consumes souls.
+[NEWPAGE]
+It's said that anyone cut by this
+sword will die where they
+stand.
+--------------------
+[SPACE_01]
+[CENTER]Ryunohige
+[NEWPAGE]
+One of the twelve sealed
+weapons. Its name translates
+to "Dragon Whiskers".
+[NEWPAGE]
+This mighty whip is believed to
+have been made from the
+whiskers of the Sea King
+Leviathan.
+[NEWPAGE]
+This whip is imbued with the
+Sea King's power over the
+clouds and rain.
+--------------------
+[SPACE_01]
+[CENTER]Wizard Rod
+[NEWPAGE]
+One of the twelve sealed
+weapons. This rod belonged to
+a wizard of great renown.
+[NEWPAGE]
+Because it was carved from a
+sacred tree, it's also known as
+the "Branch of Ruin".
+--------------------
+[SPACE_01]
+[CENTER]Godhand
+[NEWPAGE]
+One of the twelve sealed
+weapons. This claw is
+sometimes referred to as the
+"Almighty Hand of God".
+[NEWPAGE]
+Legend says that this claw
+allows one to perform the
+fabled "Touch of Death"
+technique with great accuracy.
+--------------------
+[SPACE_01]
+[CENTER]Elven Dart
+[NEWPAGE]
+One of the twelve sealed
+weapons. This magic dart is
+decorated with fairy wings.
+[NEWPAGE]
+By riding the wind, this dart
+can accurately hit its target
+before being noticed.
+--------------------
+[SPACE_01]
+[CENTER]Rune Bell
+[NEWPAGE]
+One of the twelve sealed
+weapons. This magic bell of
+Ancient design has been
+engraved with magical writing.
+[NEWPAGE]
+The bell's sound is said to
+purify malevolent souls.
+--------------------
+[SPACE_01]
+[CENTER]Magicite
+[NEWPAGE]
+The physical remains of an
+esper's power after death.
+Magicite stones contain
+immense magic power.
+--------------------
+[SPACE_01]
+[CENTER]Hand-Made Flowers
+[NEWPAGE]
+Cyan made these lovely
+artificial flowers by hand after
+the cataclysm left the worlds'
+flowers unable to bloom.
+--------------------
+[SPACE_01]
+[CENTER]Slave Crown
+[NEWPAGE]
+This relic halts all normal
+thinking processes and forces
+its wearer to obey any
+command given.
+--------------------
+[SPACE_01]
+[CENTER]Bone Carving
+[NEWPAGE]
+An intricate bone carving made
+by the yeti Umaro.
+--------------------
+[SPACE_01]
+[CENTER]Imp Robot
+[NEWPAGE]
+A wind-up doll. Popular
+among the aristocrats of
+Jidoor.
+--------------------
+[SPACE_01]
+[CENTER]Ancient Statue
+[NEWPAGE]
+No one knows who made the
+Warring Triad statues, when,
+or where. They still contain a
+small bit of magical power.
+--------------------
+[SPACE_01]
+[CENTER]Airship Model
+[NEWPAGE]
+A 1/1200 scale model of the
+airship Blackjack.
+--------------------
+[SPACE_01]
+[CENTER]Talking Chocobo
+[NEWPAGE]
+A life-sized stuffed doll
+popular with children. Makes a
+"wark" (or possibly "kweh")
+sound when its head is pet.
+--------------------
+[SPACE_01]
+[CENTER]Magitek Armor
+[NEWPAGE]
+A military weapon powered by
+magic. Comprises the bulk of
+the Empire's military strength.
+--------------------
+This is the Collection Room.
+You can decorate this area by
+obtaining various important
+items during your quest.
+--------------------
+Would you like to hear how the
+Collection Room works?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+The lefthand room will be
+decorated with important items
+you find during your adventure.
+[NEWPAGE]
+The righthand room will be
+decorated with other treasures
+of interest, such as legendary
+weapons or auction winnings.
+[NEWPAGE]
+So what's the middle room for,
+you ask? [LONGPAUSE]It's an art gallery
+that you can fill up by making
+progress in the bonus EX patch.
+--------------------
+Ever heard of adamantite? It's
+a mineral that only comes from
+the innards of a monster called
+the Adamantoise.
+[NEWPAGE]
+If you ever come across any, I
+could forge it into a sword for
+you.
+[NEWPAGE]
+Stories say that the
+Adamantoise lives inside an
+even larger monster.
+--------------------
+Didja know there's an alloy
+even stronger than
+adamantite? People call it
+"trapezohedron".
+[NEWPAGE]
+If we had some, I reckon I
+could make a sword even
+better than that Ragnarok
+sword I made earlier.
+[NEWPAGE]
+Only problem is, it needs
+materials that're even rarer
+than adamantite.
+[NEWPAGE]
+Care to hear more about those
+materials?
+[NEWPAGE]
+[CHOICE] About first material
+[CHOICE] About second material
+[CHOICE] About third material
+[CHOICE] Never mind for now…
+--------------------
+First, we'll need us the shell of
+a monster even bigger than the
+Adamantoise.
+[NEWPAGE]
+I've heard word of a monster
+like that in the cave leading to
+the Sealed Gate.
+--------------------
+Ever heard of the Ancients?
+They were a civilization that
+lived a long time ago.
+[NEWPAGE]
+I bring it up 'cause we need the
+armor plating of an Ancient
+weapon.
+--------------------
+We'll need us the fang of a
+dragon. But not just any old
+dragon, mind you. It has to be a
+dragon from another world.
+[NEWPAGE]
+I've heard old stories about one
+that lives in a cave leading to
+the Esper Realm.
+--------------------
+Oh, you have all the materials… [LONGPAUSE]
+With these, I can make the
+legendary trapezohedron alloy.
+[NEWPAGE]
+After that, I can use the
+trapezohedron to make the
+Ragnarok sword even stronger.
+[NEWPAGE]
+How about it? Sound good to
+you?
+[CHOICE] Yes, please!
+[CHOICE] Heck, no!
+--------------------
+[SPACE_01]
+[CENTER]Blood Sword
+[CENTER]FINAL FANTASY II
+[NEWPAGE]
+This sword's curse drains an
+enemy's life energy and gives
+it to its wielder. Its blade is
+always a dark crimson color.
+[NEWPAGE]
+The Blood Sword appears
+throughout the series, but it is
+a particularly fierce weapon in
+Final Fantasy II.
+[NEWPAGE]
+Because the sword deals
+percentage-based damage, it
+can even take down bosses
+surprisingly quickly.
+[NEWPAGE]
+In the Japanese version of
+Dissidia, Firion shouts "Blood
+weapon equipped!" when
+activating EX Mode.
+[NEWPAGE]
+Said weapon is a reference to
+the Blood Sword.
+--------------------
+[SPACE_01]
+[CENTER]Sara
+[CENTER]FINAL FANTASY III
+[NEWPAGE]
+Sara is the princess of the
+Sasune kingdom.
+[NEWPAGE]
+After the Djinn's curse
+transforms everyone, she
+bravely storms the Djinn's
+cave by herself to save them.
+[NEWPAGE]
+After Doga teleports her to the
+Crystal Tower, she helps free
+the heroes of the wyrms'
+curse.
+[NEWPAGE]
+In the Nintendo DS release,
+Sara aids the party in battle by
+casting Cure and Aero spells.
+--------------------
+[SPACE_01]
+[CENTER]Crystal Tower
+[CENTER]FINAL FANTASY III
+[NEWPAGE]
+The Crystal Tower, also known
+as Syrcus Tower, is said to
+have been built by the Ancients
+with the power of light.
+[NEWPAGE]
+Beneath the tower lies a large
+cavern known as the Forbidden
+Land of Eureka.
+[NEWPAGE]
+Under normal circumstances,
+the Crystal Tower is tall enough
+to pierce the heavens.
+[NEWPAGE]
+Even after the world is
+submerged in water, the top of
+the tower remains above the
+surface of the ocean.
+--------------------
+[SPACE_01]
+[CENTER]Ghido
+[CENTER]FINAL FANTASY V
+[NEWPAGE]
+Ghido is a 700 year-old sage,
+and the only one in the world
+who knows Exdeath's secret.
+[NEWPAGE]
+Ghido entrusts the Elder Branch,
+the key to entering the Great
+Forest of Moore, to Bartz's
+team.
+[NEWPAGE]
+Ghido looks like a large turtle.
+During their first encounter,
+Bartz pokes his head, unaware
+that the turtle was a sage.
+[NEWPAGE]
+Ghido is weak to being flipped
+over. Once on his back, he's
+unable to get back up.
+--------------------
+[SPACE_01]
+[CENTER]Gunblade
+[CENTER]FINAL FANTASY VIII
+[NEWPAGE]
+Squall and Seifer use this
+unconventional weapon, which
+is essentially a large sword
+with a built-in gun mechanism.
+[NEWPAGE]
+A loaded gunblade doesn't
+actually fire projectiles.
+[NEWPAGE]
+Instead, pulling the trigger
+causes the blade to vibrate,
+thereby boosting the
+effectiveness of an attack.
+[NEWPAGE]
+Gunblades appear in other
+games too, including Final
+Fantasy XII and Parasite EVE II.
+--------------------
+[SPACE_01]
+[CENTER]Oglops
+[CENTER]FINAL FANTASY IX
+[NEWPAGE]
+Destructive insects that devour
+plantlife. Their oddly charming
+appearance has made them a
+fan favorite.
+[NEWPAGE]
+Oglops are popular enough to
+have their own in-game card,
+and the remains of an Oglop
+item shop exists in Alexandria.
+[NEWPAGE]
+Oglops are also referenced in
+the Final Fantasy Unlimited
+anime series.
+[NEWPAGE]
+In one episode, it's revealed
+that "Hot Salad" is made from
+Malboro tentacles and served
+with an Oglop oil dressing.
+--------------------
+[SPACE_01]
+[CENTER]Crystals
+[CENTER]FINAL FANTASY IX
+[NEWPAGE]
+A crystal in each planet's core
+produces souls for life forms,
+and recalls those souls when
+life forms die.
+[NEWPAGE]
+When souls return to the
+crystal, the crystal stores their
+memories.
+[NEWPAGE]
+This allows the crystal to grow,
+which in turn allows life on the
+host planet to flourish.
+[NEWPAGE]
+When this soul circulation ends,
+the crystal will stop growing,
+all activity on the planet will
+cease.
+[NEWPAGE]
+Eventually, the crystal will
+return to the cosmos.
+[NEWPAGE]
+Espers are actually the tangible
+embodiments of a crystal's
+stored life memories.
+--------------------
+[SPACE_01]
+[CENTER]Pyrefly
+[CENTER]FINAL FANTASY X
+[NEWPAGE]
+Despite their insect-like name,
+pyreflies are assemblages of
+life force and not actual, living
+creatures.
+[NEWPAGE]
+Pyreflies reside in all things
+and are roughly comparable to
+spirits or souls.
+[NEWPAGE]
+Pyreflies are also responsible
+forgiving monsters in Spira
+their temporary physical
+forms.
+[NEWPAGE]
+This is why monsters burst into
+pyreflies when defeated.
+[NEWPAGE]
+Between Djose Temple and
+Guadosalam lies a massive
+river known as the Moonflow.
+[NEWPAGE]
+The moonlillies that grow along
+its banks are said to attract
+countless pyreflies when night
+falls.
+--------------------
+[SPACE_01]
+[CENTER]Blitzball
+[CENTER]FINAL FANTASY X
+[NEWPAGE]
+Blitzball is the most popular
+sport in Spira. Unsurprisingly,
+the sport involves the use of a
+ball known as a "blitzball".
+[NEWPAGE]
+Games take place inside a giant
+sphere of water suspended in
+the air by pyreflies.
+[NEWPAGE]
+The Temples of Yevon officially
+endorse blitzball, as it's helpful
+in banishing thoughts about Sin
+from the people's minds.
+[NEWPAGE]
+In the game, Tidus can recruit a
+variety of blitzball players,
+including two men with familiar
+names: Biggs and Wedge.
+--------------------
+[SPACE_01]
+[CENTER]Cloud
+[CENTER]FINAL FANTASY VII
+[NEWPAGE]
+Cloud claims to be a former
+member of SOLDIER, but is in
+fact a low-level grunt in the
+Shinra army.
+[NEWPAGE]
+After being wounded during the
+Nibelheim Incident, Cloud is
+used as a test subject for the
+Sephiroth Clone Project.
+[NEWPAGE]
+Following his reunion with Tifa
+in Migdar, Cloud joins the
+anti-Shinra organization,
+AVALANCHE.
+[NEWPAGE]
+Then, together with his friends,
+Cloud sets out on a worldwide
+journey to put an end to Shinra
+and Sephiroth once and for all.
+[NEWPAGE]
+Cloud has made cameo
+appearances in a variety of
+other games.
+[NEWPAGE]
+In Final Fantasy Tactics, for
+example, Cloud ends up in
+Ivalice after being swallowed
+by the lifestream.
+--------------------
+[SPACE_01]
+[CENTER]Sephiroth
+[CENTER]FINAL FANTASY VII
+[NEWPAGE]
+A former member of SOLDIER
+who was, at one time,
+celebrated as a great hero.
+[NEWPAGE]
+In truth, however, Sephiroth is
+a test subject for a terrifying
+science project.
+[NEWPAGE]
+It's revealed that Sephiroth is
+an artificially created human
+injected with the cells of an
+alien life form called Jenova.
+[NEWPAGE]
+Sephiroth's ultimate goal is to
+merge with the planet's
+lifestream and become a god.
+[NEWPAGE]
+He attempts to accomplish this
+by summoning a massive
+meteor to strike a lethal blow
+to the planet itself.
+--------------------
+Turn the painting canvases
+gray?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+Turn the painting canvases
+blue?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+There's a book here. It seems
+to have information about this
+room.
+[NEWPAGE]
+[CHOICE] What is this room?
+[CHOICE] The paintings look weird!
+[CHOICE] EXIT
+--------------------
+You can decorate this room
+with paintings from various
+Final Fantasy games.
+[NEWPAGE]
+To unlock paintings, defeat an
+enemy in the Final Fantasy VI
+T-Edition EX patch.
+[NEWPAGE]
+Return to this room afterward
+to see relevant new art on the
+walls!
+--------------------
+If the paintings aren't
+displaying properly, try
+inspecting the suits of armor
+near this room's entrance.
+[NEWPAGE]
+If you then leave the room and
+return, the paintings should
+display properly again.
+[NEWPAGE]
+Alternatively, you can check the
+suits of armor a second time.
+Doing this should fix the
+painting display problem.
+--------------------
+A blank canvas hangs here.
+--------------------
+…… [LONGPAUSE]…… [LONGPAUSE]
+The blank canvas now displays
+an artistic image that was
+buried deep inside your mind.
+--------------------
+What you see here is a blank
+canvas. It can display images
+you carry deep inside you.
+[NEWPAGE]
+So, what inner image would you
+like to transform into art?
+--------------------
+[CHOICE] Stoic Board
+[CHOICE] Guardian Board
+[CHOICE] Wizardess Board
+[CHOICE] EXIT
+--------------------
+[CHOICE] Stoic Board
+[CHOICE] Guardian Board
+[CHOICE] Wizardess Board
+[CHOICE] NEXT
+--------------------
+[CHOICE] Crystal Board
+[CHOICE] Duelist Board
+[CHOICE] Empress Board
+[CHOICE] EXIT
+--------------------
+[CHOICE] Crystal Board
+[CHOICE] Duelist Board
+[CHOICE] Empress Board
+[CHOICE] NEXT
+--------------------
+[CHOICE] Dancer Board
+[CHOICE] Princess Board
+[CHOICE] Sproutling Board
+[CHOICE] EXIT
+--------------------
+What you see here is a blank
+canvas. It can display images
+you carry deep inside you.
+[NEWPAGE]
+But it seems you currently lack
+any inner images to display
+here.
+--------------------
+[SPACE_01]
+[CENTER]Ayame
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Ayame is the fourth-ranked
+member of the Mythril
+Musketeers, an elite guard that
+serves the Bastokan president.
+[NEWPAGE]
+In Norg, Ayame undergoes
+training as a Samurai and
+eventually becomes the
+youngest Musketeer ever.
+[NEWPAGE]
+Ayame's strict sense of
+self-discipline is reflected in
+the words, "The katana exists
+to remain sheathed."
+--------------------
+[SPACE_01]
+[CENTER]Curilla V Mecru
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Curilla is the leader of the San
+d'Orian Temple Knights.
+[NEWPAGE]
+She is considered the finest
+swordsmaster in the kingdom,
+and is highly respected by her
+fellow knights.
+[NEWPAGE]
+Curilla injured her left eye
+while sparring with Prince
+Trion during a previous Sword
+Tournament.
+[NEWPAGE]
+However, she keeps this fact
+hidden from those around her.
+--------------------
+[SPACE_01]
+[CENTER]Shantotto
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Shantotto is one of the Three
+Professors of the Federation of
+Windurst.
+[NEWPAGE]
+As a former minister of the
+Orastery, she whips
+Ajido-Marujido into shape to
+become the current minister.
+[NEWPAGE]
+Or, as Hiwon-Biwon of Magic
+Paradise Weekly describes
+Shantotto by saying:
+[NEWPAGE]
+"(She is) as high-and-mighty as
+[SPACE_07]Yutungah's fiery mountain, and
+[SPACE_07]as rough-cut as the rocky
+[SPACE_07]Gustaberg Ranges-wanges."
+--------------------
+[SPACE_01]
+[CENTER]Lion
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Lion is a hume female from
+Norg who investigates the
+activities of the beastmen and
+Shadow Kindred.
+[NEWPAGE]
+She possesses a strong will and
+a cheerful personality.
+[NEWPAGE]
+Together with Aldo of the
+Tenshodo, the Dark Knight Zeid,
+and the Adventurer, Lion
+eventually face off…
+[NEWPAGE]
+…with a great evil that has
+operated from the shadows for
+10,000 years.
+--------------------
+[SPACE_01]
+[CENTER]Prishe
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Prishe is an elven girl who lives
+in the Tavnazian Safehold and
+studies theology.
+[NEWPAGE]
+For certain dogmatic reasons,
+she was previously locked away
+in Tavnazia Cathedral as "the
+abhorrent one".
+[NEWPAGE]
+For a time, Prishe defended the
+citizens as one of the
+Safehold's patrol leaders.
+[NEWPAGE]
+After meeting the Adventurer,
+she eventually gets caught up
+in the conflict surrounding the
+Keeper of the Apocalypse.
+--------------------
+[SPACE_01]
+[CENTER]Aphmau
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Aphmau, AKA the Royal
+Puppeteer, is a pure-hearted
+Puppetmaster who serves
+Empress Nashmeira II.
+[NEWPAGE]
+She is accompanied by her
+Automaton friends, Mnejing
+and Ovjang.
+[NEWPAGE]
+In truth, Aphmau is none other
+than Nashmeira herself - the
+16th Empress of Aht Urhgan's
+Majaab Dynasty.
+[NEWPAGE]
+However, the actual reins of
+government lie in the hands of
+her vizier and older brother,
+Razfahd.
+[NEWPAGE]
+While pursuing the Astral
+Candescence and a pirate ship,
+Aphmau learns the truth about
+the Empire.
+[NEWPAGE]
+Together with the Adventurer
+and the Pirate Luzaf, Aphmau
+sets out to prevent a Ragnarok
+war from occurring.
+--------------------
+[SPACE_01]
+[CENTER]Lilisette
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Lilisette is an elegant Dancer
+and member of Troupe
+Mayakov, a highly regarded
+dance group in Past Vana'diel.
+[NEWPAGE]
+As a particularly popular
+Dancer, she's commonly
+referred to as the "Moonshade
+Butterfly".
+[NEWPAGE]
+Lilisette hopes to save her
+father by going back in time.
+[NEWPAGE]
+Thus, just like the Adventurer,
+she has actually traveled
+twenty years into the past.
+[NEWPAGE]
+At first, she pursues Cait Sith, a
+mysterious being that might
+hold the secrets of Past
+Vana'diel.
+[NEWPAGE]
+Eventually, however, she and
+the Adventurer are caught up in
+a battle surrounding the Light
+Future and the Dark Future.
+--------------------
+[SPACE_01]
+[CENTER]Arciela V Adoulin
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+Arciela is the younger sister of
+Ygnas, the Grand Chancellor of
+the Sacred City of Adoulin.
+[NEWPAGE]
+In front of others, Arciela
+carries the air of neatness,
+modesty and elegance.
+[NEWPAGE]
+Her hidden, take-charge spirit,
+however, leads her to act on
+her own, including investigating
+a forbidden forest.
+[NEWPAGE]
+As a direct descendent of the
+first king, Arciela belongs to
+one of the Twelve Orders.
+[NEWPAGE]
+Even so, the people respect her
+and call her "Princess" anyway.
+[NEWPAGE]
+After the Adventurer arrives
+from the Middle Lands, Arciela
+eventually pursues the mystery
+of the Ulbukan continent.
+--------------------
+[SPACE_01]
+[CENTER]Mandragora
+[CENTER]FINAL FANTASY XI
+[NEWPAGE]
+A mobile, sentient plant
+commonly found in the
+Sarutabaruta region.
+[NEWPAGE]
+Between their clothing, habitat,
+and non-verbal form of
+communication, Mandragoran
+civilization is wholly unique.
+[NEWPAGE]
+Mandragoras could be
+considered a mascot of Final
+Fantasy XI, but they sometimes
+appear in other games too.
+[NEWPAGE]
+Such releases include Final
+Fantasy XII, the Chocobo's
+Dungeon series, and the Dissidia
+Final Fantasy series.
+--------------------
+[SPACE_01]
+[CENTER]Found Naughty Book!
+--------------------
+[TERRA]: … … [LONGPAUSE]
+Do all men like this sort of
+thing, I wonder?
+[NEWPAGE]
+[TERRA]: … … [LONGPAUSE]
+I think I'll just put it back
+where I found it.
+--------------------
+[LOCKE]: So… huge…
+[NEWPAGE]
+[LOCKE]: … … [LONGPAUSE]
+Whoops, I better put it back.
+Wouldn't want [CELES] to
+see me with this.
+--------------------
+[CYAN]: ! [LONGPAUSE]
+S-s-such debauchery!
+Such lewdness!
+[NEWPAGE]
+[CYAN]: My goodness!
+This book is nothing like the
+one I used to own…
+[NEWPAGE]
+[CYAN]: Back to the
+bookcase with thee, foul tome!
+--------------------
+[SHADOW]: … … [LONGPAUSE]
+Guess I should put it back…
+--------------------
+[EDGAR]: Oh-ho… [LONGPAUSE]
+Personally, I prefer a slightly
+more slender look.
+[NEWPAGE]
+[EDGAR]: Who knows what
+the girls will say if they spot
+me with this. I guess I'll put it
+back.
+--------------------
+[SABIN]: Whoa… [LONGPAUSE]I bet
+[EDGAR] would love this.
+[NEWPAGE]
+[SABIN]: But I should
+probably put it back for now.
+--------------------
+[CELES]: !! [LONGPAUSE]
+Wh-[WAIT_01]wh-what in the world is
+this!?
+[NEWPAGE]
+[CELES]: Huh. [LONGPAUSE]That's
+surprising. These girls have
+nothing on me.
+[NEWPAGE]
+…Wait. This isn't the time for
+this. I'll just put it back where
+I found it.
+--------------------
+[STRAGO]: Hrmm!? This is
+unacceptable! I can't let
+[RELM] see this filth…!
+[NEWPAGE]
+[STRAGO]: I should put it as
+high on the bookshelf as I can!
+--------------------
+[RELM]: Aww. [LONGPAUSE]There's a
+neat-looking book up there, but
+I can't reach it!
+--------------------
+[SETZER]: Whoa, is this what
+I think it is?
+[NEWPAGE]
+[SETZER]: Darill will skin
+me alive if she sees me with
+this.
+[NEWPAGE]
+I better put it back and scram.
+--------------------
+[MOG]: Hmm. [LONGPAUSE]What is this
+book, kupo?
+[NEWPAGE]
+[MOG]: For some reason,
+I don't think Molulu would like
+it if she found me with this
+book…
+--------------------
+[GAU]: Uwaoo… [LONGPAUSE]
+Too high up. [GAU] can't
+reach…
+--------------------
+[GOGO]: …! [LONGPAUSE]
+Perhaps I could try to mimic
+this…?
+[NEWPAGE]
+[GOGO]: No, that would be
+ridiculous. I should put this
+back.
+--------------------
+[UMARO]: ??? [LONGPAUSE]
+No understand, oo…
+--------------------
+There's a contraption on the
+wall. Try pulling it?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+The door is sealed shut…
+--------------------
+Hummingway: Want to hear
+music not in the Music Player?
+[CHOICE] Yes!
+[CHOICE] No!
+--------------------
+[CHOICE] Listen to fanfares
+[CHOICE] Listen to inn jingles
+[CHOICE] EXIT
+--------------------
+[CHOICE] FF1    [SPACE_03][CHOICE] FF3
+[CHOICE] FF4   [SPACE_04][CHOICE] FF5
+[CHOICE] FF6    [CHOICE] FF7
+[CHOICE] FF8    [CHOICE] NEXT
+--------------------
+[CHOICE] FF9    [CHOICE] FF10
+[CHOICE] FF13   [CHOICE] MQ
+[CHOICE] CT     [SPACE_01][CHOICE] SAGA2
+[CHOICE] RS1    [SPACE_02][CHOICE] NEXT
+--------------------
+[CHOICE] RS2   [SPACE_04][CHOICE] RS3
+[CHOICE] SF1    [SPACE_03][CHOICE] SF2
+[CHOICE] RUD   [SPACE_03][CHOICE] EST2
+[CHOICE] SD2   [SPACE_04][CHOICE] NEXT
+--------------------
+[SPACE_01]
+[CENTER]OUT OF ORDER!
+[CENTER]PLEASE TRY AGAIN LATER!
+--------------------
+[CHOICE] FF2    [CHOICE] FF3
+[CHOICE] FF4   [SPACE_04][CHOICE] FF5
+[CHOICE] FF6    [CHOICE] FF7
+[CHOICE] FF9    [CHOICE] NEXT
+--------------------
+[CHOICE] FF10         [SPACE_02][CHOICE] RS3
+[CHOICE] FF-4HoL   [SPACE_04][CHOICE] EXIT
+--------------------
+[CHOICE] SD3   [SPACE_04][CHOICE] EXIT
+--------------------
+Ahead is the Achievement
+Room. Here, you can see what
+you've accomplished on your
+adventure in various ways.
+--------------------
+Ahead is the Collection Room.
+For details, please consult the
+experts inside.
+--------------------
+The door is sealed shut…
+--------------------
+Oh, hello there.
+[CHOICE] Any jobs available?
+[CHOICE] Let's chat a bit
+--------------------
+Here are all the available jobs
+at the moment.
+[NEWPAGE]
+[CHOICE] Super Doctor D
+[CHOICE] EXIT
+--------------------
+Know that really tall building in
+town? A doctor lives there,
+believe it or not. He seems to
+need help with something.
+[NEWPAGE]
+You should pay him a visit. I bet
+it'll be a hoot! [LONGPAUSE]Maybe.
+--------------------
+The doc's in the tallest building
+in town.
+--------------------
+Visitors on such a fine, clear
+day! What a rare surprise,
+indeed!
+--------------------
+You're looking for a doctor?
+Ha, get real! Ain't no doctors
+here! Now scram!
+[NEWPAGE]
+"Wait, if he's lying, then…"
+"Dadaluma is the doctor!?"
+"Urgh, this is so confusing…"
+[NEWPAGE]
+There are as many doctors in
+Zozo as there are thieves in a
+slum.
+[NEWPAGE]
+Everyone here is a doctor, in
+fact. Everyone except me.
+[NEWPAGE]
+Also, no one ever gets hurt or
+sick here, so the doctor
+business is as good as dead!
+[NEWPAGE]
+And since there are no clients
+at all, I have zero motivation to
+test my new medical
+treatments.
+[NEWPAGE]
+"So, what you're saying is…"
+"You're so busy with patients…"
+"That you need someone to help
+[SPACE_07]test your new treatments?"
+[NEWPAGE]
+Oh, and just so you know, you
+won't get anything in return if
+you agree to be test subjects. [LONGPAUSE]
+So take my advice and get lost!
+[NEWPAGE]
+Accept Dadaluma's request?
+[CHOICE] Accept request
+[CHOICE] EXIT
+--------------------
+First, let's try something
+non-poisonous. Go get a
+status ailment. Any ailment
+will do, except for poison.
+--------------------
+You're not about to agree to
+test my new treatment, I
+hope? That'd be stupid!
+[NEWPAGE]
+Accept Dadaluma's request?
+[CHOICE] Accept request
+[CHOICE] EXIT
+--------------------
+Ah, you have a non-poison
+status ailment. Excellent.
+Then I'll try out this spell I just
+learned.
+--------------------
+Basuna!
+--------------------
+Hmm. That didn't work at all.
+This isn't compensation, so
+don't come back anymore.
+--------------------
+[SPACE_01]
+[CENTER]Obtained 10 Cure-Alls!
+--------------------
+Next, let's try treating ailments
+that make the body soft.
+Go get a soft, squishy body,
+then come see me again.
+--------------------
+Okay, let's get started.
+I have a new spell this time,
+too.
+--------------------
+Stona!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Katyusha!
+--------------------
+Next, let's try treating ailments
+that help your eyes. Go get
+really good eyesight and then
+come see me again.
+--------------------
+I'm all set here. I sure hope my
+treatment works this time…
+--------------------
+Blindna!
+--------------------
+[SPACE_01]
+[CENTER]Obtained Barrette!
+--------------------
+Okay, this is the last one. It's a
+lot simpler than the other ones,
+too.
+[NEWPAGE]
+Get nice and lively. The more
+liveliness, the better. And
+definitely don't have green
+skin.
+--------------------
+Oh, you make quite the zombie!
+Once I cure this, my work will
+be complete. Here goes!
+--------------------
+Cursna!
+--------------------
+Nice. Every treatment was a
+failure. Thanks for nothing.
+[NEWPAGE]
+This isn't your reward.
+Also, you can stop coming back.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Ribbon!
+--------------------
+I know it's a nice, sunny day
+out and all, but there's nothing
+I can do for you.
+--------------------
+There's nothing I can do for
+you.
+--------------------
+Lone Wolf: Hmm? Haven't I seen
+you somewhere before? [LONGPAUSE]
+Oh, well. There's nothin' left in
+this town anyways.
+[NEWPAGE]
+Wait… [LONGPAUSE]That ain't entirely true. [LONGPAUSE]
+Most of the houses are locked
+'n all, so maybe there IS some
+stuff left.
+[NEWPAGE]
+But only a treasure hunter'd be
+able to unlock 'em, I bet…
+--------------------
+Strange words are written on
+the gravestone…
+[NEWPAGE]
+
+[CENTER]TELO MET EK ESS
+[NEWPAGE]
+Touching the words in the
+proper order might cause
+something to happen.
+[NEWPAGE]
+Try touching the words?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+[SPACE_01]
+[CENTER]Armwear of Myths:
+[CENTER]Champion's Bracer
+[NEWPAGE]
+Visitors, after so long…
+Prove your dominance to me!
+--------------------
+[SPACE_01]
+[CENTER]Vestment of Angels:
+[CENTER]Lord Robe
+[NEWPAGE]
+Fell me in battle, and I shall be
+yours!
+--------------------
+[SPACE_01]
+[CENTER]Helmet of Kings:
+[CENTER]Grand Helm
+[NEWPAGE]
+Surpass my strength and I shall
+grant you my blessing!
+--------------------
+[SPACE_01]
+[CENTER]Armor of Champions:
+[CENTER]Maximillian
+[NEWPAGE]
+Humans. Have you the mettle to
+endure my might!?
+--------------------
+I've heard there's a forbidden
+area somewhere under Lady
+Ultima's tower.
+[NEWPAGE]
+They say it houses equipment
+so powerful that it had to be
+sealed away.
+--------------------
+Shall I magically warp you back
+to the Lost Path's entrance?
+[CHOICE] Yes, please!
+[CHOICE] No, thank you
+--------------------
+Very well. I do hope you'll
+come and see us again
+sometime.
+--------------------
+[SPACE_01]
+[CENTER]Obtained Floral Fallal!
+--------------------
+There's a music box here.
+--------------------
+[RELM]: ?? [LONGPAUSE]
+What is this thing?
+--------------------
+[STRAGO]: Oh, that's… [LONGPAUSE]
+Hrmm. I suppose the time has
+finally come…
+[NEWPAGE]
+[RELM]: ?? [LONGPAUSE]What do you
+mean?
+[NEWPAGE]
+[STRAGO]: Well, you see,
+[RELM]. This is actually your
+mother's music box.
+[NEWPAGE]
+[RELM]: It's Mommy's…?
+[NEWPAGE]
+[STRAGO]: Yes. She asked me
+to give it to you when you got
+older.
+[NEWPAGE]
+[RELM]: … … [LONGPAUSE]
+Can I open it?
+--------------------
+[STRAGO]: !! [LONGPAUSE]
+What's going on!?
+What's wrong!?
+--------------------
+Clyde: … Baram… [LONGPAUSE]
+Forgive… me…
+--------------------
+Wife: You're having another
+nightmare, dear…
+--------------------
+Clyde: … [LONGPAUSE]I'm… [LONGPAUSE]sorr… y…
+--------------------
+Wife: Do you really have to go?
+There's no other way?
+--------------------
+Clyde: … [LONGPAUSE]
+I can't stay here. I can't let the
+ghosts of my old life hurt you
+or our daughter.
+--------------------
+Wife: … I don't know what you
+did in the past. But [RELM]
+and I will always be there for
+you.
+[NEWPAGE]
+Never forget that. That's all I
+ask.
+--------------------
+Clyde: … [LONGPAUSE]
+Yeah. You've done so much for
+me. Thank you.
+--------------------
+Wife: I haven't much time
+left… [LONGPAUSE]
+[NEWPAGE]
+Wife: [STRAGO]. Lara.
+Please take good care of
+[RELM] for me after I'm
+gone.
+[NEWPAGE]
+[STRAGO]: Don't be
+ridiculous! Stay strong and
+pull yourself together!
+[NEWPAGE]
+Lara: I agree! Quit feeling
+sorry for yourself and get it
+together! Unless you want a
+taste of my Geomancy!
+[NEWPAGE]
+Wife: Heh… No, thanks. [LONGPAUSE]
+I wouldn't last one second
+against your magic.
+[NEWPAGE]
+[STRAGO]: Now listen here.
+Quit worrying. Just focus on
+getting back on your feet.
+[NEWPAGE]
+Wife: Auntie… [LONGPAUSE]
+Uncle… [LONGPAUSE]Thank you.
+--------------------
+Wife: … [LONGPAUSE][RELM]. [LONGPAUSE]
+Please forgive me for leaving
+you so soon.
+[NEWPAGE]
+I'll instill this music box with
+my magic. When the time is
+right and you're a little older,
+I hope you'll open it.
+[NEWPAGE]
+… … [LONGPAUSE]
+I love you, [LONGPAUSE][RELM]. [LONGPAUSE]
+From the very bottom of my
+heart.
+--------------------
+[RELM]: Where did… [LONGPAUSE]
+Where did Daddy go?
+[NEWPAGE]
+[RELM]: Why are my
+mommy and daddy gone…?
+--------------------
+[RELM]: … … [LONGPAUSE]Grandpa.
+[NEWPAGE]
+[STRAGO]: Oh, thank goodness!
+I was so worried! You opened
+the box, and then fainted all of
+a sudden!
+[NEWPAGE]
+[RELM]: I had a dream
+about Mommy. In the dream,
+I was still a baby.
+[NEWPAGE]
+[STRAGO]: … … [LONGPAUSE]It must've
+been her magic. Your mother
+cast a spell on this magic box
+long ago.
+[NEWPAGE]
+[RELM]: Mommy… [LONGPAUSE]
+Thank you.
+--------------------
+[RELM]: Huh? There's
+something inside the music
+box…
+--------------------
+[SPACE_01]
+[CENTER]Obtained Memento Ring!
+--------------------
+There's a music box here.
+Wind it up?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+[TERRA]: Urngh…
+I have no memory of that…
+Or anything else from my
+past…
+--------------------
+[EDGAR]'s twin brother,
+who traded the throne
+for his own freedom…
+--------------------
+[TERRA]: …
+[NEWPAGE]
+Banon: Your power is a gift, not
+a curse. No matter what
+happens, you must remember
+that.
+[NEWPAGE]
+You are this world's last ray of
+light… our final hope.
+--------------------
+A Magitek knight forged by the
+Empire and tempered in battle.
+No one truly knows the woman
+beneath the general's guise…
+--------------------
+[CYAN]: If we can but fell
+their commander, they should
+break rank and withdraw.
+--------------------
+[CYAN]: We must warn the
+king!
+--------------------
+Doman Sentry: To the king, with
+all haste!
+--------------------
+[CYAN]: That is not true!
+King: I worry for your family… [LONGPAUSE]
+Unngh… [LONGPAUSE]Difficult to breathe… [LONGPAUSE]
+Chest burning…
+[NEWPAGE]
+[CYAN]: Please save your
+strength! You mustn't speak!
+[NEWPAGE]
+King: Go to your family… [LONGPAUSE]
+Grgk… [LONGPAUSE]Kgghh… [LONGPAUSE]
+………
+[NEWPAGE]
+[CYAN]: Your Excellency!
+--------------------
+[CYAN]: Your Excellency!
+[NEWPAGE]
+King: Who's there…?
+--------------------
+A youth draped in monster
+hides, his eyes shining with a
+warm and gentle light…
+--------------------
+[SABIN]: [EDGAR]!
+--------------------
+All Imperial troops will be
+withdrawn from Doma
+immediately.
+--------------------
+An elderly gentleman who has
+spent his whole life pursuing
+the secrets of monsters…
+--------------------
+In her pictures, she captures
+everything: forests, water,
+light… the very essence
+of the things she paints…
+--------------------
+"The Floating Continent!?"
+"It's in the air again after all
+[SPACE_07]this time!?"
+--------------------
+I'm Mr. Clio. I know everything
+about your adventure!
+[NEWPAGE]
+Want to hear what I know?
+[CHOICE] Yes
+[CHOICE] No
+--------------------
+Who do you want to hear
+about?
+[NEWPAGE]
+[CHOICE] [LOCKE]
+[CHOICE] [SHADOW]
+[CHOICE] [CELES]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [RELM]
+[CHOICE] [SETZER]
+[CHOICE] [GOGO]
+[CHOICE] NEXT
+--------------------
+[CHOICE] [UMARO]
+[CHOICE] EXIT
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Steal around 100 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Steal around 200 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Steal around 300 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Steal around 400 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Steal around 500 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You haven't had much success
+with the Steal command yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Twin Fangs around 50 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Twin Fangs around 100 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Twin Fangs around 150 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Twin Fangs around 200 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Twin Fangs around 250 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You haven't had much success
+with Twin Fangs yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Runic around 100 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Runic around 200 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Runic around 300 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Runic around 400 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Runic around 500 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You haven't had much success
+with the Runic command yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Sketch around 100 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Sketch around 200 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Sketch around 300 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Sketch around 400 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've successfully performed
+Sketch around 500 times.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You haven't had much success
+with the Sketch command yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Slots command
+around 100 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Slots command
+around 200 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Slots command
+around 300 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Slots command
+around 400 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Slots command
+around 500 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+It seems you haven't used the
+Slots command very much yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Mimic command
+around 100 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Mimic command
+around 200 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Mimic command
+around 300 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Mimic command
+around 400 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Mimic command
+around 500 times so far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+It seems you haven't used the
+Mimic command very much yet.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Ice Storm
+command around 100 times so
+far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Ice Storm
+command around 200 times so
+far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Ice Storm
+command around 300 times so
+far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Ice Storm
+command around 400 times so
+far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+You've used the Ice Storm
+command around 500 times so
+far.
+--------------------
+Mhmm… I see… [LONGPAUSE]
+It seems you haven't used the
+Ice Storm command very much
+yet.
+--------------------
+[CHOICE] About the Floating Continent
+[CHOICE] About Narshe's surroundings
+[CHOICE] Never mind
+--------------------
+Banon: When the world was
+torn apart, the Floating
+Continent fell from the sky.
+[NEWPAGE]
+Yet, there are new reports
+that the continent has taken to
+the sky again. I can only
+assume it's Kefka's doing.
+[NEWPAGE]
+Banon: There have also been
+rumors of a mysterious tower
+that suddenly appeared north
+of the Veldt.
+[NEWPAGE]
+I wonder if the two events are
+connected…
+--------------------
+Banon: There's an old man who
+lives north of Narshe, near the
+sea. It sounds like he's a hermit
+who lives in seclusion.
+[NEWPAGE]
+Even so, maybe you should visit
+him if you get the chance.
+--------------------
+[SPACE_01]
+[CENTER]Zero
+[CENTER]FINAL FANTASY TYPE-0
+--------------------
+[SPACE_01]
+[CENTER]The Crystal Tower
+[CENTER]FINAL FANTASY III
+--------------------
+[SPACE_01]
+[CENTER]You Will Know Our Names
+[CENTER]XENOBLADE
+--------------------
+[SPACE_01]
+[CENTER]Agniratha (Night)
+[CENTER]XENOBLADE
+--------------------
+[CENTER]Final Fantasy
+[CENTER]~Christmas Arrangement~
+[CENTER]ARRANGED BY: KENJI ITO
+--------------------

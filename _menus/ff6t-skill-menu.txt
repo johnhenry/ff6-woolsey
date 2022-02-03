@@ -1,0 +1,17 @@
+﻿0362A0|[CD][78]Espers 
+0362A8|[4D][79]Magic  
+0362AE|[4D][7A]Bushido
+0362B7|[CD][7A]Blitz  
+0362C0|[4D][7B]BlueMag
+0362C9|[CD][7B]Rage   
+0362D0|[4D][7C]Dance  
+036309|[73][81]Espers  
+03631B|[73][81]Bushido 
+036312|[73][81]Blitz   
+0362EE|[73][81]Blue Mag.
+0362F7|[73][81]Rage 
+036300|[73][81]Dance    
+0362E5|[B3][81]Cost[C7]    
+0329BB|[CD][40]                            
+03634C|[69][44]Rate  Mastery
+035EE2|[CD][79]MP Cost

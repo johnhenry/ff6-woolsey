@@ -1,0 +1,255 @@
+{Full Strength}
+{Fire}
+{Fira}
+{Leaf Dance}
+{Dragon Blade}
+{Holy}
+{Smash}
+{Tiger Blade}
+{Petrifying Beak}
+{Cura}
+{Thundaga}
+{Berserk}
+{Level 4 Hold}
+{Ancient Prayer}
+{Gravity}
+{Phantom Fire}
+{X-Zone}
+{Break}
+{Forest Bath}
+{Poison}
+{Jugular Scratch}
+{10,000 Volts}
+{Southern Cross}
+{Incisor}
+{Kitty Kick}
+{Tusk}
+{Bite}
+{Blizzard}
+{Pounce}
+{Blizzaga}
+{Nut Throw}
+{Aqua Breath}
+{Knockdown}
+{Step Damage}
+{Fireball}
+{Sandstorm}
+{Goblin Punch}
+{Southern Cross}
+{Mighty Guard}
+{Galaxy}
+{Iron Claw}
+{Bone Powder}
+{Confuse}
+{Holy}
+{Tentacle}
+{Level 3 Flare}
+{Iron Sting}
+{Berserk}
+{Bio}
+{Metal Cutter}
+{1000 Needles}
+{Lullaby}
+{Magnitude 8}
+{Drain}
+{Poison Needle}
+{Fatality Claw}
+{Ink}
+{Kick}
+{Aqua Breath}
+{Slowga}
+{Break}
+{Quake}
+{Sandstorm}
+{Silver Lance}
+{Goblin Rush}
+{Toad}
+{Magitek Laser}
+{Magitek Laser}
+{Shamshir}
+{Mustard Bomb}
+{Blood Suck}
+{Sap Liquid}
+{Life Shaver}
+{Slime}
+{1000 Needles}
+{Needle Launch}
+{1000 Needles}
+{Breakga}
+{Haste}
+{Small Explosion}
+{Phantom Fire}
+{Comet}
+{Blizzara}
+{Magnitude 8}
+{All-Grudge}
+{Curaga}
+{Tornado}
+{Freakquency}
+{Cure}
+{Soul Eater}
+{Thundara}
+{Step Damage}
+{Tail Strike}
+{Numb Needle}
+{Elven Dart}
+{Shadow Flare}
+{Blizzara}
+{Bad Breath}
+{Digestive Fluid}
+{Bio}
+{Wind Razor}
+{Swing}
+{Slow}
+{Wind Razor}
+{Death Sentence}
+{White Wind}
+{Holy}
+{Thundara}
+{Phoenix Dance}
+{Thundaga}
+{Toad}
+{Death}
+{Scourge}
+{Pounce}
+{White Wind}
+{Filthy Incisor}
+{Cave-In}
+{Mighty Hit}
+{Raise}
+{Kitty Punch}
+{Drain}
+{Throat Attack}
+{Gore}
+{Tackle}
+{Firaga}
+{Flare}
+{Avalanche}
+{Drain}
+{White Wind}
+{Leaf Dance}
+{Death Sentence}
+{Revenge Blast}
+{Firaga}
+{Death}
+{Death Claw}
+{Aeroga}
+{Level 2 Holy}
+{Thundaga}
+{Poison}
+{Magic Hammer}
+{Sleep Needle}
+{Berserk}
+{Mind Blast}
+{Metal Cutter}
+{Night}
+{Poison Mist}
+{Quake}
+{Quake}
+{Triangle Kick}
+{Mega-Berserk}
+{Shell Tackle}
+{Flood}
+{Frog Song}
+{Break}
+{Quake}
+{Magnitude 8}
+{Flash Rain}
+{Magitek Missile}
+{Step Damage}
+{Magitek Laser}
+{Plasma}
+{Scatter Laser}
+{Blood Suck}
+{Comet}
+{Life Shaver}
+{Aqua Breath}
+{1000 Needles}
+{Break}
+{Teeth Shredder}
+{Toad}
+{Fireball}
+{Death Sentence}
+{Revenge Blast}
+{Rasp}
+{Magnitude 8}
+{Sunbath}
+{Scratch}
+{Banisher}
+{Mighty Guard}
+{Poison}
+{Raccoon}
+{Blizzaga}
+{Fira}
+{Scourge}
+{Acid Rain}
+{Magnitude 8}
+{Outcast Sword}
+{Meerkat}
+{1000 Needles}
+{Flare}
+{Confuse}
+{Flash Rain}
+{Drain}
+{Shockwave}
+{Protect}
+{Cura}
+{Shamshir}
+{Phantom Fire}
+{1,000,000 Volts}
+{Reflect}
+{Scourge}
+{Soft Tail}
+{Shamshir}
+{Gravity}
+{Mind Blast}
+{Toad}
+{Blizzard}
+{Zombie Kiss}
+{Beetlejuice}
+{Libra}
+{Wind Razor}
+{Grrrrrr}
+{Rockslide}
+{Ice Storm}
+{Backstab}
+{Crystal Lance}
+{Aeroga}
+{Scatter Laser}
+{Bio}
+{Gunk}
+{Thundaga}
+{Thundaga}
+{Self Destruct}
+{Blaster}
+{Meteo}
+{Poison}
+{Blizzaga}
+{Absolute Zero}
+{El Ni[74]o}
+{Fira}
+{Snuggle Up}
+{Bad Breath}
+{Stop}
+{Snow Bunny}
+{Confuser}
+{Poison}
+{Wind Razor}
+{Magic Hammer}
+{Melty Kiss}
+{Malboro Germs}
+{Slowga}
+{Death}
+{Revenge Blast}
+{Fireball}
+{Dark Sword}
+{Gouge}
+{Poison Mist}
+{Self Destruct}
+{Hell Bite}
+{Nether Whistle}
+{Blizzaga}
+{Thunder Call}
+{Level ? Death}
+{Freakquency}
+{Flare Star}
